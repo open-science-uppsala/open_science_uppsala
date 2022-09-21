@@ -1,5 +1,9 @@
 # Open Science Uppsala
 
+![Open Science Logo](Openscience_240x240.png)
+
+> The Open Science logo, from [Wikimedia](https://commons.wikimedia.org/wiki/File:Openscience.svg)
+
 Website for people that want to know/do more about/in Open Science in Uppsala.
 
 At the moment, the community is small. 
