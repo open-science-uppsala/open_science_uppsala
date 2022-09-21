@@ -109,6 +109,10 @@ To connect people that are interesting in learning more about Open Science.
  * Finances: Richel
  * Maintaining this website: Richel
 
+#### Who are the team members?
+
+ * Richel: [OSF](https://osf.io/5dtem/) [ORCID](https://orcid.org/0000-0003-1107-7049) [GitHub](https://github.com/richelbilderbeek) [Twitter](https://twitter.com/rjcbilderbeek)
+
 #### I want to help organize! Am I welcome?
 
 Yes, everyone is welcome.
