@@ -42,10 +42,22 @@ This means:
  * Open Data: everyone should be able to re-use scientific data used in
    experiments, with some limitations on privacy-sensitive data
  * Open Code: everyone should be able to re-do, criticise and re-use scientific analyses
- * Pre-registration: scientists should be open about their initial hypotheses
+ * Open Hardware: everyone should be able to run a computational analysis
+   on hardware accessible by  * Pre-registration: scientists should be open about their initial hypotheses
    and should not pursuaded to do p-value hacking or HARKing
  * Registered Reports: after reviewing the methods of a scientific experiment,
    its results -including a null finding- should be published
+
+A more extensive picture:
+
+![](Osc2021-unesco-open-science-no-gray.png)
+
+> Redrawn slide from presentation of Ana Persic, 
+> Division of Science Policy and Capacity-Building (SC/PCB), 
+> UNESCO (France) presentation to Open Science Conference 2021, 
+> ZBW — Leibniz Information Centre for Economics, Germany.
+> Caption and image from [Wikipedia](https://en.wikipedia.org/wiki/Open_science#/media/File:Osc2021-unesco-open-science-no-gray.png),
+> image created by [RobbieIanMorrison](https://commons.wikimedia.org/wiki/User:RobbieIanMorrison)
 
 #### Which literature do you recommend?
 
@@ -148,3 +160,5 @@ You can:
  * [Kathawalla et al., 2021] Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. "Easing into open science: A guide for graduate students and their advisors." Collabra: Psychology 7.1 (2021).
 
  * [Milham and Klein, 2019] Milham, Michael P., and Arno Klein. "Be the change you seek in science." BMC biology 17.1 (2019): 1-4.
+   [List of recommended practices](https://matter.childmind.org/open-science.html)
+  
