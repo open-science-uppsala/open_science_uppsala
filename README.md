@@ -19,10 +19,12 @@ These are the Frequently Asked Questions, also called 'FAQ'.
 
 The sections are:
 
- * Open Science Uppsala: about OSU
- * Website: about this website
- * Volunteering: about volunteering at OSU
- * Contact: how to contact us
+Section                                      |Description
+---------------------------------------------|-------------------
+[Open Science Uppsala](#open-science-uppsala)|About us
+[Website](#website)                          |About this website
+[Volunteering](#volunteering)                |Volunteering at OSU
+[Contact](#contact)                          |How to contact us
 
 ### Open Science Uppsala
 
