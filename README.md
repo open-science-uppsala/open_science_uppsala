@@ -15,23 +15,26 @@ Unknown|OSU meeting|Unknown
 
 ## FAQ
 
-### Why did you start this website?
+These are the Frequently Asked Questions, also called 'FAQ'.
 
-As the Open Science community in Uppsala is small.
-At the time this website was created, it was the first website.
+The sections are:
 
-### What is the goal of this website?
+ * Open Science Uppsala: about OSU
+ * Website: about this website
+ * Volunteering: about volunteering at OSU
+ * Contact: how to contact us
 
-To connect people that are interesting in learning more about Open Science.
+### Open Science Uppsala
 
-### What is the goal of Open Science Uppsala?
+#### What is the goal of Open Science Uppsala?
 
  * to teach one another about Open Science (e.g. by reading papers)
  * regularily (e.g. once a month)
  * for everyone (i.e. non-scientists are also welcome)
+ * for free (i.e. everyone can afford to participate)
  * at a public location (i.e. non-scientists can reach the venue)
 
-### What activities are there?
+#### What activities does Open Science Uppsala organize?
 
 Currently none. 
 
@@ -44,7 +47,7 @@ Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
 if you want to organize or participate in activities.
 
-### What other Open Science communities are there in Uppsala?
+#### Which similar communities are there in Uppsala?
 
 As far as [I](https://github.com/richelbilderbeek) know,
 only 'ReproducibiliTea Psychology' exists.
@@ -55,7 +58,54 @@ Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
 to help build it up.
 
-### How do I contact Open Science Uppsala
+### Website
+
+#### Why did you start this website?
+
+As the Open Science community in Uppsala is small.
+At the time this website was created, it was the first website.
+
+#### What is the goal of this website?
+
+To connect people that are interesting in learning more about Open Science.
+
+### Volunteering
+
+#### What is the current structure of Open Science Uppsala?
+
+ * Chairman: Richel
+ * Communication: Richel
+ * Organizing activities: Richel
+ * Finances: Richel
+ * Maintaining this website: Richel
+
+#### I want to help organize! Am I welcome?
+
+Yes, everyone is welcome.
+
+#### I want to help organize! How does the team work?
+
+The volunteers determine what Open Science Uppsala is,
+hence voting is democratic:
+most votes win.
+All votes are equal.
+For bigger change, the chair can request a two-third majority vote.
+
+#### I want to help organize! What can I do?
+
+Awesome!
+
+You can:
+
+ * to see what needs to be done: 
+   visit the [Issues](https://github.com/richelbilderbeek/open_science_uppsala/issues) 
+ * other things: contact [@richelbilderbeek](https://github.com/richelbilderbeek)
+   at `richel@richelbilderbeek.nl` 
+
+
+### Contact
+
+#### How do I contact Open Science Uppsala
 
  * Send an email to [@richelbilderbeek](https://github.com/richelbilderbeek) at `richel@richelbilderbeek.nl`
  * Add a GitHub Issue
