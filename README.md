@@ -50,7 +50,7 @@ This means:
 #### Which literature do you recommend?
 
  * [Search Google Scholar for 'Open Science'](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=open+science&btnG=)
- * For MSc students: [Kathawalla et al., 2021]: 'Easing into open science: A guide for graduate students and their advisors'
+ * See [the references](#references)
 
 ### Open Science Uppsala
 
@@ -146,3 +146,5 @@ You can:
 ## References
 
  * [Kathawalla et al., 2021] Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. "Easing into open science: A guide for graduate students and their advisors." Collabra: Psychology 7.1 (2021).
+
+ * [Milham and Klein, 2019] Milham, Michael P., and Arno Klein. "Be the change you seek in science." BMC biology 17.1 (2019): 1-4.
