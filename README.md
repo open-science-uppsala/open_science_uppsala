@@ -31,10 +31,10 @@ Section                                      |Description
 
 #### What is Open Science?
 
-Open Science is a different thing for different people.
+Open Science is a different thing for different people. A attempt of a definition that could be given: 
 
-A attempt of a definition that could be given: 
-using the scientific method, taking into account that scientists are human.
+> Open Science is using the scientific method, 
+> taking into account that scientists are human.
 
 This means:
 
@@ -47,18 +47,17 @@ This means:
  * Registered Reports: after reviewing the methods of a scientific experiment,
    its results -including a null finding- should be published
 
-At Open Science Uppsala we use the 
-
 #### Which literature do you recommend?
 
  * [Search Google Scholar for 'Open Science'](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=open+science&btnG=)
- * For MSc students: [Kathawalla et al., 2021]
+ * For MSc students: [Kathawalla et al., 2021]: 'Easing into open science: A guide for graduate students and their advisors'
 
 ### Open Science Uppsala
 
 #### What is the goal of Open Science Uppsala?
 
  * to teach one another about Open Science (e.g. by reading papers)
+ * using English as the main language (i.e. most academic papers are English)
  * regularily (e.g. once a month)
  * for everyone (i.e. non-scientists are also welcome)
  * for free (i.e. everyone can afford to participate)
