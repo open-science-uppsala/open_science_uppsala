@@ -21,10 +21,38 @@ The sections are:
 
 Section                                      |Description
 ---------------------------------------------|-------------------
+[Open Science](#open-science)                |About Open Science
 [Open Science Uppsala](#open-science-uppsala)|About us
 [Website](#website)                          |About this website
 [Volunteering](#volunteering)                |Volunteering at OSU
 [Contact](#contact)                          |How to contact us
+
+### Open Science
+
+#### What is Open Science?
+
+Open Science is a different thing for different people.
+
+A attempt of a definition that could be given: 
+using the scientific method, taking into account that scientists are human.
+
+This means:
+
+ * Open Access: everyone should be able to read and criticize scientistic works
+ * Open Data: everyone should be able to re-use scientific data used in
+   experiments, with some limitations on privacy-sensitive data
+ * Open Code: everyone should be able to re-do, criticise and re-use scientific analyses
+ * Pre-registration: scientists should be open about their initial hypotheses
+   and should not pursuaded to do p-value hacking or HARKing
+ * Registered Reports: after reviewing the methods of a scientific experiment,
+   its results -including a null finding- should be published
+
+At Open Science Uppsala we use the 
+
+#### Which literature do you recommend?
+
+ * [Search Google Scholar for 'Open Science'](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=open+science&btnG=)
+ * For MSc students: [Kathawalla et al., 2021]
 
 ### Open Science Uppsala
 
@@ -111,3 +139,7 @@ You can:
 
  * Send an email to [@richelbilderbeek](https://github.com/richelbilderbeek) at `richel@richelbilderbeek.nl`
  * Add a GitHub Issue
+
+## References
+
+ * [Kathawalla et al., 2021] Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. "Easing into open science: A guide for graduate students and their advisors." Collabra: Psychology 7.1 (2021).
