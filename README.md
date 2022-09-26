@@ -13,9 +13,16 @@ at `richel@richelbilderbeek.nl` to help build it up.
 
 ## Activities
 
-When   |What       |Where
--------|-----------|------------
-Unknown|OSU meeting|Unknown
+When                  | Where  |What
+----------------------|--------|----------------
+2023-01-13 16:00-17:00|USB [1] |[Discuss general paper]
+2023-02-10 16:00-17:00|USB [1] |[Speaker 1]
+2023-03-14 16:00-17:00|USB [1] |[Discuss paper]
+2023-04-13 16:00-17:00|USB [1] |[Speaker 2]
+2023-05-12 16:00-17:00|USB [1] |[Discuss paper]
+2023-06-09 16:00-17:00|USB [1] |[Speaker 3]
+
+ * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
 
 ## FAQ
 
@@ -101,7 +108,7 @@ They do not have a website.
 Please add your Open Science community in Uppsala by 
 Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
-to help build it up.
+and I will happily add your Uppsala community here :-)
 
 ### Website
 
