@@ -6,6 +6,14 @@
 
 Website for people that want to know/do more about/in Open Science in Uppsala.
 
+Open Science is the application of the scientific method in the most transparent way possible, resulting in research that is (more likely to be) reproducible.
+
+The scientific method has brought us many great discoveries. However, in more recent years, the Reproducibility Crisis started in the fields of Psychology and Sociology. It turned out that statistical significant findings in highly-cited papers turned out to be irreproducible. It turns out that scientists widely use the many degrees of freedom in their research to get to a significant result with a nice fitting story. Both p-value hacking and HARKing (Hypothesis After Results are Known) are dubious research practices that lead to irreproducible results, yet are commonly accepted practices.
+
+Open Science helps scientists an alternative way to pursue knowledge in a reproducible way. The Registered Report a good illustration of the Open Science thought process: one writes down the research (i.e. the methods and analysis) and let it be reviewed before having collected the data. After passing such a (Stage I) review, a journal agrees to let one do his/her experiment, where the paper will be published regardless of the result.
+
+This group discusses Open Science by means of discussing papers and inviting speakers. As part of Open Science is being 'open to engagement of social actors', these meetings themselves should be public. 
+
 At the moment, the community is small. 
 
 Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
@@ -85,6 +93,7 @@ A more extensive picture:
  * for everyone (i.e. non-scientists are also welcome)
  * for free (i.e. everyone can afford to participate)
  * at a public location (i.e. non-scientists can reach the venue)
+ * in a scholarly way (i.e. we embrace the scientific method in our discussions)
 
 #### What activities does Open Science Uppsala organize?
 
@@ -98,6 +107,21 @@ Expected activities are:
 Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
 if you want to organize or participate in activities.
+
+#### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
+
+Because the meetings are intended to be open to everyone
+that wants to discuss the scientific method in general
+and Open Science in particular.
+
+#### What will not be accepted in discussions?
+
+ * *Ad hominem* reasoning: instead, discuss the content of the argument instead
+ * Conspiracy theories (e.g. 'All scientists are corrupt'): instead,
+   discuss what the academic literature states on scientists' behavior
+ * Anecdotal evidence: instead, refer to scientific studies
+   and/or reviews. Of course, throwing in a personal story is OK, 
+   using it as a irrefutable proof is scholarly no-go.
 
 #### Which similar communities are there in Uppsala?
 
