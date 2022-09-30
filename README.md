@@ -91,6 +91,7 @@ A more extensive picture:
  * using English as the main language (i.e. most academic papers are English)
  * regularily (e.g. once a month)
  * for everyone (i.e. non-scientists are also welcome)
+ * in Uppsala (i.e. in-person meetings)
  * for free (i.e. everyone can afford to participate)
  * at a public location (i.e. non-scientists can reach the venue)
  * in a scholarly way (i.e. we embrace the scientific method in our discussions)
