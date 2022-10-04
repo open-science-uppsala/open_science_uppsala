@@ -126,14 +126,25 @@ and Open Science in particular.
 
 #### Which similar communities are there in Uppsala?
 
-As far as [I](https://github.com/richelbilderbeek) know,
-only 'ReproducibiliTea Psychology' exists.
-They do not have a website.
+ * ReproducibiliTea Psychology: a community that focuses on 
+   the department of Psychology. They do not have a website.
 
 Please add your Open Science community in Uppsala by 
 Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
 and I will happily add your Uppsala community here :-)
+
+#### Which similar communities are there online?
+
+There are many, here I list communities that have members in Uppsala:
+
+ * [FAIRPoints](https://www.fairpoints.org/): an online 
+   event series highlighting pragmatic measures 
+   developed by the community 
+   towards the implementation of the FAIR data principles.
+ * [Open life Science](https://openlifesci.org/): 
+   a program for people interested in applying open principles 
+   in their work and becoming Open Science ambassadors in their communities.
 
 ### Website
 
