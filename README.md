@@ -117,7 +117,10 @@ For those that are Twitter-savy: you are encouraged to volunteer to maintain our
 
 #### How can I follow Open Science Uppsala?
 
-We do not have anything fancy yet: this website is the only thing we have.
+You can follow us if you have a GitHub account: click on 'Watch' at the top-right
+side. Click on 'Custom | Releases only' to be informed of changes in schedule.
+
+Except for that, we do not have anything fancy yet.
 
  * For those that are Twitter-savy: you are encouraged to volunteer to maintain our Twitter account :-)
  * For those that enjoy email lists: you are encouraged to volunteer to setup an email list :-)
