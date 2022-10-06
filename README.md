@@ -109,6 +109,19 @@ Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
 if you want to organize or participate in activities.
 
+#### What is the Twitter of Open Science Uppsala?
+
+We don't have one. 
+
+For those that are Twitter-savy: you are encouraged to volunteer to maintain our Twitter account :-)
+
+#### How can I follow Open Science Uppsala?
+
+We do not have anything fancy yet: this website is the only thing we have.
+
+ * For those that are Twitter-savy: you are encouraged to volunteer to maintain our Twitter account :-)
+ * For those that enjoy email lists: you are encouraged to volunteer to setup an email list :-)
+
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
 Because the meetings are intended to be open to everyone
@@ -138,6 +151,8 @@ and I will happily add your Uppsala community here :-)
 
 There are many, here I list communities that have members in Uppsala:
 
+ * [Open Science Sweden](https://opensciencesweden.org/):
+   the bigger, more online community
  * [FAIRPoints](https://www.fairpoints.org/): an online 
    event series highlighting pragmatic measures 
    developed by the community 
@@ -166,6 +181,7 @@ To connect people that are interesting in learning more about Open Science.
  * Organizing activities: Richel
  * Finances: Richel
  * Maintaining this website: Richel
+ * Twittter account: -
 
 #### Who are the team members?
 
