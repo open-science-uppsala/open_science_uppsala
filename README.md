@@ -4,18 +4,16 @@
 
 > The Open Science logo, from [Wikimedia](https://commons.wikimedia.org/wiki/File:Openscience.svg)
 
-Website for people that want to know/do more about/in Open Science in Uppsala.
+Open Science is the application of the scientific method 
+in the most transparent way possible, 
+such as Open Access papers, Open (and FAIR) Data,
+Open Code, open peer-review, preregistration and registered reports,
+resulting in research that is (more likely to be) reproducible.
 
-Open Science is the application of the scientific method in the most transparent way possible, resulting in research that is (more likely to be) reproducible.
-
-The scientific method has brought us many great discoveries. However, in more recent years, the Reproducibility Crisis started in the fields of Psychology and Sociology. It turned out that statistical significant findings in highly-cited papers turned out to be irreproducible. It turns out that scientists widely use the many degrees of freedom in their research to get to a significant result with a nice fitting story. Both p-value hacking and HARKing (Hypothesis After Results are Known) are dubious research practices that lead to irreproducible results, yet are commonly accepted practices.
-
-Open Science helps scientists an alternative way to pursue knowledge in a reproducible way. The Registered Report a good illustration of the Open Science thought process: one writes down the research (i.e. the methods and analysis) and let it be reviewed before having collected the data. After passing such a (Stage I) review, a journal agrees to let one do his/her experiment, where the paper will be published regardless of the result.
-
-This group discusses Open Science by means of discussing papers and inviting speakers. As part of Open Science is being 'open to engagement of social actors', these meetings themselves should be public. 
+This group discusses the pros and cons of Open Science 
+by means of discussing papers and inviting speakers. 
 
 At the moment, the community is small. 
-
 Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` to help build it up.
 
@@ -25,8 +23,8 @@ When                  | Where  |What
 ----------------------|--------|----------------
 2023-01-13 16:00-17:00|USB [1] |[Discuss general paper]
 2023-02-10 16:00-17:00|USB [1] |[Speaker 1]
-2023-03-1**0** 16:00-17:00|USB [1] |[Discuss paper]
-2023-04-1**4** 16:00-17:00|USB [1] |[Speaker 2]
+2023-03-10 16:00-17:00|USB [1] |[Discuss paper]
+2023-04-14 16:00-17:00|USB [1] |[Speaker 2]
 2023-05-12 16:00-17:00|USB [1] |[Discuss paper]
 2023-06-09 16:00-17:00|USB [1] |[Speaker 3]
 
@@ -64,8 +62,11 @@ This means:
  * Open Hardware: everyone should be able to run a computational analysis
    on hardware accessible by  * Pre-registration: scientists should be open about their initial hypotheses
    and should not pursuaded to do p-value hacking or HARKing
- * Registered Reports: after reviewing the methods of a scientific experiment,
-   its results -including a null finding- should be published
+ * Preregistration: publishing the methods of a scientific experiment
+   before doing the actual experiment
+ * Registered Reports: an more stringent extension of a preregistration,
+   which, after reviewing the methods of a scientific experiment,
+   its results are published, regardless of the results
 
 A more extensive picture:
 
@@ -164,6 +165,10 @@ There are many, here I list communities that have members in Uppsala:
    a program for people interested in applying open principles 
    in their work and becoming Open Science ambassadors in their communities.
 
+Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
+at `richel@richelbilderbeek.nl` 
+and I will happily add your online community here :-)
+
 ### Website
 
 #### Why did you start this website?
@@ -220,6 +225,10 @@ You can:
 
  * Send an email to [@richelbilderbeek](https://github.com/richelbilderbeek) at `richel@richelbilderbeek.nl`
  * Add a GitHub Issue
+
+## Links
+
+ * [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
 
 ## References
 
