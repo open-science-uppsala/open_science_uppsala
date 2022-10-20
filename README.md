@@ -182,18 +182,26 @@ To connect people that are interesting in learning more about Open Science.
 
 ### Volunteering
 
+#### Who are the team members?
+
+Ordered alphabetically on first name:
+
+ * Jonas Söderberg
+ * Richel Bilderbeek: 
+   [OSF](https://osf.io/5dtem/) 
+   [ORCID](https://orcid.org/0000-0003-1107-7049) 
+   [GitHub](https://github.com/richelbilderbeek) 
+   [Twitter](https://twitter.com/rjcbilderbeek)
+
 #### What is the current structure of Open Science Uppsala?
 
  * Chairman: Richel
- * Communication: Richel
+ * Communication in/out: Richel
+ * Communication to NBIS and Life Science: Jonas
  * Organizing activities: Richel
  * Finances: Richel
  * Maintaining this website: Richel
  * Twittter account: -
-
-#### Who are the team members?
-
- * Richel: [OSF](https://osf.io/5dtem/) [ORCID](https://orcid.org/0000-0003-1107-7049) [GitHub](https://github.com/richelbilderbeek) [Twitter](https://twitter.com/rjcbilderbeek)
 
 #### I want to help organize! Am I welcome?
 
@@ -217,7 +225,6 @@ You can:
    visit the [Issues](https://github.com/richelbilderbeek/open_science_uppsala/issues) 
  * other things: contact [@richelbilderbeek](https://github.com/richelbilderbeek)
    at `richel@richelbilderbeek.nl` 
-
 
 ### Contact
 
