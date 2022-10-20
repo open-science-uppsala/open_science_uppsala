@@ -99,12 +99,12 @@ A more extensive picture:
 
 #### What activities does Open Science Uppsala organize?
 
-Currently none. 
-
-Expected activities are:
+Activities by OSU are, among others:
 
  * Discussing Open Science papers
  * Speakers that discuss an aspect of Open Science
+
+See 'Activities' :-)
 
 Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
