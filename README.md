@@ -187,6 +187,7 @@ To connect people that are interesting in learning more about Open Science.
 Ordered alphabetically on first name:
 
  * Jonas Söderberg
+   [GitHub](https://github.com/Netzach)
  * Richel Bilderbeek: 
    [OSF](https://osf.io/5dtem/) 
    [ORCID](https://orcid.org/0000-0003-1107-7049) 
