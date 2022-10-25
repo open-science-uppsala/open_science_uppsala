@@ -155,6 +155,8 @@ and I will happily add your Uppsala community here :-)
 
 There are many, here I list communities that have members in Uppsala:
 
+ * [European Open Science Cloud Association](https://eosc.eu/),
+   the bigger, more online community
  * [Open Science Sweden](https://opensciencesweden.org/):
    the bigger, more online community
  * [FAIRPoints](https://www.fairpoints.org/): an online 
