@@ -118,13 +118,16 @@ For those that are Twitter-savy: you are encouraged to volunteer to maintain our
 
 #### How can I follow Open Science Uppsala?
 
-You can follow us if you have a GitHub account: click on 'Watch' at the top-right
-side. Click on 'Custom | Releases only' to be informed of changes in schedule.
+You can follow us by:
 
-Except for that, we do not have anything fancy yet.
-
- * For those that are Twitter-savy: you are encouraged to volunteer to maintain our Twitter account :-)
- * For those that enjoy email lists: you are encouraged to volunteer to setup an email list :-)
+ * Email list: subscribe to our email list at `osu@freelists.org`
+   by sending an email to `osu-request@freelists.org` 
+   with 'subscribe' in the Subject field
+ * GitHub: Follow this GitHub repo (for those with a GitHub account):
+   click on 'Watch' at the top-right side. Click on 'Custom | Releases only' to be informed of changes in schedule.
+ * Twitter: we are not on Twitter.
+   For those that are Twitter-savy: 
+   you are encouraged to volunteer to maintain our Twitter account :-)
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
