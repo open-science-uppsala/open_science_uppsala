@@ -146,6 +146,8 @@ and Open Science in particular.
 
 #### Which similar communities are there in Uppsala?
 
+ * [Science Fika](https://www.sciencefika.se):
+   an community for 20 mins science talks aimaed at a general audience
  * ReproducibiliTea Psychology: a community that focuses on 
    the department of Psychology. They do not have a website.
 
