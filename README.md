@@ -60,7 +60,8 @@ This means:
    experiments, with some limitations on privacy-sensitive data
  * Open Code: everyone should be able to re-do, criticise and re-use scientific analyses
  * Open Hardware: everyone should be able to run a computational analysis
-   on hardware accessible by  * Pre-registration: scientists should be open about their initial hypotheses
+   on hardware with an open license
+ * Pre-registration: scientists should be open about their initial hypotheses
    and should not pursuaded to do p-value hacking or HARKing
  * Preregistration: publishing the methods of a scientific experiment
    before doing the actual experiment
@@ -88,14 +89,15 @@ A more extensive picture:
 
 #### What is the goal of Open Science Uppsala?
 
- * to teach one another about Open Science (e.g. by reading papers)
- * using English as the main language (i.e. most academic papers are English)
- * regularily (e.g. once a month)
- * for everyone (i.e. non-scientists are also welcome)
- * in Uppsala (i.e. in-person meetings)
- * for free (i.e. everyone can afford to participate)
- * at a public location (i.e. non-scientists can reach the venue)
- * in a scholarly way (i.e. we embrace the scientific method in our discussions)
+ * to **teach** one another about Open Science (e.g. by reading papers)
+ * to **discuss** Open Science
+ * using **English** as the main language (i.e. most academic papers are English)
+ * **regularily** (e.g. once a month)
+ * for **everyone** (i.e. non-scientists are also welcome)
+ * in **Uppsala** (i.e. in-person meetings)
+ * for **free** (i.e. everyone can afford to participate)
+ * at a **public location** (i.e. non-scientists can reach the venue)
+ * in a **scholarly** way (i.e. we embrace the scientific method in our discussions)
 
 #### What activities does Open Science Uppsala organize?
 
@@ -124,7 +126,8 @@ You can follow us by:
    by sending an email to `osu-request@freelists.org` 
    with 'subscribe' in the Subject field
  * GitHub: Follow this GitHub repo (for those with a GitHub account):
-   click on 'Watch' at the top-right side. Click on 'Custom | Releases only' to be informed of changes in schedule.
+   click on 'Watch' at the top-right side. 
+   Click on 'Custom | Releases only' to be informed of changes in schedule.
  * Twitter: we are not on Twitter.
    For those that are Twitter-savy: 
    you are encouraged to volunteer to maintain our Twitter account :-)
@@ -247,8 +250,13 @@ You can:
 
 ## References
 
- * [Kathawalla et al., 2021] Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. "Easing into open science: A guide for graduate students and their advisors." Collabra: Psychology 7.1 (2021).
+ * [Kathawalla et al., 2021] 
+   Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 
+   "Easing into open science: A guide for graduate students and their advisors."
+   Collabra: Psychology 7.1 (2021).
 
- * [Milham and Klein, 2019] Milham, Michael P., and Arno Klein. "Be the change you seek in science." BMC biology 17.1 (2019): 1-4.
+ * [Milham and Klein, 2019] Milham, 
+   Michael P., and Arno Klein. 
+   "Be the change you seek in science." 
+   BMC biology 17.1 (2019): 1-4.
    [List of recommended practices](https://matter.childmind.org/open-science.html)
-  
