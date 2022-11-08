@@ -24,11 +24,26 @@ When                  | Where  |What
 2023-01-13 16:00-17:00|USB [1] |[Discuss general paper]
 2023-02-10 16:00-17:00|USB [1] |[Speaker 1]
 2023-03-10 16:00-17:00|USB [1] |[Discuss paper]
-2023-04-14 16:00-17:00|USB [1] |[Speaker 2]
+2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori
 2023-05-12 16:00-17:00|USB [1] |[Discuss paper]
 2023-06-09 16:00-17:00|USB [1] |[Speaker 3]
 
  * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
+
+## Schedule
+
+This is a regular schedule for a meeting. 
+Note that the speaker is boss regarding (1) the exact time to start, 
+(2) the time to yes/no take questions.
+
+When         |What
+-------------|-----------------------------------------------------------
+15:30-16:00  |Speaker and OSU host prepare
+16:00-16:15  |Audience is welcome
+16:15-16:45  |Talk
+16:45-17:00  |Questions
+17:00 onwards|End of meeting, option to join us to the pub after cleaning
+
 
 ## FAQ
 
@@ -36,13 +51,14 @@ These are the Frequently Asked Questions, also called 'FAQ'.
 
 The sections are:
 
-Section                                      |Description
----------------------------------------------|-------------------
-[Open Science](#open-science)                |About Open Science
-[Open Science Uppsala](#open-science-uppsala)|About us
-[Website](#website)                          |About this website
-[Volunteering](#volunteering)                |Volunteering at OSU
-[Contact](#contact)                          |How to contact us
+Section                                               |Description
+------------------------------------------------------|-------------------
+[Open Science](#open-science)                         |About Open Science
+[Open Science Uppsala](#open-science-uppsala)         |About us
+[Website](#website)                                   |About this website
+[Information for speakers](#information-for-speakers) |Information for speakers
+[Volunteering](#volunteering)                         |Volunteering at OSU
+[Contact](#contact)                                   |How to contact us
 
 ### Open Science
 
@@ -131,6 +147,7 @@ You can follow us by:
  * Twitter: we are not on Twitter.
    For those that are Twitter-savy: 
    you are encouraged to volunteer to maintain our Twitter account :-)
+ * LinkedIn: [TODO by Richel]
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
@@ -196,6 +213,8 @@ To connect people that are interesting in learning more about Open Science.
 
 Ordered alphabetically on first name:
 
+ * Emmi Puuvuori
+   [ORCID](0000-0001-8501-218X)
  * Jonas Söderberg
    [GitHub](https://github.com/Netzach)
  * Richel Bilderbeek: 
@@ -213,6 +232,7 @@ Ordered alphabetically on first name:
  * Finances: Richel
  * Maintaining this website: Richel
  * Twittter account: -
+ * LinkedIn account: Emmi
 
 #### I want to help organize! Am I welcome?
 
