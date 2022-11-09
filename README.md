@@ -21,7 +21,7 @@ at `richel@richelbilderbeek.nl` to help build it up.
 
 When                  | Where  |What
 ----------------------|--------|----------------
-2023-01-13 16:00-17:00|USB [1] |[Discuss general paper]
+2023-01-13 16:00-17:00|USB [1] |Gustav Nilsonne
 2023-02-10 16:00-17:00|USB [1] |[Speaker 1]
 2023-03-10 16:00-17:00|USB [1] |[Discuss paper]
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori
