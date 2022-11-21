@@ -207,6 +207,34 @@ At the time this website was created, it was the first website.
 
 To connect people that are interesting in learning more about Open Science.
 
+### Information for speakers
+
+#### What can I do?
+
+You are boss here.
+
+Here are some suggestions:
+
+ * Give a talk about your own Open Science work/ideas
+ * Discuss an Open Science scholarly article
+
+#### What is the schedule?
+
+Half an hour before the meeting, you'll have the time to prepare.
+The first 15 minutes, the audience comes in.
+Then you have 45 minutes left, that you can fill in yourself.
+For example, you can do 30 minutes of talking and 15 minutes of questions.
+
+Note that you are boss here. If you want more/less time for questions, 
+it will be so :-)
+
+#### What are the technical properties of the room?
+
+ * HDMI cable with a lot of converter plugs
+ * A projecter and screen
+ * A **microphone** (both wireless and handheld): this is obligatory, 
+   so everyone (e.g. people with hearing aids) is included
+
 ### Volunteering
 
 #### Who are the team members?
