@@ -264,6 +264,7 @@ Ordered alphabetically on first name:
  * Maintaining this website: Richel
  * Twittter account: -
  * LinkedIn account: Emmi
+ * Mastodon account: Börje
 
 #### I want to help organize! Am I welcome?
 
