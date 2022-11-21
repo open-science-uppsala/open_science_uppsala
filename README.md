@@ -1,6 +1,6 @@
 # Open Science Uppsala
 
-![Open Science Logo](Openscience_240x240.png)
+![Open Science Logo](logo/osu_logo.png)
 
 > The Open Science logo, from [Wikimedia](https://commons.wikimedia.org/wiki/File:Openscience.svg)
 
