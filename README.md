@@ -22,11 +22,11 @@ at `richel@richelbilderbeek.nl` to help build it up.
 When                  | Where  |What
 ----------------------|--------|------------------------------------------------
 2023-01-13 16:00-17:00|USB [1] |Gustav Nilsonne, 'How to make science more trustworthy by improving transparency and reproducibility'
-2023-02-10 16:00-17:00|USB [1] |Borje, ''
-2023-03-10 16:00-17:00|USB [1] |[Discuss paper]
+2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, Open Science publishing/journals
+2023-03-10 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori
-2023-05-12 16:00-17:00|USB [1] |[Discuss paper]
-2023-06-09 16:00-17:00|USB [1] |[Speaker 3]
+2023-05-12 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
+2023-06-09 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 
  * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
 
@@ -213,9 +213,12 @@ To connect people that are interesting in learning more about Open Science.
 
 Ordered alphabetically on first name:
 
+ * Börje Dahrén
+   [ORCID](https://orcid.org/0000-0002-9274-6998)
  * Emmi Puuvuori
-   [ORCID](0000-0001-8501-218X)
+   [ORCID](https://orcid.org/0000-0001-8501-218X)
  * Jonas Söderberg
+   [ORCID (unsure if correct)](https://orcid.org/0000-0003-2722-7590)
    [GitHub](https://github.com/Netzach)
  * Richel Bilderbeek: 
    [OSF](https://osf.io/5dtem/) 
