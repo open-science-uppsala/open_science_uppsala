@@ -2,7 +2,7 @@
 
 ![Open Science Logo](logo/osu_logo_25.png)
 
-> The Open Science logo, from [Wikimedia](https://commons.wikimedia.org/wiki/File:Openscience.svg)
+> The Open Science Uppsala logo
 
 Open Science is the application of the scientific method 
 in the most transparent way possible, 
