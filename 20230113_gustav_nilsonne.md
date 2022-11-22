@@ -7,4 +7,4 @@
 
 Lördag 13 januar 16.00-17.00 OSU hälsar Gustav Nilsonne
 med föredrag 'How to make science more trustworthy by improving transparency and reproducibility'.
-Fler info på https://github.com/open-science-uppsala/open_science_uppsala
+Fler info på https://bit.ly/open_science_uppsala

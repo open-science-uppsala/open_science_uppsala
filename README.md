@@ -20,7 +20,7 @@ by means of discussing papers and inviting speakers.
 When                  | Where  |What
 ----------------------|--------|------------------------------------------------
 2023-01-13 16:00-17:00|USB [1] |Gustav Nilsonne, 'How to make science more trustworthy by improving transparency and reproducibility'
-2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, Open Science publishing/journals
+2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, 'Open Science and publishing, from a librarian's point of view' [working title]
 2023-03-10 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori
 2023-05-12 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
@@ -136,16 +136,14 @@ For those that are Twitter-savy: you are encouraged to volunteer to maintain our
 
 You can follow us by:
 
- * Email list: subscribe to our email list at `osu@freelists.org`
+ * **Email list**: subscribe to our email list 
    by sending an email to `osu-request@freelists.org` 
-   with 'subscribe' in the Subject field
- * GitHub: Follow this GitHub repo (for those with a GitHub account):
-   click on 'Watch' at the top-right side. 
-   Click on 'Custom | Releases only' to be informed of changes in schedule.
+   with `subscribe` in the Subject field (use `unsubscribe` to unsubscribe).
+ * LinkedIn: [TODO by Emmi]
+ * Mastodon: [TODO by Börje]
  * Twitter: we are not on Twitter.
    For those that are Twitter-savy: 
    you are encouraged to volunteer to maintain our Twitter account :-)
- * LinkedIn: [TODO by Richel]
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
