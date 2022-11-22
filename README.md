@@ -1,8 +1,9 @@
-# Open Science Uppsala
-
 ![Open Science Logo](logo/osu_logo_25.png)
 
 > The Open Science Uppsala logo
+
+Welcome to the homepage of Open Science Uppsala,
+the local Open Science community in Uppsala.
 
 Open Science is the application of the scientific method 
 in the most transparent way possible, 
@@ -12,10 +13,6 @@ resulting in research that is (more likely to be) reproducible.
 
 This group discusses the pros and cons of Open Science 
 by means of discussing papers and inviting speakers. 
-
-At the moment, the community is small. 
-Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `richel@richelbilderbeek.nl` to help build it up.
 
 ## Activities
 
