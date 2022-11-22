@@ -1,4 +1,5 @@
-![Open Science Logo](logo/osu_logo_25.png)
+
+![Open Science Uppsala logo](logo/osu_logo_25.png)
 
 > The Open Science Uppsala logo
 
@@ -296,6 +297,11 @@ You can:
 ## Links
 
  * [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
+ * [https://bit.ly/open_science_uppsala](https://bit.ly/open_science_uppsala): shorter link to homepage
+
+![Open Science Uppsala homepage link](bit.ly_open_science_uppsala.png)
+
+> QR code to Open Science Uppsala homepage
 
 ## References
 
