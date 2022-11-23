@@ -33,7 +33,12 @@ When                  | Where  |What
 2023-05-12 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 2023-06-09 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 
- * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), Svartbäcksgatan 17, 753 75 Uppsala
+ * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
+   Svartbäcksgatan 17, 753 75 Uppsala, room 'Studion'
+
+![](pics/usb_annotated.png)
+
+> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
 
 ## Schedule
 
@@ -230,7 +235,7 @@ it will be so :-)
 
  * HDMI cable with a lot of converter plugs
  * A projecter and screen
- * A **microphone** (both wireless and handheld): this is obligatory, 
+ * A **microphone** (both wireless and handheld): this is obligatory [TODO: Richel checks again], 
    so everyone (e.g. people with hearing aids) is included
 
 ### Volunteering
