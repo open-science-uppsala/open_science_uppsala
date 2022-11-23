@@ -139,7 +139,7 @@ You can follow us by:
  * **Email list**: subscribe to our email list 
    by sending an email to `osu-request@freelists.org` 
    with `subscribe` in the Subject field (use `unsubscribe` to unsubscribe).
- * [LinkedIn](https://www.linkedin.com/groups/9261540/)
+ * [LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
  * Mastodon: [TODO by Börje]
  * Twitter: we are not on Twitter.
    For those that are Twitter-savy: 
