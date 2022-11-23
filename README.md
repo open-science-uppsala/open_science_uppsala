@@ -36,6 +36,14 @@ When                  | Where  |What
  * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala, room 'Studion'
 
+![](pics/uppsala_map_annotated.png)
+
+> Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
+> 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
+> 2. Domkyrkan
+> 3. Stora torget
+> 4. Uppsala Central Station
+
 ![](pics/usb_annotated.png)
 
 > The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
