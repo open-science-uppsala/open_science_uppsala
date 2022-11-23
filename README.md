@@ -17,7 +17,7 @@ by means of discussing papers and inviting speakers.
 
 You can follow us here:
 
- * ![FreeLists logo](freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
+ * ![FreeLists logo](pics/freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
  * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
 
 ## Activities
@@ -141,7 +141,7 @@ For those that are Twitter-savy: you are encouraged to volunteer to maintain our
 
 You can follow us by:
 
- * ![FreeLists logo](freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
+ * ![FreeLists logo](pics/freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
  * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
  * Mastodon: [TODO by Börje]
 
