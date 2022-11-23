@@ -15,6 +15,11 @@ resulting in research that is (more likely to be) reproducible.
 This group discusses the pros and cons of Open Science 
 by means of discussing papers and inviting speakers. 
 
+You can follow us here:
+
+ * ![FreeLists logo](freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
+ * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
+
 ## Activities
 
 When                  | Where  |What
