@@ -27,7 +27,7 @@ Logo                                                |Link
 When                  | Where  |What
 ----------------------|--------|------------------------------------------------
 2023-01-13 16:00-17:00|USB [1] |Gustav Nilsonne, 'How to make science more trustworthy by improving transparency and reproducibility'
-2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, 'Open Science and publishing, from a librarian's point of view' [working title]
+2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, 'The transition to open science, and the role of the university library '
 2023-03-10 16:00-17:00|USB [1] |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori
 2023-05-12 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
