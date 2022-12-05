@@ -152,7 +152,7 @@ You can follow us by:
 
  * ![FreeLists logo](pics/freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
  * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
- * Twitter: [@opensciupp](https://twitter.com/opensciupp)
+ * ![Twitter logo](pics/twitter_logo_34_x_34.png) **Twitter**: [@opensciupp](https://twitter.com/opensciupp)
  * Mastodon: [TODO by Börje]
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
