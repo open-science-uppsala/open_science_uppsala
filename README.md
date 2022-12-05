@@ -146,18 +146,13 @@ Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `richel@richelbilderbeek.nl` 
 if you want to organize or participate in activities.
 
-#### What is the Twitter of Open Science Uppsala?
-
-We don't have one. 
-
-For those that are Twitter-savy: you are encouraged to volunteer to maintain our Twitter account :-)
-
 #### How can I follow Open Science Uppsala?
 
 You can follow us by:
 
  * ![FreeLists logo](pics/freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
  * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
+ * Twitter: [@opensciupp](https://twitter.com/opensciupp)
  * Mastodon: [TODO by Börje]
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
@@ -273,7 +268,7 @@ Ordered alphabetically on first name:
  * Organizing activities: Richel
  * Finances: Richel
  * Maintaining this website: Richel
- * Twittter account: -
+ * Twittter account: Richel
  * LinkedIn account: Emmi
  * Mastodon account: Börje
 
