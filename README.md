@@ -30,7 +30,7 @@ When                  | Where  |What
 2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, 'The transition to open science, and the role of the university library '
 2023-03-10 16:00-17:00|USB [1] |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori
-2023-05-12 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
+2023-05-12 16:00-17:00|USB [1] |Miguel de Navascués, TBA, about Open Review and PCI
 2023-06-09 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 
  * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
