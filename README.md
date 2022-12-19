@@ -40,6 +40,7 @@ When                  | Where  |What
 ![](pics/uppsala_map_annotated.png)
 
 > Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
+> We are at 1.
 > 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
 > 2. Domkyrkan
 > 3. Stora torget
