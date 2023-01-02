@@ -308,6 +308,7 @@ You can:
 
  * [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
  * [https://bit.ly/open_science_uppsala](https://bit.ly/open_science_uppsala): shorter link to homepage
+ * [https://github.com/open-science-uppsala/open_science_uppsala](https://github.com/open-science-uppsala/open_science_uppsala): GitHub page
 
 ![Open Science Uppsala homepage link](bit.ly_open_science_uppsala.png)
 
