@@ -249,20 +249,26 @@ it will be so :-)
 
 Ordered alphabetically on first name:
 
- * Anna Hallberg
+ * Anna Hallberg 
+   ![ORCID logo](pics/ORCIDiD_icon32x32.png)
    [ORCID](https://orcid.org/0000-0001-6219-1402)
  * Börje Dahrén
+   ![ORCID logo](pics/ORCIDiD_icon32x32.png)
    [ORCID](https://orcid.org/0000-0002-9274-6998)
  * Emmi Puuvuori
+   ![ORCID logo](pics/ORCIDiD_icon32x32.png)
    [ORCID](https://orcid.org/0000-0001-8501-218X)
  * Jonas Söderberg
+   ![ORCID logo](pics/ORCIDiD_icon32x32.png)
    [ORCID (unsure if correct)](https://orcid.org/0000-0003-2722-7590)
    [GitHub](https://github.com/Netzach)
  * Richel Bilderbeek: 
-   [OSF](https://osf.io/5dtem/) 
+   ![ORCID logo](pics/ORCIDiD_icon32x32.png)
    [ORCID](https://orcid.org/0000-0003-1107-7049) 
-   [GitHub](https://github.com/richelbilderbeek) 
+   ![Twitter logo](pics/twitter_logo_34_x_34.png)
    [Twitter](https://twitter.com/rjcbilderbeek)
+   [OSF](https://osf.io/5dtem/) 
+   [GitHub](https://github.com/richelbilderbeek) 
 
 #### What is the current structure of Open Science Uppsala?
 
