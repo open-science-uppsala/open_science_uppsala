@@ -251,6 +251,8 @@ it will be so :-)
 
 Ordered alphabetically on first name:
 
+ * Anna Hallberg
+   [ORCID](https://orcid.org/0000-0001-6219-1402)
  * Börje Dahrén
    [ORCID](https://orcid.org/0000-0002-9274-6998)
  * Emmi Puuvuori
