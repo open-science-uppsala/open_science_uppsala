@@ -34,6 +34,8 @@ When                  | Where  |What
 2023-05-12 16:00-17:00|USB [1] |Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
 2023-06-09 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
 
+See ['Past events'](past_events.md) for our previous activities.
+
  * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala, room 'Studion'
 
