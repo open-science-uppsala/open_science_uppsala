@@ -262,14 +262,16 @@ Ordered alphabetically on first name:
  * Jonas Söderberg
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
+   ![GitHub logo](pics/github_logo_16_x_16.png) 
    [GitHub](https://github.com/Netzach)
  * Richel Bilderbeek: 
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049) 
    ![Twitter logo](pics/twitter_logo_19_x_16.png)
    [@rjcbilderbeek](https://twitter.com/rjcbilderbeek)
+   ![GitHub logo](pics/github_logo_16_x_16.png) 
+   [richelbilderbeek](https://github.com/richelbilderbeek) 
    [OSF](https://osf.io/5dtem/) 
-   [GitHub](https://github.com/richelbilderbeek) 
 
 #### What is the current structure of Open Science Uppsala?
 
