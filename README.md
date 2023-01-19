@@ -62,7 +62,8 @@ When         |What
 -------------|-----------------------------------------------------------
 15:30-16:00  |Speaker and OSU host prepare
 16:00-16:15  |Audience is welcome
-16:15-16:45  |Talk
+16:15-16:16  |Introduction about OSU
+16:16-16:45  |Talk
 16:45-17:00  |Questions
 17:00 onwards|End of meeting, option to join us to the pub after cleaning
 
