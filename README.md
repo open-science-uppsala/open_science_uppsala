@@ -241,9 +241,7 @@ it will be so :-)
 #### What are the technical properties of the room?
 
  * HDMI cable with a lot of converter plugs
- * A projecter and screen
- * A **microphone** (both wireless and handheld): this is obligatory [TODO: Richel checks again], 
-   so everyone (e.g. people with hearing aids) is included
+ * A big screen
 
 ### Volunteering
 
