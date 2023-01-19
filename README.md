@@ -263,7 +263,7 @@ Ordered alphabetically on first name:
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
    ![GitHub logo](pics/github_logo_16_x_16.png) 
-   [GitHub](https://github.com/Netzach)
+   [Netzach](https://github.com/Netzach)
  * Richel Bilderbeek: 
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049) 
