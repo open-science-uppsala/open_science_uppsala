@@ -271,7 +271,8 @@ Ordered alphabetically on first name:
    [@rjcbilderbeek](https://twitter.com/rjcbilderbeek)
    ![GitHub logo](pics/github_logo_16_x_16.png) 
    [richelbilderbeek](https://github.com/richelbilderbeek) 
-   [OSF](https://osf.io/5dtem/) 
+   ![OSF logo](pics/osf_logo_16_x_16.png) 
+   [Richel Bilderbeek](https://osf.io/5dtem/) 
 
 #### What is the current structure of Open Science Uppsala?
 
