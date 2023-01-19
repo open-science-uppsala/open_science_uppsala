@@ -32,7 +32,7 @@ When                  | Where  |What
 2023-03-10 16:00-17:00|USB [1] |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori, TBA
 2023-05-12 16:00-17:00|USB [1] |Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
-2023-06-09 16:00-17:00|USB [1] |[Open position: feel invited to contact Richel to give a talk]
+2023-06-09 16:00-17:00|USB [1] |Barbro Bornsäter, TBA
 
 See ['Past events'](past_events.md) for our previous activities.
 
