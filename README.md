@@ -25,10 +25,11 @@ Logo                                                |Link
 
 ## Activities
 
-We usually have a speaker at the second Friday of the month
+We usually have a speaker at the second Friday of the month. 
 
 When                  | Where  |What
 ----------------------|--------|------------------------------------------------
+2023-01-29 14:00-14:20|USB     |Richèl Bilderbeek, ['Open Science and scientists being humans'](https://github.com/richelbilderbeek/science_fika_open_science_20230129) at [Science Fika](https://www.sciencefika.se/)
 2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, 'The transition to open science, and the role of the university library '
 2023-03-10 16:00-17:00|USB [1] |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori, TBA
@@ -73,7 +74,6 @@ When         |What
 16:16-16:45  |Talk
 16:45-17:00  |Questions
 17:00 onwards|End of meeting, option to join us to the pub after cleaning
-
 
 ## FAQ
 
