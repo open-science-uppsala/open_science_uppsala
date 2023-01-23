@@ -29,7 +29,7 @@ We usually have a speaker at the second Friday of the month.
 
 When                  | Where  |What
 ----------------------|--------|------------------------------------------------
-2023-01-29 14:00-14:20|USB     |Richèl Bilderbeek, ['Open Science and scientists being humans'](https://github.com/richelbilderbeek/science_fika_open_science_20230129) at [Science Fika](https://www.sciencefika.se/)
+2023-01-29 14:00-14:20|USB [1] |Richèl Bilderbeek, ['Open Science and scientists being humans'](https://github.com/richelbilderbeek/science_fika_open_science_20230129) at [Science Fika](https://www.sciencefika.se/) [2]
 2023-02-10 16:00-17:00|USB [1] |Börje Dahrén, 'The transition to open science, and the role of the university library '
 2023-03-10 16:00-17:00|USB [1] |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
 2023-04-14 16:00-17:00|USB [1] |Emmi Puuvuori, TBA
@@ -44,8 +44,9 @@ When                  | Where  |What
 
 See ['Past events'](past_events.md) for our previous activities.
 
- * USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
+ * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala, room 'Studion'
+ * [2] This is not an OSU event, see the link for more info
 
 ![](pics/uppsala_map_annotated.png)
 
