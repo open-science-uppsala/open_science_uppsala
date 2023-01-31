@@ -226,6 +226,13 @@ At the time this website was created, it was the first website.
 
 To connect people that are interesting in learning more about Open Science.
 
+### Email list
+
+#### What is policy of the email list?
+
+ * Sent at the first day of each month with an activity
+ * Short
+
 ### Information for speakers
 
 #### What can I do?
