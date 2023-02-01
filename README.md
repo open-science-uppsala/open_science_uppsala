@@ -228,8 +228,10 @@ To connect people that are interesting in learning more about Open Science.
 
 #### What is policy of the email list?
 
- * Sent at the first day of each month with an activity
+ * Sent at the first day of each month, for months that have an activity
  * Short
+
+See [the newsletter archive](newsletter_archive.md) for previous newsletters.
 
 ### Information for speakers
 
@@ -266,9 +268,13 @@ Ordered alphabetically on first name:
  * Anna Hallberg 
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0001-6219-1402](https://orcid.org/0000-0001-6219-1402)
+   ![Twitter logo](pics/twitter_logo_19_x_16.png)
+   [@AnnaHallberg3](https://twitter.com/AnnaHallberg3)
  * Börje Dahrén
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0002-9274-6998](https://orcid.org/0000-0002-9274-6998)
+   ![Twitter logo](pics/twitter_logo_19_x_16.png)
+   [@BDahren](https://twitter.com/BDahren)
  * Emmi Puuvuori
    ![ORCID logo](pics/ORCIDiD_icon16x16.png)
    [0000-0001-8501-218X](https://orcid.org/0000-0001-8501-218X)
