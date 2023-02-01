@@ -233,6 +233,15 @@ To connect people that are interesting in learning more about Open Science.
 
 See [the newsletter archive](newsletter_archive.md) for previous newsletters.
 
+### Twitter
+
+#### What is the Twitter policy?
+
+ * Sent at the first day of each month, for months that have an activity
+ * Short
+
+See [the tweets archive](tweets.md) for previous tweets.
+
 ### Information for speakers
 
 #### What can I do?
