@@ -41,7 +41,7 @@ When                  | Where             |What
 2023-09-08 16:00-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
 2023-10-13 16:00-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
 2023-11-10 16:00-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
-2023-12-08 16:00-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
+2023-12-08 16:00-17:00|USB [1], Mallassal |Anna Hallberg, TBA
 
 See ['Past events'](past_events.md) for our previous activities.
 
