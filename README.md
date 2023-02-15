@@ -29,19 +29,19 @@ We usually have a speaker at the second Friday of the month.
 
 When                  | Where             |What
 ----------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2023-02-10 16:00-17:00|USB [1], Mallassal |Börje Dahrén, 'The transition to open science, and the role of the university library'
-2023-03-10 16:00-17:00|USB [1], Mallassal |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
-2023-03-12 14:00-14:30|USB [1], Mallassal |'Values in science: biased or responsible science?' by [Science Fika](https://www.sciencefika.se) [2]
+2023-02-10 16:15-17:00|USB [1], Mallassal |Börje Dahrén, 'The transition to open science, and the role of the university library'
+2023-03-10 16:15-17:00|USB [1], Mallassal |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
+2023-03-12 14:15-14:30|USB [1], Mallassal |'Values in science: biased or responsible science?' by [Science Fika](https://www.sciencefika.se) [2]
 2023-03-14 16:00-17:15|Online             |[PCI Webinar Series](https://peercommunityin.org/pci-webinar-series/) Fernando Racimo: Ethical publishing: how do we get there? [2]
-2023-04-14 16:00-17:00|USB [1], Mallassal |Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
-2023-05-12 16:00-17:00|USB [1], Studion   |Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
-2023-06-09 16:00-17:00|USB [1], Mallassal |Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'
+2023-04-14 16:15-17:00|USB [1], Mallassal |Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
+2023-05-12 16:15-17:00|USB [1], Studion   |Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
+2023-06-09 16:15-17:00|USB [1], Mallassal |Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'
 2023-07-14            |.                  |[No event, due to summer holiday]
 2023-08-11            |.                  |[No event, due to summer holiday]
-2023-09-08 16:00-17:00|USB [1], Mallassal |Martin Johnsson, 'It's about what kind of knowledge we want'
-2023-10-13 16:00-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
-2023-11-10 16:00-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
-2023-12-08 16:00-17:00|USB [1], Mallassal |Anna Hallberg, TBA
+2023-09-08 16:15-17:00|USB [1], Mallassal |Martin Johnsson, 'It's about what kind of knowledge we want'
+2023-10-13 16:15-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
+2023-11-10 16:15-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
+2023-12-08 16:15-17:00|USB [1], Mallassal |Anna Hallberg, TBA
 
 See ['Past events'](past_events.md) for our previous activities.
 
