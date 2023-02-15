@@ -2,6 +2,7 @@
 
 ## 2023-02-01
 
+```
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -19,8 +20,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
  * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
-
-
+```
 
 ## 2023-01-02
 

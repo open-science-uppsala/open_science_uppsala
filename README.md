@@ -350,6 +350,7 @@ You can:
 ## Links
 
  * [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
+ * [Open Science Radio](https://www.openscienceradio.org)
  * [https://bit.ly/open_science_uppsala](https://bit.ly/open_science_uppsala): shorter link to homepage
  * [https://github.com/open-science-uppsala/open_science_uppsala](https://github.com/open-science-uppsala/open_science_uppsala): GitHub page
 
