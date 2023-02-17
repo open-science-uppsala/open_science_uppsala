@@ -353,6 +353,8 @@ You can:
  * [Open Science Radio](https://www.openscienceradio.org)
  * [https://bit.ly/open_science_uppsala](https://bit.ly/open_science_uppsala): shorter link to homepage
  * [https://github.com/open-science-uppsala/open_science_uppsala](https://github.com/open-science-uppsala/open_science_uppsala): GitHub page
+ * [CODECHECK](https://codecheck.org.uk/): tests if a computational experiment can be reproduced
+ * [rOpenSci](https://ropensci.org/): public peer-review of R packages
 
 ![Open Science Uppsala homepage link](bit.ly_open_science_uppsala.png)
 
