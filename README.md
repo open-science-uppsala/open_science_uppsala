@@ -38,7 +38,7 @@ When                  | Where             |What
 2023-07-14            |.                  |[No event, due to summer holiday]
 2023-08-11            |.                  |[No event, due to summer holiday]
 2023-09-08 16:15-17:00|USB [1], Mallassal |Martin Johnsson, 'It's about what kind of knowledge we want'
-2023-10-13 16:15-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
+2023-10-13 16:15-17:00|USB [1], Mallassal |Ismail Elouafiq, TBA
 2023-11-10 16:15-17:00|USB [1], Mallassal |[Open slot, contact us to get your name here]
 2023-12-08 16:15-17:00|USB [1], Mallassal |Anna Hallberg, TBA
 
