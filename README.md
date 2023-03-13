@@ -312,9 +312,10 @@ Ordered alphabetically on first name:
  * Organizing activities: Richel
  * Finances: Richel
  * Maintaining this website: Richel
- * Twittter account: Richel
+ * Facebook account: ?Anna
  * LinkedIn account: Emmi
  * Mastodon account: Börje
+ * Twitter account: Richel
 
 #### I want to help organize! Am I welcome?
 

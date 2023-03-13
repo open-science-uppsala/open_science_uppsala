@@ -1,6 +1,10 @@
 # Tweets
 
-## 2023-03-91
+## 2023-03-01
+
+Today, 16:15-17:00 at Stadsbiblioteket (Mallassal!) a talk by by Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'. #OpenScienceTalks
+
+## 2023-03-01
 
 ```
 OSU's next talk: Friday March 10th 16:15-17:00 at Stadsbiblioteket (Mallassal!) by Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'. #OpenScienceTalks
