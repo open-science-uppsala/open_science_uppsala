@@ -40,7 +40,7 @@ When                  | Where             |What
 2023-11-10 16:15-17:00|USB [1], Mallassal |Adam Gill, TBA
 2023-12-08 16:15-17:00|USB [1], Mallassal |Anna Hallberg, TBA
 
-See ['Past events'](past_events.md) for our previous activities.
+See ['Past events'](past_events/README.md) for our previous activities.
 
  * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala
