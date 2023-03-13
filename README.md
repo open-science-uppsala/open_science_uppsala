@@ -167,6 +167,7 @@ You can follow us by:
  * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
  * ![Twitter logo](pics/twitter_logo_34_x_34.png) [@opensciupp](https://twitter.com/opensciupp)
  * Mastodon: [TODO by Börje]
+ * Facebook: [?TODO by Anna]
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
