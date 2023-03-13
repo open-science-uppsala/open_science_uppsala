@@ -1,8 +1,25 @@
 # Tweets
 
+## 2023-04-03
+
+```
+OSU's next talk: Friday April 14th 16:15-17:00 at Stadsbiblioteket (Mallassal!) by 
+Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'. #OpenScienceTalks
+```
+
+## 2023-03-13
+
+```
+Last Friday, we had a presentation of Wolmar Nyberg Åkerström at @bibluppsala. 
+His slides are available at  https://doi.org/10.17044/scilifelab.22249429. 
+Hope to see you all next month!
+```
+
 ## 2023-03-01
 
+```
 Today, 16:15-17:00 at Stadsbiblioteket (Mallassal!) a talk by by Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'. #OpenScienceTalks
+```
 
 ## 2023-03-01
 

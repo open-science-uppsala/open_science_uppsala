@@ -237,7 +237,7 @@ To connect people that are interesting in learning more about Open Science.
  * Sent at the first day of each month, for months that have an activity
  * Short
 
-See [the newsletter archive](newsletter_archive.md) for previous newsletters.
+See [the newsletter archive](publicity/newsletter_archive.md) for previous newsletters.
 
 ### Twitter
 
@@ -246,7 +246,7 @@ See [the newsletter archive](newsletter_archive.md) for previous newsletters.
  * Sent at the first day of each month, for months that have an activity
  * Short
 
-See [the tweets archive](tweets.md) for previous tweets.
+See [the tweets archive](publicity/tweets.md) for previous tweets.
 
 ### Information for speakers
 
