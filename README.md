@@ -29,8 +29,6 @@ We usually have a speaker at the second Friday of the month.
 
 When                  | Where             |What
 ----------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2023-03-10 16:15-17:00|USB [1], Mallassal |Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'
-2023-03-12 14:15-14:30|USB [1], Mallassal |'Values in science: biased or responsible science?' by [Science Fika](https://www.sciencefika.se) [2]
 2023-03-14 16:00-17:15|Online             |[PCI Webinar Series](https://peercommunityin.org/pci-webinar-series/) Fernando Racimo: Ethical publishing: how do we get there? [2]
 2023-04-14 16:15-17:00|USB [1], Mallassal |Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
 2023-05-12 16:15-17:00|USB [1], Studion   |Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
