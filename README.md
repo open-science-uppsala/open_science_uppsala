@@ -317,6 +317,17 @@ Ordered alphabetically on first name:
  * Mastodon account: Börje
  * Twitter account: Richel
 
+#### Who are the reserve team members?
+
+Yup, we even have a reserve team. Here they are!
+
+Ordered alphabetically on first name:
+
+ * Adam Gill
+   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
+   [0000-0001-5641-610X](https://orcid.org/0000-0001-5641-610X)
+
+
 #### I want to help organize! Am I welcome?
 
 Yes, everyone is welcome.
