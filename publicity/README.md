@@ -2,6 +2,9 @@
 
 ## Specified plan
 
+This is the general idea, specified per day. 
+This table will change as time passes by.
+
 Status|Date      |Day in month       |Who   |What
 ------|----------|-------------------|------|----------------------------------
 Done  |2023-03-17|Friday after talk  |Richel|[Tweet](tweets.md) link to slides of past event
@@ -20,6 +23,8 @@ Done  |2023-03-17|Friday after talk  |Richel|Send out future publicity text to A
 .     |2023-04-17|After talk         |Richel|Email next speaker for status
 
 ## General plan
+
+This is the general idea. This table is stable in time.
 
 Day in month       |Who   |What
 -------------------|------|----------------------------------
