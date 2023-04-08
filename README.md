@@ -21,7 +21,8 @@ Logo                                                |Link
 ----------------------------------------------------|---------------------------------------------------------
 ![FreeLists logo](pics/freelists_logo_114_x_34.png) | **[Email list](https://www.freelists.org/list/osu)**
 ![LinkedIn logo](pics/In-Blue-34.png)               | **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
-![Twitter logo](pics/twitter_logo_34_x_34.png)      | [@opensciupp](https://twitter.com/opensciupp)
+![Twitter logo](pics/twitter_logo_34_x_34.png)      | **[@opensciupp](https://twitter.com/opensciupp)**
+![Facebook logo](pics/facebook_logo_34_x_34.png)    | **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
 
 ## Activities
 
@@ -162,9 +163,9 @@ You can follow us by:
 
  * ![FreeLists logo](pics/freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
  * ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
- * ![Twitter logo](pics/twitter_logo_34_x_34.png) [@opensciupp](https://twitter.com/opensciupp)
+ * ![Twitter logo](pics/twitter_logo_34_x_34.png) **[@opensciupp](https://twitter.com/opensciupp)**
+ * ![Facebook logo](pics/facebook_logo_34_x_34.png) **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
  * Mastodon: [TODO by Börje]
- * Facebook: [?TODO by Anna]
 
 #### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
@@ -313,7 +314,7 @@ Ordered alphabetically on first name:
  * Organizing activities: Richel
  * Finances: Richel
  * Maintaining this website: Richel
- * Facebook account: ?Anna
+ * Facebook account: Anna
  * LinkedIn account: Emmi
  * Mastodon account: Börje
  * Twitter account: Richel
