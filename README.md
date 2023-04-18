@@ -30,8 +30,7 @@ We usually have a speaker at the second Friday of the month.
 
 When                  | Where             |What
 ----------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2023-04-14 16:15-17:00|USB [1], Mallassal |Richèl Bilderbeek, 'Open Science and some of its problems'
-2023-05-12 16:15-17:00|USB [1], Studion   |Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
+2023-05-12 16:15-17:00|USB [1], **Studion**|Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'
 2023-06-09 16:15-17:00|USB [1], Mallassal |Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'
 2023-07-14            |.                  |[No event, due to summer holiday]
 2023-08-11            |.                  |[No event, due to summer holiday]
@@ -45,7 +44,6 @@ See ['Past events'](past_events/README.md) for our previous activities.
 
  * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala
- * [2] This is not an OSU event
 
 ![](pics/uppsala_map_annotated.png)
 
