@@ -1,5 +1,31 @@
 # Newsletter archive
 
+## 2023-05-01
+
+```
+# Open Science Uppsala monthly newsletter
+
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2]:
+
+ * Friday 2023-05-12 16:15-17:00 Miguel de Navascués, ‘PCI, a free recommendation process of scientific preprints based on peer review’ (at Studion, also in Stadsbibliotek)
+
+Open Science events in Uppsala next month:
+
+ * Friday 2023-06-09 16:15-17:00 Barbro Bornsäter, ‘FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences’ (at Mallassal again, in Stadsbibliotek)
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
+```
+
+
 ## 2023-04-03
 
 ```

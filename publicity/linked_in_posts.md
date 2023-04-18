@@ -1,3 +1,11 @@
+## 2023-05-05
+
+```
+This month we have the pleasure to have presentation by Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'. Afterwards we'll head to the pub to discuss more about open science. Hope to see you there!
+
+When: Friday May 12th 16:15-17:00 
+Where: Uppsala Stadsbibliotek, 'Studion' room
+```
 
 ## 2023-04-10
 

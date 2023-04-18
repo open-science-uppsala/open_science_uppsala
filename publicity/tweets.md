@@ -1,5 +1,20 @@
 # Tweets
 
+## 2023-05-05
+
+```
+OSU's next talk: Friday May 12th 16:15-17:00 at Stadsbiblioteket (Studion!) by 
+Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'. 
+#OpenScienceTalks
+```
+
+
+## 2023-04-18
+
+```
+The slides of Richel Bilderbeek's talk can be found at https://github.com/richelbilderbeek/osu_talk_20230414#osu_talk_20230414, including his AI-generated My Little Pony themed art.
+```
+
 ## 2023-04-03
 
 ```
