@@ -53,9 +53,9 @@ See ['Past events'](past_events/README.md) for our previous activities.
 > 3. Stora torget
 > 4. Uppsala Central Station
 
-![](pics/usb_studion_annotated.png)
+![](pics/usb_mallassal_annotated.png)
 
-> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
+> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Mallassal'
 
 ## Schedule
 
