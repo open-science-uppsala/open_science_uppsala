@@ -75,6 +75,11 @@ Twitter, post-presentation, https://twitter.com/opensciupp/status/16481836650908
 The slides of Barbro Bornsäter's talk can be found at [URL]
 ```
 
+## New
+
+ * [ ] SciLifeLab newsletter, Victor Kuismin
+ * [ ] SLU slides, Tomas Klingström
+
 ## General plan
 
 This is the general idea. This table is stable in time.

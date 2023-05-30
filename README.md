@@ -24,6 +24,10 @@ Logo                                                |Link
 ![Twitter logo](pics/twitter_logo_34_x_34.png)      | **[@opensciupp](https://twitter.com/opensciupp)**
 ![Facebook logo](pics/facebook_logo_34_x_34.png)    | **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
 
+## Next activity
+
+![](publicity/screens_slu.jpg)
+
 ## Activities
 
 We usually have a speaker at the second Friday of the month. 
