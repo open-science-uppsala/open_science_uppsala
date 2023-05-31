@@ -41,7 +41,7 @@ When                  | Where             |What
 2023-10-**20** 16:15-17:00|USB [1], Mallassal |Ismail Elouafiq, TBA
 2023-11-10 16:15-17:00|USB [1], Mallassal |Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'
 2023-12-08 16:15-17:00|USB [1], Mallassal |Anna Hallberg, TBA
-202?-??-?? 16:15-17:00|USB [1], ?         |Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
+2024-01-12 16:15-17:00|?USB [1], ?Mallassal|Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
 
 See ['Past events'](past_events/README.md) for our previous activities.
 
