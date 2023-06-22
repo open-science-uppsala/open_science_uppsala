@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](publicity/screens_slu.jpg)
+![](pics/martin/martin_2x_with_text.png)
 
 ## Activities
 
