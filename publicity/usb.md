@@ -70,7 +70,7 @@ om att berömma och kritiserar Open Science.
 
 Fler info på https://bit.ly/open_science_uppsala
 
-## 2023-11-10
+## 2023-11-10: Adam Gill
 
  * Mallassal
  * Språk: Engelska
