@@ -36,13 +36,13 @@ When                  | Where             |What
 ----------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
 2023-07-14            |.                  |[No event, due to summer holiday]
 2023-08-11            |.                  |[No event, due to summer holiday]
-2023-09-08 16:15-17:00|USB [1], Mallassal |Martin Johnsson, 'It's about what kind of knowledge we want'
-2023-10-**20** 16:15-17:00|USB [1], Mallassal |Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'
-2023-11-10 16:15-17:00|USB [1], Mallassal |Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'
-2023-12-08 16:15-17:00|USB [1], Mallassal |Anna Hallberg, 'What does Open Science mean for qualitative research?'
-2024-01-12 16:15-17:00|?USB [1], Mallassal|Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
+2023-09-08 16:15-17:00|USB [1], Mallassal |[Martin Johnsson, 'It's about what kind of knowledge we want'](events/20230908_martin_johnsson/README.md)
+2023-10-**20** 16:15-17:00|USB [1], Mallassal |[Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'](events/20231020_ismail_elouafiq/README.md)
+2023-11-10 16:15-17:00|USB [1], Mallassal |[Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'](events/20231110_adam_gill/README.md)
+2023-12-08 16:15-17:00|USB [1], Mallassal |[Anna Hallberg, 'What does Open Science mean for qualitative research?'](events/20231208_anna_hallberg/README.md)
+2024-01-12 16:15-17:00|?USB [1], Mallassal|[Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'](events/20240112_emmi_puuvuori/README.md)
 
-See ['Past events'](past_events/README.md) for our previous activities.
+See ['events'](events/README.md) for our past activities.
 
  * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala
