@@ -1,5 +1,30 @@
 # 2023-09-08: Martin Johnsson
 
+## [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7095806072556335104?utm_source=share&utm_medium=member_desktop)
+
+```
+This month we have the pleasure to have a presentation by Martin Johnsson, 'It’s about what kind of knowledge we want'. Afterwards we'll head to the pub to discuss more about open science. Hope to see you there!
+
+When: Friday September 8th 16:15-17:00
+Where: Uppsala Stadsbibliotek, Mallassal
+```
+
+## [Facebook](https://fb.me/e/3K9nTP25D)
+
+```
+This month we have the pleasure to have a presentation by Martin Johnsson, 'It’s about what kind of knowledge we want'. Afterwards we'll head to the pub to discuss more about open science. Hope to see you there!
+
+When: Friday September 8th 16:15-17:00
+Where: Uppsala Stadsbibliotek, Mallassal
+```
+
+## Twitter
+
+### [2023-08-11](https://twitter.com/opensciupp/status/1690039181580382208):
+
+```
+OSU's next talk: Friday September 8th 16:15-17:00 at Stadsbiblioteket by Martin Johnsson, 'It’s about what kind of knowledge we want'. #OpenScienceTalks
+```
 
 ## SLU screen text
 
