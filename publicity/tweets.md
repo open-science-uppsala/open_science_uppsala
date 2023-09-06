@@ -1,5 +1,12 @@
 # Tweets
 
+## 2023-09-06
+
+```
+OSU's next talk: Friday September 8th 16:15-17:00 at Stadsbiblioteket by Martin Johnsson, 'It’s about what kind of knowledge we want'. #OpenScienceTalks
+```
+
+
 ## 2023-05-05
 
 ```
