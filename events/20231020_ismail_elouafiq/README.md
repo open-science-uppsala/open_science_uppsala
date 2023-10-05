@@ -77,3 +77,9 @@ Experiment on yourself: open citizen science in Uppsala
  * Where: Uppsala Stadsbibliotek, Mallassal
  * Costs: none
  * More information: https://bit.ly/open_science_uppsala
+
+## Images by Ismail
+
+![](open_science_ismail.png)
+
+![](open_science_talk_citizenscience.png)
