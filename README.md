@@ -34,9 +34,6 @@ We usually have a speaker at the second Friday of the month.
 
 When                  | Where             |What
 ----------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2023-07-14            |.                  |[No event, due to summer holiday]
-2023-08-11            |.                  |[No event, due to summer holiday]
-2023-09-08 16:15-17:00|USB [1], Mallassal |[Martin Johnsson, 'It's about what kind of knowledge we want'](events/20230908_martin_johnsson/README.md)
 2023-10-**20** 16:15-17:00|USB [1], Mallassal |[Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'](events/20231020_ismail_elouafiq/README.md)
 2023-10-25 15:00-15:45|SLU, Ulls hus, Ultuna campus|[Richèl Bilderbeek, the pros and cons of Open Science](events/20231025_richel_bilderbeek/README.md)
 2023-11-10 16:15-17:00|USB [1], Mallassal |[Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'](events/20231110_adam_gill/README.md)

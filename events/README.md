@@ -11,3 +11,6 @@ When                  | Where              |What
 2023-04-14 16:15-17:00|USB [1], Mallassal  |[Richèl Bilderbeek, 'Open Science and some of its problems'](20230414_richel_bilderbeek/README.md)
 2023-05-12 16:15-17:00|USB [1], Studion    |[Miguel de Navascués, 'PCI, a free recommendation process of scientific preprints based on peer review'](20230512_miguel_de_navascues/README.md)
 2023-06-09 16:15-17:00|USB [1], Mallassal  |[Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'](20230609_barbro_bornsaeter/README.md)
+2023-07-14            |.                  |[No event, due to summer holiday]
+2023-08-11            |.                  |[No event, due to summer holiday]
+2023-09-08 16:15-17:00|USB [1], Mallassal |[Martin Johnsson, 'It's about what kind of knowledge we want'](events/20230908_martin_johnsson/README.md)
