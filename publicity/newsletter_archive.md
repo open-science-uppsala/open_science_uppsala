@@ -1,5 +1,30 @@
 # Newsletter archive
 
+## 2023-10-05
+
+```
+# Open Science Uppsala monthly newsletter
+
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2]:
+
+ * Friday 2023-10-20 16:15-17:00 Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'
+
+Open Science events in Uppsala next month:
+
+ * Friday 2023-11-10 16:15-17:00 Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
+```
+
 ## 2023-05-01
 
 ```
