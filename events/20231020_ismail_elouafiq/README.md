@@ -1,6 +1,6 @@
 # 2023-10-20: Ismail Elouafiq
 
-![](screens_slu.jpg)
+![](20231020_ismail_screens.jpg)
 
 ## USB
 
@@ -64,7 +64,7 @@ OSU's next talk: Friday October 20th 16:15-17:00 at Stadsbiblioteket by Ismail E
 
 ## SLU screen text
 
-![](20231020_ismail_screens.png)
+![](20231020_ismail_screens.jpg)
 
  * [PDF](20231020_ismail_screens.pdf)
  * [ODF](20231020_ismail_screens.odg)
