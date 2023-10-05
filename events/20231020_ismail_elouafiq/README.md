@@ -1,5 +1,7 @@
 # 2023-10-20: Ismail Elouafiq
 
+![](screens_slu.jpg)
+
 ## USB
 
  * Studion
@@ -20,7 +22,7 @@ Fler info på https://bit.ly/open_science_uppsala
 
 ### Längre text
 
-Lördag 8 september 16.15-17.00 hälsar Open Science Uppsala
+Lördag 20 oktober 16.15-17.00 hälsar Open Science Uppsala
 Ismail Elouafiq
 med föredrag 'Experiment on yourself: open citizen science in Uppsala'.
 
