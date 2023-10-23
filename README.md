@@ -41,7 +41,7 @@ When                      | Where             |What
 2024-02-09 16:15-17:00    |USB [1], Mallassal |[Douglas Spangler, 'Open source software for prehospital risk prediction'](events/20240209_douglas_spangler/README.md)
 2024-03-08 16:15-17:00    |USB [1], Mallassal |Free slot!
 2024-04-05 16:15-17:00    |USB [1], Mallassal |Free slot!
-2024-05-**17** 16:15-17:00|USB [1], Mallassal |Free slot!
+2024-05-**17** 16:15-17:00|USB [1], Mallassal |Philippe Stamenkovic, TBA
 2024-06-14 16:15-17:00    |USB [1], Mallassal |Free slot!
 ?2024-07-12 16:15-17:00   |USB [1], Mallassal |Free slot!
 
