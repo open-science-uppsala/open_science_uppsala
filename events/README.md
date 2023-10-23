@@ -14,3 +14,4 @@ When                  | Where              |What
 2023-07-14            |.                  |[No event, due to summer holiday]
 2023-08-11            |.                  |[No event, due to summer holiday]
 2023-09-08 16:15-17:00|USB [1], Mallassal |[Martin Johnsson, 'It's about what kind of knowledge we want'](events/20230908_martin_johnsson/README.md)
+2023-10-20 16:15-17:00|USB [1], Mallassal |[Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'](events/20231020_ismail_elouafiq/README.md)

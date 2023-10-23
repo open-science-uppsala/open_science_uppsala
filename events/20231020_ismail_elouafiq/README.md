@@ -2,6 +2,8 @@
 
 ![](20231020_ismail_screens.jpg)
 
+ * [Presentation (.pdf)](20231020_ismail.pdf)
+
 ## USB
 
  * Studion
