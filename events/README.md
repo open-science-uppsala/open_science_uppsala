@@ -1,6 +1,6 @@
 # Events
 
-These are the OSU events, in chronological order.
+These are the past OSU events, in chronological order.
 
 When                  | Where              |What
 ----------------------|--------------------|------------------------------------------------
@@ -13,5 +13,6 @@ When                  | Where              |What
 2023-06-09 16:15-17:00|USB [1], Mallassal  |[Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'](20230609_barbro_bornsaeter/README.md)
 2023-07-14            |.                  |[No event, due to summer holiday]
 2023-08-11            |.                  |[No event, due to summer holiday]
-2023-09-08 16:15-17:00|USB [1], Mallassal |[Martin Johnsson, 'It's about what kind of knowledge we want'](events/20230908_martin_johnsson/README.md)
-2023-10-20 16:15-17:00|USB [1], Mallassal |[Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'](events/20231020_ismail_elouafiq/README.md)
+2023-09-08 16:15-17:00|USB [1], Mallassal |[Martin Johnsson, 'It's about what kind of knowledge we want'](20230908_martin_johnsson/README.md)
+2023-10-20 16:15-17:00|USB [1], Mallassal |[Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'](20231020_ismail_elouafiq/README.md)
+2023-10-25 15:00-15:45|SLU, Ulls hus, Ultuna campus|[Richèl Bilderbeek, the pros and cons of Open Science](20231025_richel_bilderbeek/README.md)

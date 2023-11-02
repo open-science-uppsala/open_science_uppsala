@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](pics/martin/martin_2x_with_text.png)
+![](events/20231110_adam_gill/20231110_adam_gill_screens.jpg)
 
 ## Activities
 
@@ -34,7 +34,6 @@ We usually have a speaker at the second Friday of the month.
 
 When                      | Where             |What
 --------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2023-10-25 15:00-15:45    |SLU, Ulls hus, Ultuna campus|[Richèl Bilderbeek, the pros and cons of Open Science](events/20231025_richel_bilderbeek/README.md)
 2023-11-10 16:15-17:00    |USB [1], Mallassal |[Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'](events/20231110_adam_gill/README.md)
 2023-12-08 16:15-17:00    |USB [1], Mallassal |[Anna Hallberg, 'What does Open Science mean for qualitative research?'](events/20231208_anna_hallberg/README.md)
 2024-01-12 16:15-17:00    |USB [1], Mallassal |[Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'](events/20240112_emmi_puuvuori/README.md)

@@ -1,5 +1,7 @@
 # 2023-11-10: Adam Gill
 
+![](publicity_image.jpg)
+
 ## USB
 
  * Mallassal
