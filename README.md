@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](events/20231110_adam_gill/20231110_adam_gill_screens.jpg)
+![In Studion](events/20231110_adam_gill/20231110_adam_gill_screens.jpg)
 
 ## Activities
 
