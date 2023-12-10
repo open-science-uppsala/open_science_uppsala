@@ -16,13 +16,13 @@
 
 ### Kort text
 
-Lördag 8 december 16.15-17.00 OSU hälsar Emmi Puuvuori
+Fredag 12 januari 16.15-17.00 OSU hälsar Emmi Puuvuori
 med föredrag 'Start of a practical application in open science - In Vivo Library'.
 Fler info på https://bit.ly/open_science_uppsala
 
 ### Längre text
 
-Lördag 8 september 16.15-17.00 hälsar Open Science Uppsala
+Fredag 12 januari 16.15-17.00 hälsar Open Science Uppsala
 Emmi Puuvuori
 med föredrag 'Start of a practical application in open science - In Vivo Library'.
 

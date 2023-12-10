@@ -20,13 +20,13 @@ Peer review is the cornerstone of scientific publishing in economics and more br
 
 ### Kort text
 
-Lördag 10 november 16.15-17.00 OSU hälsar Adam Gill
+Fredag 10 november 16.15-17.00 OSU hälsar Adam Gill
 med föredrag 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'.
 Fler info på https://bit.ly/open_science_uppsala
 
 ### Längre text
 
-Lördag 8 september 16.15-17.00 hälsar Open Science Uppsala
+Fredag 8 september 16.15-17.00 hälsar Open Science Uppsala
 Adam Gill
 med föredrag 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'.
 

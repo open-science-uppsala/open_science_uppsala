@@ -56,13 +56,13 @@ It’s about what kind of knowledge we want
 
 ### Kort text
 
-Lördag 8 september 16.15-17.00 OSU hälsar Martin Johnsson
+Fredag 8 september 16.15-17.00 OSU hälsar Martin Johnsson
 med föredrag 'It’s about what kind of knowledge we want'.
 Fler info på https://bit.ly/open_science_uppsala
 
 ### Längre text
 
-Lördag 8 september 16.15-17.00 hälsar Open Science Uppsala
+Fredag 8 september 16.15-17.00 hälsar Open Science Uppsala
 Martin Johnsson
 med föredrag 'It’s about what kind of knowledge we want'.
 

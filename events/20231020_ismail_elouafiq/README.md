@@ -18,13 +18,13 @@
 
 ### Kort text
 
-Lördag 20 oktober 16.15-17.00 OSU hälsar Ismail Elouafiq
+Fredag 20 oktober 16.15-17.00 OSU hälsar Ismail Elouafiq
 med föredrag 'Experiment on yourself: open citizen science in Uppsala'.
 Fler info på https://bit.ly/open_science_uppsala
 
 ### Längre text
 
-Lördag 20 oktober 16.15-17.00 hälsar Open Science Uppsala
+Fredag 20 oktober 16.15-17.00 hälsar Open Science Uppsala
 Ismail Elouafiq
 med föredrag 'Experiment on yourself: open citizen science in Uppsala'.
 

@@ -1,8 +1,6 @@
-# 2024-02-09 Douglas Spangler, 'Open source software for prehospital risk prediction'
+# 2024-03-15 Open Science Uppsala, 'Kungliga Biblioteket's 'Guidelines for Open Science' and responses'
 
-Title: 'Open source software for prehospital risk prediction'
-
-![](20240209_douglas_spangler_screens.jpg)
+![](20240315_osu_screens.jpg)
 
 ## USB
 
@@ -18,15 +16,19 @@ Title: 'Open source software for prehospital risk prediction'
 
 ### Kort text
 
-Fredag 9 februari 16.15-17.00 OSU hälsar Douglas Spangler
-med föredrag 'Open source software for prehospital risk prediction'.
+### English
+
+Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
+Kungliga Bibliotekets 'Förslag till natio­nel­la rikt­lin­jer för öppen veten­skap'
 Fler info på https://bit.ly/open_science_uppsala
+
+### Svenska
 
 ### Längre text
 
-Fredag 9 februari 16.15-17.00 hälsar Open Science Uppsala
-Douglas Spangler
-med föredrag 'Open source software for prehospital risk prediction'.
+Fredag 15 mars 16.15-17.00 ledar Open Science Uppsala
+en diskussion om
+Kungliga Bibliotekets 'Förslag till natio­nel­la rikt­lin­jer för öppen veten­skap'.
 
 Open Science Uppsala är den lokala Open Science grupp, 
 var man diskuterar om -duh!- Open Science. 
