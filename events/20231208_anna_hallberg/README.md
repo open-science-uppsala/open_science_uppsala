@@ -1,7 +1,8 @@
 # 2023-12-08: Anna Hallberg
 
 ## USB
- * Mallassal
+
+ * Studion
  * Språk: Engelska
  * Ålder/Målgrupp: 8-88
  * Samarrangör: -
