@@ -16,13 +16,17 @@
 
 ### Kort text
 
-### English
+#### English
+
+Friday 15th March 16:15-17:00 OSU leads a discussion about
+the Swedish Royal Library's proposition for national guidelines on Open Science.
+More info at https://bit.ly/open_science_uppsala
+
+#### Svenska
 
 Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
 Kungliga Bibliotekets 'Förslag till natio­nel­la rikt­lin­jer för öppen veten­skap'
 Fler info på https://bit.ly/open_science_uppsala
-
-### Svenska
 
 ### Längre text
 
@@ -41,3 +45,8 @@ Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
 Fler info på https://bit.ly/open_science_uppsala
+
+## Links
+
+ * [KB's suggested guidelines](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap.html)
+ * [responses](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap/inkomna-svar.html)
