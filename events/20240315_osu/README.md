@@ -14,7 +14,7 @@
  * Bakgrundsbild: [background_image.png](background_image.png)
  * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
-### Kort text
+### Short text/kort text
 
 #### English
 
@@ -28,7 +28,34 @@ Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
 Kungliga Bibliotekets 'Förslag till natio­nel­la rikt­lin­jer för öppen veten­skap'
 Fler info på https://bit.ly/open_science_uppsala
 
-### Längre text
+### Longer text/längre text
+
+#### English
+
+Friday 15th March 16:15-17:00 OSU leads a discussion about
+the Swedish Royal Library's proposition for national guidelines on Open Science.
+
+
+On October 3rd, the Swedish Royal Library
+proposed national guidelines on Open Science
+after which 69 responses have been collected,
+which will result in final guidelines on January 15th.
+At this OSU event, we'll discuss the original guidelines,
+some of the responses and the final document.
+
+Open Science Uppsala is the local Open Science group,
+where one discusses about -duh!- Open Science.
+Open Science is a way to research with -among other things-
+goal of making research more reproducible.
+Each presenter talks about an aspect of Open Science, often
+illustrated with examples of his/her own interest.
+
+Anyone who embraces the scientific method is welcome
+on praising and criticizing Open Science.
+
+More info at https://bit.ly/open_science_uppsala
+
+#### Svenska
 
 Fredag 15 mars 16.15-17.00 ledar Open Science Uppsala
 en diskussion om
