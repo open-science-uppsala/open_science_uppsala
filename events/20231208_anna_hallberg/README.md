@@ -1,5 +1,9 @@
 # 2023-12-08: Anna Hallberg
 
+![](20231208_anna_hallberg_screens.jpg)
+
+ * Presentation: [PDF](20231208_anna_hallberg_screens.pdf)
+
 ## USB
 
  * Studion
