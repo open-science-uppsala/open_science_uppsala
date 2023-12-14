@@ -65,6 +65,11 @@ See ['events'](events/README.md) for our past activities.
 
 > The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
 
+## Open Science Uppsala in the news
+
+ * [2023-10-06: article for the Uppsala University newsletter](https://www.uu.se/en/news/archive/2023-10-06-open-science-uppsala-reveals-science)
+ * [2023-12-11: interview with Universitetsläraren](https://universitetslararen.se/2023/12/11/samtalar-med-allmanheten-om-oppen-vetenskap/)
+
 ## Schedule
 
 This is a regular schedule for a meeting. 
