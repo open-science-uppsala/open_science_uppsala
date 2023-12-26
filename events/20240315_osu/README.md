@@ -35,7 +35,6 @@ Fler info på https://bit.ly/open_science_uppsala
 Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's proposition for national guidelines on Open Science.
 
-
 On October 3rd, the Swedish Royal Library
 proposed national guidelines on Open Science
 after which 69 responses have been collected,
