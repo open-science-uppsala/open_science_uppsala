@@ -373,6 +373,7 @@ You can:
 
 ## Links
 
+ * [Uppsala university library page on Open Science](https://www.uu.se/en/library/publish/open-science)
  * [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
  * [Open Science Radio](https://www.openscienceradio.org)
  * [https://bit.ly/open_science_uppsala](https://bit.ly/open_science_uppsala): shorter link to homepage
