@@ -34,7 +34,6 @@ We usually have a speaker at the second Friday of the month.
 
 When                      | Where             |What
 --------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2023-12-13 9:00-10:30     |Online             |[Pia Voigt: 'Open Science practices in a European university alliance'](https://pad.gwdg.de/gSo8Md81QyO_PhyU93h-Nw)
 2024-01-12 16:15-17:00    |USB [1], Studion   |[Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'](events/20240112_emmi_puuvuori/README.md)
 2024-02-09 16:15-17:00    |USB [1], Studion   |[Douglas Spangler, 'Open source software for prehospital risk prediction'](events/20240209_douglas_spangler/README.md)
 2024-02-28 10:00-11:30    |Online             |[Richèl Bilderbeek: 'The pros and cons of Open Science'](https://pad.gwdg.de/eIY0ms7MTMG4GBIK5zEIgA)
