@@ -1,5 +1,41 @@
 # Newsletter archive
 
+## 2024-01-11
+
+# Open Science Uppsala monthly newsletter
+
+```
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2] (talk description is at the bottom):
+
+ * 2024-01-12 Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
+
+Open Science events in Uppsala next month:
+
+ * Friday 2024-02-09 Douglas Spangler, 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+## Talk description
+
+I could not reach the speaker. 
+If I remember correctly, Emmi is setting up a database
+of protocols of experiments on live animals.
+She tries to follow the best Open Science practices
+
+## Footnotes
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
+
+
+```
+
 ## 2023-11-06
 
 ```
