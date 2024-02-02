@@ -19,13 +19,13 @@
 #### English
 
 Friday 15th March 16:15-17:00 OSU leads a discussion about
-the Swedish Royal Library's proposition for national guidelines on Open Science.
+the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
 More info at https://bit.ly/open_science_uppsala
 
 #### Svenska
 
 Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
-Kungliga Bibliotekets 'Förslag till natio­nel­la rikt­lin­jer för öppen veten­skap'
+Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
 Fler info på https://bit.ly/open_science_uppsala
 
 ### Longer text/längre text
@@ -33,14 +33,12 @@ Fler info på https://bit.ly/open_science_uppsala
 #### English
 
 Friday 15th March 16:15-17:00 OSU leads a discussion about
-the Swedish Royal Library's proposition for national guidelines on Open Science.
+the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
 
-On October 3rd, the Swedish Royal Library
-proposed national guidelines on Open Science
-after which 69 responses have been collected,
-which will result in final guidelines on January 15th.
-At this OSU event, we'll discuss the original guidelines,
-some of the responses and the final document.
+On January 15th the natio­nal guide­li­nes for promoting open science in Sweden
+came out and can be found at https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html .
+For now, these guidelines are published in Swedish only.
+At this OSU event, we'll translate and discuss these guidelines.
 
 Open Science Uppsala is the local Open Science group,
 where one discusses about -duh!- Open Science.
@@ -58,7 +56,12 @@ More info at https://bit.ly/open_science_uppsala
 
 Fredag 15 mars 16.15-17.00 ledar Open Science Uppsala
 en diskussion om
-Kungliga Bibliotekets 'Förslag till natio­nel­la rikt­lin­jer för öppen veten­skap'.
+Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
+
+Den 15 januari de nationella riktlinjerna för att främja öppen vetenskap i Sverige
+kom ut och finns på https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html .
+För närvarande publiceras dessa riktlinjer endast på svenska.
+Vid detta OSU-evenemang kommer vi att översätta och diskutera dessa riktlinjer.
 
 Open Science Uppsala är den lokala Open Science grupp, 
 var man diskuterar om -duh!- Open Science. 

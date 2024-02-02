@@ -1,5 +1,46 @@
 # Newsletter archive
 
+
+## 2024-02-02
+
+# Open Science Uppsala monthly newsletter
+
+```
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2] (talk description is at the bottom):
+
+ * Friday 2024-02-09 Douglas Spangler, 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'
+
+Open Science events in Uppsala next month:
+
+ * Friday 2024-03-15 Open Science Uppsala discusses Kungliga Biblioteket's 'Guidelines for Open Science'
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+## Talk description
+
+Just as the open science movement is changing how we do research, 
+open source software is changing 
+how we put the fruits of our research into practice. 
+In this talk, Douglas will discuss how machine learning research 
+is transformed into clinical decision support systems 
+using open-source tools based on R and Python at the Uppsala ambulance service, 
+and the potential that this approach has to transform how IT-systems 
+are procured and maintained in the public sector at large.
+
+## Footnotes
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
+
+
+
+
 ## 2024-01-11
 
 # Open Science Uppsala monthly newsletter
