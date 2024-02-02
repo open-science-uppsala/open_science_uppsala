@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![In Studion](events/20240112_emmi_puuvuori/20240112_emmi_puuvuori_screens.jpg)
+![In Studion](events/20240209_douglas_spangler/20240209_douglas_spangler_screens.jpg)
 
 ## Activities
 
@@ -34,7 +34,6 @@ We usually have a speaker at the second Friday of the month.
 
 When                      | Where             |What
 --------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2024-01-12 16:15-17:00    |USB [1], Studion   |[Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'](events/20240112_emmi_puuvuori/README.md)
 2024-02-09 16:15-17:00    |USB [1], Studion   |[Douglas Spangler, 'Open source software for prehospital risk prediction'](events/20240209_douglas_spangler/README.md)
 2024-02-28 10:00-11:30    |Online             |[Richèl Bilderbeek: 'The pros and cons of Open Science'](https://pad.gwdg.de/eIY0ms7MTMG4GBIK5zEIgA)
 2024-03-15 16:15-17:00    |USB [1], Studion   |[Discussion about the Swedish Royal Library's proposition for national guidelines on Open Science](events/20240315_osu/README.md)
