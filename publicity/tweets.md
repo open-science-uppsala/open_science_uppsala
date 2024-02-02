@@ -1,5 +1,11 @@
 # Tweets
 
+## 2024-02-02
+
+```
+OSU's next talk: Friday February 9th at Stadsbiblioteket by Douglas Spangler, 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'
+```
+
 ## 2023-09-06
 
 ```
