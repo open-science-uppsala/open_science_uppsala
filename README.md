@@ -38,7 +38,7 @@ When                      | Where             |What
 2024-03-15 16:15-17:00    |USB [1], Studion   |[Discussion about the Swedish Royal Library's proposition for national guidelines on Open Science](events/20240315_osu/README.md)
 2024-04-12 16:15-17:00    |USB [1], Studion   |Philippe Stamenkovic, TBA
 2024-05-**17** 16:15-17:00|USB [1], Studion   |Free slot!
-2024-06-14 16:15-17:00    |USB [1], Studion   |Free slot!
+2024-06-14 16:15-17:00    |USB [1], Studion   |Nicole Teroni, TBA
 2024-07-12 .              |.                  |Summer holiday
 2024-08-08 .              |.                  |Summer holiday
 2024-09-13 16:15-17:00    |[unbooked]         |Free slot!
