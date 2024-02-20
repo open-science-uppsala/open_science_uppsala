@@ -40,8 +40,11 @@ When                      | Where             |What
 2024-05-**17** 16:15-17:00|USB [1], Studion   |Free slot!
 2024-06-14 16:15-17:00    |USB [1], Studion   |Nicole Teroni, TBA
 2024-07-12 .              |.                  |Summer holiday
-2024-08-08 .              |.                  |Summer holiday
+2024-08-09 .              |.                  |Summer holiday
 2024-09-13 16:15-17:00    |[unbooked]         |Free slot!
+2024-10-11 16:15-17:00    |[unbooked]         |Free slot!
+2024-11-08 16:15-17:00    |[unbooked]         |Free slot!
+2024-12-13 16:15-17:00    |[unbooked]         |Free slot!
 
 
 See ['events'](events/README.md) for our past activities.
