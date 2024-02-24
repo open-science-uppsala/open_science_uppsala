@@ -1,6 +1,6 @@
 # 2023-11-10: Adam Gill
 
-![](publicity_image.jpg)
+![](20231110_adam_gill_screens.jpg)
 
 ## USB
 
