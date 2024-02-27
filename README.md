@@ -42,7 +42,7 @@ When                      | Where             |What
 2024-07-12 .              |.                  |Summer holiday
 2024-08-09 .              |.                  |Summer holiday
 2024-09-13 16:15-17:00    |[unbooked]         |Free slot!
-2024-10-11 16:15-17:00    |[unbooked]         |Christopher Erdmann and/or  Elin Kronander, TBA
+2024-10-11 16:15-17:00    |[unbooked]         |Christopher Erdmann and Elin Kronander, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond
 2024-11-08 16:15-17:00    |[unbooked]         |Free slot!
 2024-12-13 16:15-17:00    |[unbooked]         |Free slot!
 
