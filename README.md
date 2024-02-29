@@ -34,10 +34,10 @@ We usually have a speaker at the second Friday of the month.
 
 When                      | Where             |What
 --------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------
-2024-02-28 10:00-11:30    |Online             |[Richèl Bilderbeek: 'The pros and cons of Open Science'](https://pad.gwdg.de/eIY0ms7MTMG4GBIK5zEIgA)
+2024-02-28 10:00-11:30    |Online             |[Richèl Bilderbeek: The pros and cons of Open Science](https://pad.gwdg.de/eIY0ms7MTMG4GBIK5zEIgA)
 2024-03-15 16:15-17:00    |USB [1], Studion   |[Discussion about the Swedish Royal Library's proposition for national guidelines on Open Science](events/20240315_osu/README.md)
-2024-04-12 16:15-17:00    |USB [1], Studion   |Philippe Stamenkovic, TBA
-2024-05-**17** 16:15-17:00|USB [1], Studion   |Free slot!
+2024-04-12 16:15-17:00    |USB [1], Studion   |[Philippe Stamenkovic: Talking Open Science with non-academics](events/20240412_philippe_stamenkovic/README.md)
+2024-05-**17** 16:15-17:00|USB [1], Studion   |[Richèl Bilderbeek: on publishing the analysis of exploratory research before having seen the data](20240517_richel_bilderbeek)
 2024-06-14 16:15-17:00    |USB [1], Studion   |[Nicole Teroni, Unlocking Access: Language, Literacy, and Learning in Open Science](events/20240614_nicole_teroni/README.md)
 2024-07-12 .              |.                  |Summer holiday
 2024-08-09 .              |.                  |Summer holiday
