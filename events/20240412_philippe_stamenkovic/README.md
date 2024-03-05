@@ -1,4 +1,4 @@
-# 2024-04-12: Philippe Stamenkovic: 'Communicating Science: Transparency, Uncertainty, and Values in Open Science'
+# 2024-04-12: Philippe Stamenkovic: 'Talking Open Science with non-academics'
 
  * Speaker: Philippe Stamenkovic
  * Date: 2024-04-12
