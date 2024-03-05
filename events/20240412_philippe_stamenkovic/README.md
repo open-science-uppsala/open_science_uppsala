@@ -1,8 +1,8 @@
-# 2024-04-12: Philippe Stamenkovic: 'Talking Open Science with non-academics'
+# 2024-04-12: Philippe Stamenkovic: 'Extra-scientific values in open-science'
 
  * Speaker: Philippe Stamenkovic
  * Date: 2024-04-12
- * Title: Talking Open Science with non-academics
+ * Title: Extra-scientific values in open-science
 
 ## Abstract
 
