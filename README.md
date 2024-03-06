@@ -34,6 +34,7 @@ We usually have a speaker at the second Friday of the month.
 
 When                      | Where              |What
 --------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------
+2024-03-07 15:00-18:00    |Online              |[COS symposium: Critical Perspectives on the Metascience Reform Movement](https://www.cos.io/critical-perspectives-on-the-metascience-reform-movement)
 2024-03-15 16:15-17:00    |USB [1], Studion    |[Discussion about the Swedish Royal Library's proposition for national guidelines on Open Science](events/20240315_osu/README.md)
 2024-04-12 16:15-17:00    |USB [1], Studion    |[Philippe Stamenkovic: extra-scientific values in open-science](events/20240412_philippe_stamenkovic/README.md)
 2024-05-**17** 16:15-17:00|USB [1], Studion    |[Richèl Bilderbeek: on publishing the analysis of exploratory research before having seen the data](20240517_richel_bilderbeek)
