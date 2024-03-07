@@ -1,6 +1,6 @@
 # 2024-06-14 Nicole Teroni, 'Unlocking Access: Language, Literacy, and Learning in Open Science'
 
-![](20240614_nicole_teroni_screens.jpg)
+![](20240614_screens.jpg)
 
 ## USB
 
