@@ -2,6 +2,8 @@
 
 ![](20240614_screens.jpg)
 
+ * [Facebook event](https://fb.me/e/blcUoGz76)
+
 ## USB
 
  * Studion

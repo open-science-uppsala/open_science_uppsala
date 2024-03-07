@@ -2,6 +2,8 @@
 
 ![](20240315_osu_screens.jpg)
 
+ * [Facebook event](https://fb.me/e/1Lntichpm)
+
 ## USB
 
  * Studion

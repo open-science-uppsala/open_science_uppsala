@@ -5,6 +5,7 @@
  * Speaker: Richèl Bilderbeek
  * Date: 2024-05-17
  * Title: On publishing the analysis of exploratory research before having seen the data
+ * [Facebook event](https://fb.me/e/5aSclKRIO)
 
 Writing down and publishing the analysis of a study before having seen the data
 is a recommended Open Science practice called pre-registration.
