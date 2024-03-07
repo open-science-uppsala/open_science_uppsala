@@ -1,5 +1,7 @@
 # 2024-05-17 Richèl Bilderbeek: 'On publishing the analysis of exploratory research before having seen the data'
 
+![](20240517_screens.jpg)
+
  * Speaker: Richèl Bilderbeek
  * Date: 2024-05-17
  * Title: On publishing the analysis of exploratory research before having seen the data
