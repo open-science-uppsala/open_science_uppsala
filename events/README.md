@@ -22,6 +22,7 @@ When                      | Where              |What
 2024-01-12 16:15-17:00    |USB [1], Studion    |[Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'](20240112_emmi_puuvuori/README.md)
 2024-02-09 16:15-17:00    |USB [1], Studion    |[Douglas Spangler, 'Open source software for prehospital risk prediction'](20240209_douglas_spangler/README.md)
 2024-02-28 10:00-11:30    |Online              |[Richèl Bilderbeek: The pros and cons of Open Science](20240228_richel_bilderbeek/README.md)
+2024-03-07 15:00-18:00    |Online              |[COS symposium: Critical Perspectives on the Metascience Reform Movement](https://www.cos.io/critical-perspectives-on-the-metascience-reform-movement)
 
  * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala
