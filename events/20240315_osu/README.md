@@ -77,6 +77,10 @@ om att berömma och kritiserar Open Science.
 
 Fler info på https://bit.ly/open_science_uppsala
 
+## Presentations
+
+ * [Overview of the guidelines in English from a neutral perspective](https://youtu.be/mMDhbwCyYko)
+
 ## Links
 
  * [KB's suggested guidelines](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap.html)
