@@ -44,7 +44,7 @@ UPCOMING EVENTS:
 
 July - August Summer Holidays
 
-2023-09-08 16:00-17:00 [Open position: Please contact richel@richelbilderbeek.nl to give a talk]
+2023-09-08 16:00-17:00 [Open position: Please contact rjcbilderbeek@gmail.com to give a talk]
 
 *All meetings will be held at Uppsala Stadsbibliotek, (room Mallassal) Svartbäcksgatan 17, 753 75 Uppsala
 ```

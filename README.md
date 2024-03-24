@@ -164,7 +164,7 @@ Activities by OSU are, among others:
 See 'Activities' :-)
 
 Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `richel@richelbilderbeek.nl` 
+at `rjcbilderbeek@gmail.com` 
 if you want to organize or participate in activities.
 
 #### How can I follow Open Science Uppsala?
@@ -204,7 +204,7 @@ and Open Science in particular.
 
 Please add your Open Science community in Uppsala by 
 Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `richel@richelbilderbeek.nl` 
+at `rjcbilderbeek@gmail.com` 
 and I will happily add your Uppsala community here :-)
 
 #### Which similar communities are there online?
@@ -224,7 +224,7 @@ There are many, here I list communities that have members in Uppsala:
    in their work and becoming Open Science ambassadors in their communities.
 
 Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `richel@richelbilderbeek.nl` 
+at `rjcbilderbeek@gmail.com` 
 and I will happily add your online community here :-)
 
 ### Website
@@ -361,13 +361,13 @@ You can:
  * to see what needs to be done: 
    visit the [Issues](https://github.com/richelbilderbeek/open_science_uppsala/issues) 
  * other things: contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-   at `richel@richelbilderbeek.nl` 
+   at `rjcbilderbeek@gmail.com` 
 
 ### Contact
 
 #### How do I contact Open Science Uppsala
 
- * Send an email to [@richelbilderbeek](https://github.com/richelbilderbeek) at `richel@richelbilderbeek.nl`
+ * Send an email to [@richelbilderbeek](https://github.com/richelbilderbeek) at `rjcbilderbeek@gmail.com`
  * Add a GitHub Issue
 
 ## Links
