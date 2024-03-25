@@ -79,7 +79,9 @@ Fler info på https://bit.ly/open_science_uppsala
 
 ## Presentations
 
- * [Overview of the guidelines in English from a neutral perspective](https://youtu.be/mMDhbwCyYko)
+ * [Overview of the guidelines in English from a neutral perspective, by Richèl Bilderbeek](https://youtu.be/mMDhbwCyYko)
+ * [Overview of the guidelines in English from a criticial perspective, by Richèl Bilderbeek](https://youtu.be/--Z81_3JrH8?si=T8z2QjlLAAgYALKD)
+ * [Overview of the guidelines in English from a positive presentation, by Martin Johnsson](osu_march2024.pdf)
 
 ## Links
 
