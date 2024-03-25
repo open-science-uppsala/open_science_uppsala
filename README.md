@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](events/20240412_philippe_stamenkovic/20240412_osu_screens.jpg)
+![](events/20240412_philippe_stamenkovic/20240412_screens.jpg)
 
 ## Activities
 
