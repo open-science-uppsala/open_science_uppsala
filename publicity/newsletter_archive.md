@@ -1,5 +1,34 @@
 # Newsletter archive
 
+## 2024-04-01
+
+```
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2] (talk description is at the bottom):
+
+ * Friday 2024-04-12 Philippe Stamenkovic 'Extra-scientific values in open-science'
+
+Open Science events in Uppsala next months:
+
+ * Friday 2024-05-17 Richèl Bilderbeek 'On publishing the analysis of exploratory research before having seen the data'
+ * Friday 2024-06-14 Nicole Teroni: 'Unlocking Access: Language, Literacy, and Learning in Open Science'
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+## Talk description
+
+Apart from its intra-scientific goals (such as ensuring the reproducibility of scientific results), open science aims at making scientific information available to non-specialists (e.g. decision-makers and the wider public). The latter requires not only to provide ready-made results, but to explain their validity and limitations. For many science studies scholars advocating the influence of extra-scientific factors in science, this means that we (scientists, philosophers, journalists…) should make clear that there are extra-scientific values influencing all stages of scientific inquiry, including when claims are accepted or rejected. This view does not seem to correspond to the way science is actually done, and can have harmful social consequences. Rather, we should strive to make clear the uncertainties associated with current scientific knowledge. Another important distinction relates to the public engagement of scientists, who should make clear their own values in communicating their research, by distinguishing between their (descriptive) statements of facts and their (normative) statements of what to do with these facts. Both requirements enable to respect the autonomy of science results users, who can then follow their own values in their decisions making use of these results.
+
+## Footnotes
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
+```
 
 ## 2024-02-02
 
