@@ -1,5 +1,11 @@
 # Tweets
 
+## 2024-04-12
+
+```
+Today's talk: 16:15-17:00 at Stadsbiblioteket by Philippe Stamenkovic, 'Extra-scientific values in open-science'
+```
+
 ## 2024-04-01
 
 ```
