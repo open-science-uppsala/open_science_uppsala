@@ -1,3 +1,6 @@
+# 2024-10-11 Christopher Erdmann and Elin Kronander: 'Open science at SciLifeLab - the infrastructure unit’s role in advancing open science in Sweden and beyond'
+
+![](20241011_screens.jpg)
 
  * Title: Open science at SciLifeLab - the infrastructure unit’s role in advancing open science in Sweden and beyond
  * Presenters: Christopher Erdmann and Elin Kronander
