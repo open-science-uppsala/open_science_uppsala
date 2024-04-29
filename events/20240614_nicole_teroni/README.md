@@ -25,7 +25,7 @@ Fler info på https://bit.ly/open_science_uppsala
 ### :gb: Short text
 
 Friday 14th June 2023 16:15-17:00, OSU welcomes Nicole Teroni
-with his presentation 'Unlocking Access: Language, Literacy, and Learning in Open Science'.
+with her presentation 'Unlocking Access: Language, Literacy, and Learning in Open Science'.
 More info at https://bit.ly/open_science_uppsala
 
 ### :sweden: Längre text
