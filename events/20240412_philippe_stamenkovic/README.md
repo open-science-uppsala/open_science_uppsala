@@ -6,6 +6,7 @@
  * Date: 2024-04-12
  * Title: Extra-scientific values in open-science
  * [Facebook event](https://fb.me/e/1V4F8lDIg)
+ * [Presentation slides](presentation.pdf)
 
 ## Abstract
 
