@@ -1,5 +1,12 @@
 # Tweets
 
+## 2024-05-02
+
+```
+OSU's next talk: Friday May 17th 16:15-17:00 at Stadsbiblioteket by Richèl Bilderbeek: 'On publishing the analysis of exploratory research before having seen the data'
+```
+
+
 ## 2024-04-12
 
 ```
