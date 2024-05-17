@@ -1,5 +1,11 @@
 # Tweets
 
+## 2024-05-17
+
+```
+Today's talk: 16:15-17:00 at Stadsbiblioteket by Richèl Bilderbeek: 'On publishing the analysis of exploratory research before having seen the data'
+```
+
 ## 2024-05-02
 
 ```
