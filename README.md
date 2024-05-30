@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](events/20240517_richel_bilderbeek/20240517_screens.jpg)
+![](events/20240614_nicole_teroni/20240614_screens.jpg)
 
 ## Activities
 
