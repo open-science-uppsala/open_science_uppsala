@@ -46,7 +46,6 @@ See ['events'](events/README.md) for our past activities.
 
 - [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
   Svartbäcksgatan 17, 753 75 Uppsala
-- [2] Cannot be 11th, looking for a new date
 
 ![](pics/uppsala_map_annotated.png)
 
