@@ -1,5 +1,37 @@
 # Newsletter archive
 
+## 2024-06-03
+
+```
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2] (talk description is at the bottom):
+
+ * Friday 2024-06-14 Nicole Teroni: Unlocking Access: Language, Literacy, and Learning in Open Science
+
+Open Science events in Uppsala next months:
+
+ * Friday 2024-09-13 Paul Jacobson: Brain Training'
+ * Friday 2024-10-18 [3] Christopher Erdmann and Elin Kronander: Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+## Talk description
+
+'Unlocking Access' explores the essential components for making Open Science truly inclusive and impactful. In an era where knowledge dissemination is increasingly digitalised, mastery of language, digital literacy, and critical thinking skills stand as gatekeepers to accessing scientific knowledge. From the perspective of an educator and language specialist, this talk examines the importance of language proficiency and education on effectively utilizing open scientific resources. By bridging accessibility and expertise, is it possible to foster a fairer, informed society?
+
+## Footnotes
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
+ * [3] Moved to one week later
+```
+
+
 ## 2024-05-02
 
 ```

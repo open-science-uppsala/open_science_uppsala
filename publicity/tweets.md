@@ -1,5 +1,11 @@
 # Tweets
 
+## 2024-06-03
+
+```
+OSU's next talk: Friday June 14th 16:15-17:00 at Stadsbiblioteket by Nicole Teroni: 'Unlocking Access: Language, Literacy, and Learning in Open Science'.
+```
+
 ## 2024-05-17
 
 ```
