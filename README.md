@@ -294,9 +294,6 @@ Ordered alphabetically on first name:
   [0000-0002-9274-6998](https://orcid.org/0000-0002-9274-6998)
   ![Twitter logo](pics/twitter_logo_19_x_16.png)
   [@BDahren](https://twitter.com/BDahren)
-- Emmi Puuvuori
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0001-8501-218X](https://orcid.org/0000-0001-8501-218X)
 - Jonas Söderberg
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
@@ -335,6 +332,13 @@ Ordered alphabetically on first name:
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0001-5641-610X](https://orcid.org/0000-0001-5641-610X)
 
+#### Who are former team members?
+
+Sometimes other things are even more important :-)
+
+- Emmi Puuvuori
+  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
+  [0000-0001-8501-218X](https://orcid.org/0000-0001-8501-218X)
 
 #### I want to help organize! Am I welcome?
 
