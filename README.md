@@ -318,7 +318,7 @@ Ordered alphabetically on first name:
 - Finances: Richel
 - Maintaining this website: Richel
 - Facebook account: Anna
-- LinkedIn account: Emmi
+- LinkedIn account: ?
 - Mastodon account: Börje
 - Twitter account: Richel
 
