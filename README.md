@@ -40,7 +40,7 @@ When                      | Where              |What
 2024-09-13 16:15-17:00    |USB [1], Studion    |[Paul Jacobson: Brain Training](events/20240913_paul_jacobson/README.md)
 2024-10-**18** 16:15-17:00|USB [1], Studion    |[Christopher Erdmann and Elin Kronander, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond](events/20241011_christopher_erdmann_and_elin_kronander/README.md)
 2024-11-08 16:15-17:00    |USB [1], Studion    |Free slot!
-2024-12-13 16:15-17:00    |USB [1], Studion    |Free slot!
+2024-12-13 16:15-17:00    |USB [1], Studion    |Ismail Elouafiq
 
 See ['events'](events/README.md) for our past activities.
 
