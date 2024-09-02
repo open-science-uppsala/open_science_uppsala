@@ -26,6 +26,7 @@ When                      | Where              |What
 2024-03-15 16:15-17:00    |USB [1], Studion    |[Discussion about the Swedish Royal Library's proposition for national guidelines on Open Science](20240315_osu/README.md)
 2024-04-12 16:15-17:00    |USB [1], Studion    |[Philippe Stamenkovic: extra-scientific values in open-science](20240412_philippe_stamenkovic/README.md)
 2024-05-17 16:15-17:00    |USB [1], Studion    |[Richèl Bilderbeek: on publishing the analysis of exploratory research before having seen the data](events/20240517_richel_bilderbeek/README.md)
+2024-06-14 16:15-17:00    |USB [1], Studion    |[Nicole Teroni, Unlocking Access: Language, Literacy, and Learning in Open Science](20240614_nicole_teroni/README.md)
 
  * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
    Svartbäcksgatan 17, 753 75 Uppsala

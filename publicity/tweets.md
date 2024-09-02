@@ -1,5 +1,12 @@
 # Tweets
 
+## 2024-09-02
+
+```
+OSU's next talk: Friday September 13th 16:15-17:00 at Stadsbiblioteket by Paul Jacobson: 'Brain Training'.
+```
+
+
 ## 2024-06-14
 
 ```
