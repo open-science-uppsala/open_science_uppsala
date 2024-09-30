@@ -220,6 +220,10 @@ Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `rjcbilderbeek@gmail.com` 
 and I will happily add your online community here :-)
 
+#### How many people visit each event?
+
+See [the 'data' section](data/README.md), where you can find all data.
+
 ### Website
 
 #### Why did you start this website?
