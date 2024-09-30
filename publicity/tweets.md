@@ -1,5 +1,11 @@
 # Tweets
 
+## 2024-10-01
+
+```
+OSU's next talk: Friday October 18th 16:15-17:00 at Stadsbiblioteket by Christopher Erdmann and Elin Kronander: 'Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond'.
+```
+
 ## 2024-09-02
 
 ```
