@@ -34,7 +34,7 @@ ggplot2::ggplot(t, ggplot2::aes(x = date, y = n_visitors)) +
   ) +
   ggplot2::labs(
     title = "Number of visitors per event",
-    caption = "The number of visitors excludes the speaker(s) and organizer(s)"
+    caption = "The number of visitors excludes the speaker(s) and 1 organizer"
   ) +
   ggplot2::theme(text = ggplot2::element_text(size = 20)) +
   ggplot2::theme(
