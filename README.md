@@ -35,7 +35,7 @@ We usually have a speaker at the second Friday of the month.
 When                      | Where              |What
 --------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------
 2024-10-**18** 16:15-17:00|USB [1], Studion    |[Christopher Erdmann and Elin Kronander, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond](events/20241011_christopher_erdmann_and_elin_kronander/README.md)
-2024-11-08 16:15-17:00    |USB [1], Studion    |[Richel Bilderbeek, Kreti and Pleti doing Open Citizen Science](events/20241108_richel_bilderbeek/README.md)
+2024-11-08 16:15-17:00    |USB [1], Studion    |[Richel Bilderbeek, Open Science and humans being scientists](events/20241108_richel_bilderbeek/README.md)
 2024-12-13 16:15-17:00    |USB [1], Studion    |Ismail Elouafiq, TBA
 ?2025-01-10               |?USB                |TBA
 ?2025-02-14               |?USB                |TBA
