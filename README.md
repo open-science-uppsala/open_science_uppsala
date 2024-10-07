@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](events/20241011_christopher_erdmann_and_elin_kronander/20241011_screens.jpg)
+![](events/20241011_christopher_erdmann_and_elin_kronander/20241018_screens.jpg)
 
 ## Activities
 
