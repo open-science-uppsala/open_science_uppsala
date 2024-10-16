@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![Next activity](events/20241011_christopher_erdmann/20241018_screens.jpg)
+![](events/20241018_christopher_erdmann/20241018_screens.jpg)
 
 ## Activities
 
