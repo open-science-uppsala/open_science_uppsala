@@ -1,6 +1,6 @@
-# 2024-10-11 Christopher Erdmann: 'Open science at SciLifeLab - the infrastructure unit’s role in advancing open science in Sweden and beyond'
+# 2024-10-18 Christopher Erdmann: 'Open science at SciLifeLab - the infrastructure unit’s role in advancing open science in Sweden and beyond'
 
-![](20241011_screens.jpg)
+![](20241018_screens.jpg)
 
  * Title: Open science at SciLifeLab - the infrastructure unit’s role in advancing open science in Sweden and beyond
  * Presenters: Christopher Erdmann
