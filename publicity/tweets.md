@@ -1,5 +1,11 @@
 # Tweets
 
+## 2024-10-18
+
+```
+Today 16:15-17:00 at Stadsbiblioteket by Christopher Erdmann: 'Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond'.
+```
+
 ## 2024-10-01
 
 ```
