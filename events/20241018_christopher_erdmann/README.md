@@ -4,6 +4,7 @@
 
  * Title: Open science at SciLifeLab - the infrastructure unit’s role in advancing open science in Sweden and beyond
  * Presenters: Christopher Erdmann
+ * [View presentation](presentation.pdf)
 
 ## Description
  
