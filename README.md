@@ -26,7 +26,7 @@ Logo                                                |Link
 
 ## Next activity
 
-![](events/20241018_christopher_erdmann/20241018_screens.jpg)
+![](events/20241108_richel_bilderbeek/20241108_screens.jpg)
 
 ## Activities
 
@@ -34,7 +34,6 @@ We usually have a speaker at the second Friday of the month.
 
 When                      | Where              |What
 --------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------
-2024-10-**18** 16:15-17:00|USB [1], Studion    |[Christopher Erdmann, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond](events/20241018_christopher_erdmann/README.md)
 2024-11-08 16:15-17:00    |USB [1], Studion    |[Richel Bilderbeek, Open Science and humans being scientists](events/20241108_richel_bilderbeek/README.md)
 2024-12-13 16:15-17:00    |USB [1], Studion    |Ismail Elouafiq, TBA
 ?2025-01-10               |?USB                |TBA
