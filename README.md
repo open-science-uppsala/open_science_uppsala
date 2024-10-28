@@ -38,7 +38,7 @@ When                      | Where              |What
 2024-12-13 16:15-17:00    |USB [1], Studion    |Ismail Elouafiq, TBA
 ?2025-01-10               |?USB                |TBA
 ?2025-02-14               |?USB                |TBA
-?2025-03-14               |?USB                |TBA
+?2025-03-14               |?USB                |Parul Tewatia, TBA
 ?2025-04-11               |?USB                |TBA
 ?2025-05-09               |?USB                |TBA
 ?2025-06-13               |?USB                |TBA
