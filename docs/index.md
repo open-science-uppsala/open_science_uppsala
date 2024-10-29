@@ -15,3 +15,4 @@ This group discusses the pros and cons of Open Science
 by means of discussing papers and inviting speakers. 
 
 ![](events/20241108_richel_bilderbeek/20241108_screens.jpg)
+
