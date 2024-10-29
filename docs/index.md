@@ -1,4 +1,4 @@
-![Open Science Uppsala logo](logo/osu_logo_25.png)
+![The Open Science Uppsala logo](logo/osu_logo_25.png)
 
 > The Open Science Uppsala logo
 
@@ -14,5 +14,9 @@ resulting in research that is (more likely to be) reproducible.
 This group discusses the pros and cons of Open Science 
 by means of discussing papers and inviting speakers. 
 
-![](events/20241108_richel_bilderbeek/20241108_screens.jpg)
+- [What is Open Science Upssala?](content/what.md)
+- [Activities](content/activies.md)
+- [Past events](content/events.md)
+- [FAQ](content/faq.md)
+
 

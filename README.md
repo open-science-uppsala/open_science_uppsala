@@ -1,5 +1,7 @@
 # Open Science Uppsala
 
+![The Open Science Uppsala logo](docs/logo/osu_logo_25.png)
+
 <!-- markdownlint-disable MD013 -->
 
 [![Check links](https://github.com/open-science-uppsala/open_science_uppsala/actions/workflows/check_links.yaml/badge.svg?branch=master)](https://github.com/open-science-uppsala/open_science_uppsala/actions/workflows/check_links.yaml)
