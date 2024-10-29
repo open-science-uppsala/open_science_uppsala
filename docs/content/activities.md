@@ -16,7 +16,7 @@ When                      | Where              |What
 ?2025-06-13               |?USB                |TBA
 ?2025-07-11               |?USB                |TBA
 
-See ['events'](events/README.md) for our past activities.
+See ['events'](events.md) for our past activities.
 
 - [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
   Svartbäcksgatan 17, 753 75 Uppsala

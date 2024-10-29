@@ -5,8 +5,9 @@ repo_url: https://github.com/open-science-uppsala/open_science_uppsala
 nav:
   - Home: index.md
   - Content:
-    - What is OSU: content/events.md
-    - Events: content/events.md
+    - What is OSU: content/what.md
+    - Activities: content/activies.md
+    - Past events: content/events.md
     - FAQ: content/faq.md
 
 theme:
