@@ -1,6 +1,6 @@
 site_name: Open Science Uppsala
 
-repo_url: Open Science Uppsala
+repo_url: https://github.com/open-science-uppsala/open_science_uppsala
 
 nav:
   - Home: index.md
