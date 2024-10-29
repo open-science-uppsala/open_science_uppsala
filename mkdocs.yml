@@ -3,7 +3,6 @@ site_name: Open Science Uppsala
 repo_url: https://github.com/open-science-uppsala/open_science_uppsala
 
 nav:
-  - Home: index.md
   - Content:
     - What is Open Science Uppsala: content/what.md
     - How to follow Open Science Uppsala: content/follow.md
