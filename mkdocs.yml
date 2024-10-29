@@ -14,7 +14,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: assets/logo_color.png
+  logo: logo/osu_logo.png
 
   features:
     - toc.integrate
