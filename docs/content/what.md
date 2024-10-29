@@ -6,14 +6,14 @@
 Welcome to the homepage of Open Science Uppsala,
 the local Open Science community in Uppsala.
 
-Open Science is the application of the scientific method 
-in the most transparent way possible, 
+Open Science is the application of the scientific method
+in the most transparent way possible,
 such as Open Access papers, Open (and FAIR) Data,
 Open Code, open peer-review, preregistration and registered reports,
 resulting in research that is (more likely to be) reproducible.
 
-This group discusses the pros and cons of Open Science 
-by means of discussing papers and inviting speakers. 
+This group discusses the pros and cons of Open Science
+by means of discussing papers and inviting speakers.
 
 You can follow us here:
 
@@ -30,7 +30,7 @@ Logo                                                |Link
 
 ## Activities
 
-We usually have a speaker at the second Friday of the month. 
+We usually have a speaker at the second Friday of the month.
 
 When                      | Where              |What
 --------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------
@@ -46,13 +46,14 @@ When                      | Where              |What
 
 See ['events'](events/README.md) for our past activities.
 
-- [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
+- [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
   Svartbäcksgatan 17, 753 75 Uppsala
 
 ![](pics/uppsala_map_annotated.png)
 
 > Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
 > We are at 1.
+>
 > 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
 > 2. Domkyrkan
 > 3. Stora torget
@@ -69,8 +70,8 @@ See ['events'](events/README.md) for our past activities.
 
 ## Schedule
 
-This is a regular schedule for a meeting. 
-Note that the speaker is boss regarding (1) the exact time to start, 
+This is a regular schedule for a meeting.
+Note that the speaker is boss regarding (1) the exact time to start,
 (2) the time to yes/no take questions.
 
 When         |What
@@ -110,7 +111,7 @@ here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ar
 > more widely—not only with each other but also with the rest of society.
 > Open science is about making sure not only that scientific knowledge is
 > accessible but also that the production of that knowledge itself is
-> inclusive, equitable and sustainable. 
+> inclusive, equitable and sustainable.
 
 #### Which literature do you recommend?
 
@@ -141,7 +142,7 @@ Activities by OSU are, among others:
 See 'Activities' :-)
 
 Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `rjcbilderbeek@gmail.com` 
+at `rjcbilderbeek@gmail.com`
 if you want to organize or participate in activities.
 
 #### How can I follow Open Science Uppsala?
@@ -166,22 +167,22 @@ and Open Science in particular.
 - Conspiracy theories (e.g. 'All scientists are corrupt'): instead,
   discuss what the academic literature states on scientists' behavior
 - Anecdotal evidence: instead, refer to scientific studies
-  and/or reviews. Of course, throwing in a personal story is OK, 
+  and/or reviews. Of course, throwing in a personal story is OK,
   using it as a irrefutable proof is scholarly no-go.
 
 #### Which similar communities are there in Uppsala?
 
 - [Science Fika](https://www.sciencefika.se):
   an community for 20 mins science talks aimed at a general audience
-- ReproducibiliTea Psychology: a community that focuses on 
+- ReproducibiliTea Psychology: a community that focuses on
   the department of Psychology. They do not have a website.
 - [The Uppsala node of the Swedish Reproducibility Network](http://www.swern.org/):
   a community that focuses reproducibility.
   This local node does not have had events yet.
 
-Please add your Open Science community in Uppsala by 
+Please add your Open Science community in Uppsala by
 Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `rjcbilderbeek@gmail.com` 
+at `rjcbilderbeek@gmail.com`
 and I will happily add your Uppsala community here :-)
 
 #### Which similar communities are there online?
@@ -192,16 +193,16 @@ There are many, here I list communities that have members in Uppsala:
   the bigger, more online community
 - [Open Science Sweden](https://opensciencesweden.org/):
   the bigger, more online community
-- [FAIRPoints](https://www.fairpoints.org/): an online 
-  event series highlighting pragmatic measures 
-  developed by the community 
+- [FAIRPoints](https://www.fairpoints.org/): an online
+  event series highlighting pragmatic measures
+  developed by the community
   towards the implementation of the FAIR data principles.
-- [Open life Science](https://openlifesci.org/): 
-  a program for people interested in applying open principles 
+- [Open life Science](https://openlifesci.org/):
+  a program for people interested in applying open principles
   in their work and becoming Open Science ambassadors in their communities.
 
 Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-at `rjcbilderbeek@gmail.com` 
+at `rjcbilderbeek@gmail.com`
 and I will happily add your online community here :-)
 
 #### How many people visit each event?
@@ -262,13 +263,13 @@ When         |What
 17:00 onwards|End of meeting, option to join us to the pub after cleaning
 
 During your talk, you are free to determine when there is time for
-questions. 
+questions.
 
 #### What type of visitors can I expect?
 
 People that are interested in Open Science.
 Around two-thirds of the audience works in academia.
- 
+
 #### How many visitors can I expect?
 
 See [the 'data' section](data/README.md), where you can find all data.
@@ -284,7 +285,7 @@ See [the 'data' section](data/README.md), where you can find all data.
 
 Ordered alphabetically on first name:
 
-- Anna Hallberg 
+- Anna Hallberg
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0001-6219-1402](https://orcid.org/0000-0001-6219-1402)
   ![Twitter logo](pics/twitter_logo_19_x_16.png)
@@ -297,17 +298,17 @@ Ordered alphabetically on first name:
 - Jonas Söderberg
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
-  ![GitHub logo](pics/github_logo_16_x_16.png) 
+  ![GitHub logo](pics/github_logo_16_x_16.png)
   [Netzach](https://github.com/Netzach)
-- Richel Bilderbeek: 
+- Richel Bilderbeek:
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049) 
+  [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049)
   ![Twitter logo](pics/twitter_logo_19_x_16.png)
   [@rjcbilderbeek](https://twitter.com/rjcbilderbeek)
-  ![GitHub logo](pics/github_logo_16_x_16.png) 
-  [richelbilderbeek](https://github.com/richelbilderbeek) 
-  ![OSF logo](pics/osf_logo_16_x_16.png) 
-  [Richel Bilderbeek](https://osf.io/5dtem/) 
+  ![GitHub logo](pics/github_logo_16_x_16.png)
+  [richelbilderbeek](https://github.com/richelbilderbeek)
+  ![OSF logo](pics/osf_logo_16_x_16.png)
+  [Richel Bilderbeek](https://osf.io/5dtem/)
 
 #### What is the current structure of Open Science Uppsala?
 
@@ -358,10 +359,10 @@ Awesome!
 
 You can:
 
-- to see what needs to be done: 
-  visit the [Issues](https://github.com/richelbilderbeek/open_science_uppsala/issues) 
+- to see what needs to be done:
+  visit the [Issues](https://github.com/richelbilderbeek/open_science_uppsala/issues)
 - other things: contact [@richelbilderbeek](https://github.com/richelbilderbeek)
-  at `rjcbilderbeek@gmail.com` 
+  at `rjcbilderbeek@gmail.com`
 
 ### Contact
 
@@ -387,13 +388,13 @@ You can:
 
 ## References
 
-- [Kathawalla et al., 2021] 
-  Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed. 
+- [Kathawalla et al., 2021]
+  Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed.
   "Easing into open science: A guide for graduate students and their advisors."
   Collabra: Psychology 7.1 (2021).
 
-- [Milham and Klein, 2019] Milham, 
-  Michael P., and Arno Klein. 
-  "Be the change you seek in science." 
+- [Milham and Klein, 2019] Milham,
+  Michael P., and Arno Klein.
+  "Be the change you seek in science."
   BMC biology 17.1 (2019): 1-4.
   [List of recommended practices](https://matter.childmind.org/open-science.html)

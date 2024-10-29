@@ -2,19 +2,19 @@
 
 ![](20240315_osu_screens.jpg)
 
- * [Facebook event](https://fb.me/e/1Lntichpm)
+* [Facebook event](https://fb.me/e/1Lntichpm)
 
 ## USB
 
- * Studion
- * Språk: Engelska
- * Ålder/Målgrupp: 8-88
- * Samarrangör: Open Science Uppsala
- * Anmälan: nej
- * Bild av ansikte: -
- * Fotografens namn av ansikte: -
- * Bakgrundsbild: [background_image.png](background_image.png)
- * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
+* Studion
+* Språk: Engelska
+* Ålder/Målgrupp: 8-88
+* Samarrangör: Open Science Uppsala
+* Anmälan: nej
+* Bild av ansikte: -
+* Fotografens namn av ansikte: -
+* Bakgrundsbild: [background_image.png](background_image.png)
+* Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### Short text/kort text
 
@@ -22,13 +22,13 @@
 
 Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
-More info at https://bit.ly/open_science_uppsala
+More info at <https://bit.ly/open_science_uppsala>
 
 #### Svenska
 
 Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
 Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
-Fler info på https://bit.ly/open_science_uppsala
+Fler info på <https://bit.ly/open_science_uppsala>
 
 ### Longer text/längre text
 
@@ -38,7 +38,7 @@ Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
 
 On January 15th the natio­nal guide­li­nes for promoting open science in Sweden
-came out and can be found at https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html .
+came out and can be found at <https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html> .
 For now, these guidelines are published in Swedish only.
 At this OSU event, we'll translate and discuss these guidelines.
 
@@ -52,7 +52,7 @@ illustrated with examples of his/her own interest.
 Anyone who embraces the scientific method is welcome
 on praising and criticizing Open Science.
 
-More info at https://bit.ly/open_science_uppsala
+More info at <https://bit.ly/open_science_uppsala>
 
 #### Svenska
 
@@ -61,13 +61,13 @@ en diskussion om
 Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
 
 Den 15 januari de nationella riktlinjerna för att främja öppen vetenskap i Sverige
-kom ut och finns på https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html .
+kom ut och finns på <https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html> .
 För närvarande publiceras dessa riktlinjer endast på svenska.
 Vid detta OSU-evenemang kommer vi att översätta och diskutera dessa riktlinjer.
 
-Open Science Uppsala är den lokala Open Science grupp, 
-var man diskuterar om -duh!- Open Science. 
-Open Science är en väg att forskning med -bland annat- 
+Open Science Uppsala är den lokala Open Science grupp,
+var man diskuterar om -duh!- Open Science.
+Open Science är en väg att forskning med -bland annat-
 mål att göra forskning mer reproducerbar.
 Var föredragare pratar om en aspekt av Open Science, oft
 illustrerad med exempel av hans/hons egen interesse.
@@ -75,15 +75,15 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på https://bit.ly/open_science_uppsala
+Fler info på <https://bit.ly/open_science_uppsala>
 
 ## Presentations
 
- * [Overview of the guidelines in English from a neutral perspective, by Richèl Bilderbeek](https://youtu.be/mMDhbwCyYko)
- * [Overview of the guidelines in English from a criticial perspective, by Richèl Bilderbeek](https://youtu.be/--Z81_3JrH8?si=T8z2QjlLAAgYALKD)
- * [Overview of the guidelines in English from a positive presentation, by Martin Johnsson](osu_march2024.pdf)
+* [Overview of the guidelines in English from a neutral perspective, by Richèl Bilderbeek](https://youtu.be/mMDhbwCyYko)
+* [Overview of the guidelines in English from a criticial perspective, by Richèl Bilderbeek](https://youtu.be/--Z81_3JrH8?si=T8z2QjlLAAgYALKD)
+* [Overview of the guidelines in English from a positive presentation, by Martin Johnsson](osu_march2024.pdf)
 
 ## Links
 
- * [KB's suggested guidelines](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap.html)
- * [responses](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap/inkomna-svar.html)
+* [KB's suggested guidelines](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap.html)
+* [responses](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap/inkomna-svar.html)

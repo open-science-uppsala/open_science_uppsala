@@ -12,7 +12,7 @@ Open Science Uppsala has the following logo
 
 ## Logo creation
 
-The OSU logo is simply a combination of two logos: 
+The OSU logo is simply a combination of two logos:
 
   1. the Open Science logo
   2. The Uppsala Makerspace logo

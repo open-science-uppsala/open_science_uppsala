@@ -2,7 +2,7 @@
 
 ## Specified plan
 
-This is the general idea, specified per day. 
+This is the general idea, specified per day.
 This table will change as time passes by.
 
 Who   |Date      |Day in month       |What
@@ -69,7 +69,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
  * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 ```
 
-Twitter, post-presentation, https://twitter.com/opensciupp/status/1648183665090863104
+Twitter, post-presentation, <https://twitter.com/opensciupp/status/1648183665090863104>
 
 ```
 The slides of Barbro Bornsäter's talk can be found at [URL]
@@ -77,8 +77,8 @@ The slides of Barbro Bornsäter's talk can be found at [URL]
 
 ## New
 
- * [ ] SciLifeLab newsletter, Victor Kuismin
- * [ ] SLU slides, Tomas Klingström
+* [ ] SciLifeLab newsletter, Victor Kuismin
+* [ ] SLU slides, Tomas Klingström
 
 ## General plan
 

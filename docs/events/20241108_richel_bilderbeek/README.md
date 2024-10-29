@@ -2,31 +2,31 @@
 
 ![](20241108_screens.jpg)
 
- * Speaker: Richel Bilderbeek
- * Title: Open Science and humans being scientists
+* Speaker: Richel Bilderbeek
+* Title: Open Science and humans being scientists
 
 ## USB
 
- * Studion
- * Språk: Engelska
- * Ålder/Målgrupp: 8-88
- * Samarrangör: Open Science Uppsala
- * Anmälan: nej
- * Bild av ansikte: -
- * Fotografens namn av ansikte: -
- * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
+* Studion
+* Språk: Engelska
+* Ålder/Målgrupp: 8-88
+* Samarrangör: Open Science Uppsala
+* Anmälan: nej
+* Bild av ansikte: -
+* Fotografens namn av ansikte: -
+* Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### :sweden: Kort text
 
 Fredag 8:e November 16.15-17.00 OSU hälsar Richel Bilderbeek
 med föredrag 'Open Science and humans being scientists'.
-Fler info på https://bit.ly/open_science_uppsala
+Fler info på <https://bit.ly/open_science_uppsala>
 
 ### :gb: Short text
 
 Friday 8th November 2023 16:15-17:00, OSU welcomes Richel Bilderbeek
 with his presentation 'Open Science and humans being scientists'.
-More info at https://bit.ly/open_science_uppsala
+More info at <https://bit.ly/open_science_uppsala>
 
 
 ### :sweden: Längre text

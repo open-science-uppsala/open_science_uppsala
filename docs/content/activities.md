@@ -2,7 +2,7 @@
 
 ![](events/20241108_richel_bilderbeek/20241108_screens.jpg)
 
-We usually have a speaker at the second Friday of the month. 
+We usually have a speaker at the second Friday of the month.
 
 When                      | Where              |What
 --------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------
@@ -18,13 +18,14 @@ When                      | Where              |What
 
 See ['events'](events/README.md) for our past activities.
 
-- [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket), 
+- [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
   Svartbäcksgatan 17, 753 75 Uppsala
 
 ![](pics/uppsala_map_annotated.png)
 
 > Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
 > We are at 1.
+>
 > 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
 > 2. Domkyrkan
 > 3. Stora torget
