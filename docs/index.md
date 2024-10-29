@@ -1,7 +1,5 @@
 ![The Open Science Uppsala logo](logo/osu_logo_25.png)
 
-> The Open Science Uppsala logo
-
 Welcome to the homepage of Open Science Uppsala,
 the local Open Science community in Uppsala.
 
@@ -15,6 +13,7 @@ This group discusses the pros and cons of Open Science
 by means of discussing papers and inviting speakers. 
 
 - [What is Open Science Upssala?](content/what.md)
+- [How to follow Open Science Uppsala](content/follow.md)
 - [Activities](content/activies.md)
 - [Past events](content/events.md)
 - [FAQ](content/faq.md)

@@ -1,90 +1,11 @@
+# Frequently asked questions
 
 ![Open Science Uppsala logo](logo/osu_logo_25.png)
 
 > The Open Science Uppsala logo
 
-Welcome to the homepage of Open Science Uppsala,
+Welcome to the frequently asked questions of Open Science Uppsala,
 the local Open Science community in Uppsala.
-
-Open Science is the application of the scientific method
-in the most transparent way possible,
-such as Open Access papers, Open (and FAIR) Data,
-Open Code, open peer-review, preregistration and registered reports,
-resulting in research that is (more likely to be) reproducible.
-
-This group discusses the pros and cons of Open Science
-by means of discussing papers and inviting speakers.
-
-You can follow us here:
-
-Logo                                                |Link
-----------------------------------------------------|---------------------------------------------------------
-![FreeLists logo](pics/freelists_logo_114_x_34.png) | **[Email list](https://www.freelists.org/list/osu)**
-![LinkedIn logo](pics/In-Blue-34.png)               | **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
-![Twitter logo](pics/twitter_logo_34_x_34.png)      | **[@opensciupp](https://twitter.com/opensciupp)**
-![Facebook logo](pics/facebook_logo_34_x_34.png)    | **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
-
-## Next activity
-
-![](events/20241108_richel_bilderbeek/20241108_screens.jpg)
-
-## Activities
-
-We usually have a speaker at the second Friday of the month.
-
-When                      | Where              |What
---------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------
-2024-11-08 16:15-17:00    |USB [1], Studion    |[Richel Bilderbeek, Open Science and humans being scientists](events/20241108_richel_bilderbeek/README.md)
-2024-12-13 16:15-17:00    |USB [1], Studion    |Ismail Elouafiq, TBA
-?2025-01-10               |?USB                |TBA
-?2025-02-14               |?USB                |TBA
-?2025-03-14               |?USB                |Parul Tewatia, TBA
-?2025-04-11               |?USB                |TBA
-?2025-05-09               |?USB                |TBA
-?2025-06-13               |?USB                |TBA
-?2025-07-11               |?USB                |TBA
-
-See ['events'](events/README.md) for our past activities.
-
-- [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
-  Svartbäcksgatan 17, 753 75 Uppsala
-
-![](pics/uppsala_map_annotated.png)
-
-> Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
-> We are at 1.
->
-> 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
-> 2. Domkyrkan
-> 3. Stora torget
-> 4. Uppsala Central Station
-
-![](pics/usb_studion_annotated.png)
-
-> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
-
-## Open Science Uppsala in the news
-
-- [2023-10-06: article for the Uppsala University newsletter](https://www.uu.se/en/news/archive/2023-10-06-open-science-uppsala-reveals-science)
-- [2023-12-11: interview with Universitetsläraren](https://universitetslararen.se/2023/12/11/samtalar-med-allmanheten-om-oppen-vetenskap/)
-
-## Schedule
-
-This is a regular schedule for a meeting.
-Note that the speaker is boss regarding (1) the exact time to start,
-(2) the time to yes/no take questions.
-
-When         |What
--------------|-----------------------------------------------------------
-15:30-16:00  |Speaker and OSU host prepare
-16:00-16:15  |Audience is welcome
-16:15-16:16  |Introduction about OSU
-16:16-17:00  |Talk, including questions
-17:00 onwards|End of meeting, option to join us to the pub after cleaning
-
-## FAQ
-
-These are the Frequently Asked Questions, also called 'FAQ'.
 
 The sections are:
 
@@ -97,9 +18,9 @@ Section                                               |Description
 [Volunteering](#volunteering)                         |Volunteering at OSU
 [Contact](#contact)                                   |How to contact us
 
-### Open Science
+## Open Science
 
-#### What is Open Science?
+### What is Open Science?
 
 There are multiple definitions,
 here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ark:/48223/pf0000387983.locale=en)
@@ -113,14 +34,14 @@ here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ar
 > accessible but also that the production of that knowledge itself is
 > inclusive, equitable and sustainable.
 
-#### Which literature do you recommend?
+### Which literature do you recommend?
 
 - [Search Google Scholar for 'Open Science'](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=open+science&btnG=)
 - See [the references](#references)
 
-### Open Science Uppsala
+## Open Science Uppsala
 
-#### What is the goal of Open Science Uppsala?
+### What is the goal of Open Science Uppsala?
 
 - to **teach** one another about Open Science (e.g. by reading papers)
 - to **discuss** Open Science
@@ -132,7 +53,7 @@ here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ar
 - at a **public location** (i.e. non-scientists can reach the venue)
 - in a **scholarly** way (i.e. we embrace the scientific method in our discussions)
 
-#### What activities does Open Science Uppsala organize?
+### What activities does Open Science Uppsala organize?
 
 Activities by OSU are, among others:
 
@@ -145,7 +66,7 @@ Please contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `rjcbilderbeek@gmail.com`
 if you want to organize or participate in activities.
 
-#### How can I follow Open Science Uppsala?
+### How can I follow Open Science Uppsala?
 
 You can follow us by:
 
@@ -155,13 +76,13 @@ You can follow us by:
 - ![Facebook logo](pics/facebook_logo_34_x_34.png) **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
 - Mastodon: [TODO by Börje]
 
-#### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
+### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
 Because the meetings are intended to be open to everyone
 that wants to discuss the scientific method in general
 and Open Science in particular.
 
-#### What will not be accepted in discussions?
+### What will not be accepted in discussions?
 
 - *Ad hominem* reasoning: instead, discuss the content of the argument instead
 - Conspiracy theories (e.g. 'All scientists are corrupt'): instead,
@@ -170,7 +91,7 @@ and Open Science in particular.
   and/or reviews. Of course, throwing in a personal story is OK,
   using it as a irrefutable proof is scholarly no-go.
 
-#### Which similar communities are there in Uppsala?
+### Which similar communities are there in Uppsala?
 
 - [Science Fika](https://www.sciencefika.se):
   an community for 20 mins science talks aimed at a general audience
@@ -185,7 +106,7 @@ Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `rjcbilderbeek@gmail.com`
 and I will happily add your Uppsala community here :-)
 
-#### Which similar communities are there online?
+### Which similar communities are there online?
 
 There are many, here I list communities that have members in Uppsala:
 
@@ -205,42 +126,42 @@ Contact [@richelbilderbeek](https://github.com/richelbilderbeek)
 at `rjcbilderbeek@gmail.com`
 and I will happily add your online community here :-)
 
-#### How many people visit each event?
+### How many people visit each event?
 
 See [the 'data' section](data/README.md), where you can find all data.
 
-### Website
+## Website
 
-#### Why did you start this website?
+### Why did you start this website?
 
 As the Open Science community in Uppsala is small.
 At the time this website was created, it was the first website.
 
-#### What is the goal of this website?
+### What is the goal of this website?
 
 To connect people that are interesting in learning more about Open Science.
 
-### Email list
+## Email list
 
-#### What is policy of the email list?
+### What is policy of the email list?
 
 - Sent at the first day of each month, for months that have an activity
 - Short
 
 See [the newsletter archive](publicity/newsletter_archive.md) for previous newsletters.
 
-### Twitter
+## Twitter
 
-#### What is the Twitter policy?
+### What is the Twitter policy?
 
 - Sent at the first day of each month, for months that have an activity
 - Short
 
 See [the tweets archive](publicity/tweets.md) for previous tweets.
 
-### Information for speakers
+## Information for speakers
 
-#### What can I do?
+### What can I do?
 
 You are boss here.
 
@@ -249,7 +170,7 @@ Here are some suggestions:
 - Give a talk about your own Open Science work/ideas
 - Discuss an Open Science scholarly article
 
-#### What is the schedule?
+### What is the schedule?
 
 This is the schedule:
 
@@ -265,23 +186,23 @@ When         |What
 During your talk, you are free to determine when there is time for
 questions.
 
-#### What type of visitors can I expect?
+### What type of visitors can I expect?
 
 People that are interested in Open Science.
 Around two-thirds of the audience works in academia.
 
-#### How many visitors can I expect?
+### How many visitors can I expect?
 
 See [the 'data' section](data/README.md), where you can find all data.
 
-#### What are the technical properties of the room?
+### What are the technical properties of the room?
 
 - HDMI cable with a lot of converter plugs
 - A big screen
 
-### Volunteering
+## Volunteering
 
-#### Who are the team members?
+### Who are the team members?
 
 Ordered alphabetically on first name:
 
@@ -310,7 +231,7 @@ Ordered alphabetically on first name:
   ![OSF logo](pics/osf_logo_16_x_16.png)
   [Richel Bilderbeek](https://osf.io/5dtem/)
 
-#### What is the current structure of Open Science Uppsala?
+### What is the current structure of Open Science Uppsala?
 
 - Chairman: Richel
 - Communication in/out: Richel
@@ -323,7 +244,7 @@ Ordered alphabetically on first name:
 - Mastodon account: Börje
 - Twitter account: Richel
 
-#### Who are the reserve team members?
+### Who are the reserve team members?
 
 Yup, we even have a reserve team. Here they are!
 
@@ -333,7 +254,7 @@ Ordered alphabetically on first name:
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0001-5641-610X](https://orcid.org/0000-0001-5641-610X)
 
-#### Who are former team members?
+### Who are former team members?
 
 Sometimes other things are even more important :-)
 
@@ -341,11 +262,11 @@ Sometimes other things are even more important :-)
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0001-8501-218X](https://orcid.org/0000-0001-8501-218X)
 
-#### I want to help organize! Am I welcome?
+### I want to help organize! Am I welcome?
 
 Yes, everyone is welcome.
 
-#### I want to help organize! How does the team work?
+### I want to help organize! How does the team work?
 
 The volunteers determine what Open Science Uppsala is,
 hence voting is democratic:
@@ -353,7 +274,7 @@ most votes win.
 All votes are equal.
 For bigger change, the chair can request a two-third majority vote.
 
-#### I want to help organize! What can I do?
+### I want to help organize! What can I do?
 
 Awesome!
 
@@ -364,9 +285,9 @@ You can:
 - other things: contact [@richelbilderbeek](https://github.com/richelbilderbeek)
   at `rjcbilderbeek@gmail.com`
 
-### Contact
+## Contact
 
-#### How do I contact Open Science Uppsala
+### How do I contact Open Science Uppsala
 
 - Send an email to [@richelbilderbeek](https://github.com/richelbilderbeek) at `rjcbilderbeek@gmail.com`
 - Add a GitHub Issue

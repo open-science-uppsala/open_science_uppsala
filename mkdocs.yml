@@ -5,7 +5,8 @@ repo_url: https://github.com/open-science-uppsala/open_science_uppsala
 nav:
   - Home: index.md
   - Content:
-    - What is OSU: content/what.md
+    - What is Open Science Uppsala: content/what.md
+    - How to follow Open Science Uppsala: content/follow.md
     - Activities: content/activies.md
     - Past events: content/events.md
     - FAQ: content/faq.md
