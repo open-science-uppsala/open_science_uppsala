@@ -13,3 +13,17 @@ ppsala
 Studion
 Tewatia
 Uppsala
+rjcbilderbeek
+gmail
+com
+sexualized
+config
+json
+jsonc
+linter
+markdownlint
+markdownlintignore
+mlc
+txt
+wordlist
+yml
