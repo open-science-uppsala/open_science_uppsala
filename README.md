@@ -78,8 +78,7 @@ When         |What
 15:30-16:00  |Speaker and OSU host prepare
 16:00-16:15  |Audience is welcome
 16:15-16:16  |Introduction about OSU
-16:16-16:45  |Talk
-16:45-17:00  |Questions
+16:16-17:00  |Talk, including questions
 17:00 onwards|End of meeting, option to join us to the pub after cleaning
 
 ## FAQ
@@ -101,37 +100,17 @@ Section                                               |Description
 
 #### What is Open Science?
 
-Open Science is a different thing for different people. A attempt of a definition that could be given: 
+There are multiple definitions,
+here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ark:/48223/pf0000387983.locale=en)
 
-> Open Science is using the scientific method, 
-> taking into account that scientists are human.
-
-This means:
-
-- Open Access: everyone should be able to read and criticize scientistic works
-- Open Data: everyone should be able to re-use scientific data used in
-   experiments, with some limitations on privacy-sensitive data
-- Open Code: everyone should be able to re-do, criticise and re-use scientific analyses
-- Open Hardware: everyone should be able to run a computational analysis
-   on hardware with an open license
-- Pre-registration: scientists should be open about their initial hypotheses
-   and should not pursuaded to do p-value hacking or HARKing
-- Preregistration: publishing the methods of a scientific experiment
-   before doing the actual experiment
-- Registered Reports: an more stringent extension of a preregistration,
-   which, after reviewing the methods of a scientific experiment,
-   its results are published, regardless of the results
-
-A more extensive picture:
-
-![](Osc2021-unesco-open-science-no-gray.png)
-
-> Redrawn slide from presentation of Ana Persic, 
-> Division of Science Policy and Capacity-Building (SC/PCB), 
-> UNESCO (France) presentation to Open Science Conference 2021, 
-> ZBW — Leibniz Information Centre for Economics, Germany.
-> Caption and image from [Wikipedia](https://en.wikipedia.org/wiki/Open_science#/media/File:Osc2021-unesco-open-science-no-gray.png),
-> image created by [RobbieIanMorrison](https://commons.wikimedia.org/wiki/User:RobbieIanMorrison)
+> Open science is a set of principles and practices that aim to make scientific
+> research from all fields accessible to everyone for the benefits of
+> scientists and society as a whole. For example, scientists and engineers can
+> use open licenses to share their publications, data, software and hardware
+> more widely—not only with each other but also with the rest of society.
+> Open science is about making sure not only that scientific knowledge is
+> accessible but also that the production of that knowledge itself is
+> inclusive, equitable and sustainable. 
 
 #### Which literature do you recommend?
 
@@ -271,13 +250,28 @@ Here are some suggestions:
 
 #### What is the schedule?
 
-Half an hour before the meeting, you'll have the time to prepare.
-The first 15 minutes, the audience comes in.
-Then you have 45 minutes left, that you can fill in yourself.
-For example, you can do 30 minutes of talking and 15 minutes of questions.
+This is the schedule:
 
-Note that you are boss here. If you want more/less time for questions, 
-it will be so :-)
+When         |What
+-------------|-----------------------------------------------------------
+15:30-15:45  |OSU host prepares
+15:45-16:00  |Speaker arrives, prepare technicalities
+16:00-16:15  |Audience is welcome
+16:15-16:16  |Introduction about OSU
+16:16-17:00  |Talk, including questions
+17:00 onwards|End of meeting, option to join us to the pub after cleaning
+
+During your talk, you are free to determine when there is time for
+questions. 
+
+#### What type of visitors can I expect?
+
+People that are interested in Open Science.
+Around two-thirds of the audience works in academia.
+ 
+#### How many visitors can I expect?
+
+See [the 'data' section](data/README.md), where you can find all data.
 
 #### What are the technical properties of the room?
 
