@@ -162,9 +162,9 @@ Apart from its intra-scientific goals (such as ensuring the reproducibility of s
 
 ## 2024-02-02
 
+```text
 # Open Science Uppsala monthly newsletter
 
-```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -200,9 +200,9 @@ are procured and maintained in the public sector at large.
 
 ## 2024-01-11
 
+```text
 # Open Science Uppsala monthly newsletter
 
-```text
 
 Dear OSU [1] email list member,
 
@@ -236,7 +236,6 @@ She tries to follow the best Open Science practices
 ## 2023-11-06
 
 ```text
-
 # Open Science Uppsala monthly newsletter
 
 Dear OSU [1] email list member,
