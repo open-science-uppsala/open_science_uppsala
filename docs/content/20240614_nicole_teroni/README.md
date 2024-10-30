@@ -13,7 +13,6 @@
 * Anmälan: nej
 * Bild av ansikte: -
 * Fotografens namn av ansikte: -
-* Bakgrundsbild: [background_image.png](background_image.png)
 * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### :sweden: Kort text

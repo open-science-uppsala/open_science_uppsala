@@ -11,7 +11,6 @@
 * Anmälan: nej
 * Bild av ansikte: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/adam/adam_gill.jpg](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/adam/adam_gill.jpg)
 * Fotografens namn av ansikte: obekant
-* Bakgrundsbild: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/adam/background.png](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/adam/background.png)
 * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### Description

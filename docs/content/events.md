@@ -25,7 +25,7 @@ When                      | Where              |What
 2024-03-07 15:00-18:00    |Online              |[COS symposium: Critical Perspectives on the Metascience Reform Movement](https://www.cos.io/critical-perspectives-on-the-metascience-reform-movement)
 2024-03-15 16:15-17:00    |USB [1], Studion    |[Discussion about the Swedish Royal Library's proposition for national guidelines on Open Science](20240315_osu/README.md)
 2024-04-12 16:15-17:00    |USB [1], Studion    |[Philippe Stamenkovic: extra-scientific values in open-science](20240412_philippe_stamenkovic/README.md)
-2024-05-17 16:15-17:00    |USB [1], Studion    |[Richèl Bilderbeek: on publishing the analysis of exploratory research before having seen the data](events/20240517_richel_bilderbeek/README.md)
+2024-05-17 16:15-17:00    |USB [1], Studion    |[Richèl Bilderbeek: on publishing the analysis of exploratory research before having seen the data](20240517_richel_bilderbeek/README.md)
 2024-06-14 16:15-17:00    |USB [1], Studion    |[Nicole Teroni, Unlocking Access: Language, Literacy, and Learning in Open Science](20240614_nicole_teroni/README.md)
 2024-09-13 16:15-17:00    |USB [1], Studion    |[Paul Jacobson: Brain Training](20240913_paul_jacobson/README.md)
 2024-10-18 16:15-17:00    |USB [1], Studion    |[Christopher Erdmann, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond](20241018_christopher_erdmann/README.md)

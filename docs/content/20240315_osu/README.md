@@ -13,7 +13,6 @@
 * Anmälan: nej
 * Bild av ansikte: -
 * Fotografens namn av ansikte: -
-* Bakgrundsbild: [background_image.png](background_image.png)
 * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### Short text/kort text
@@ -38,7 +37,7 @@ Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
 
 On January 15th the natio­nal guide­li­nes for promoting open science in Sweden
-came out and can be found at <https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html> .
+came out and **[edit: could be found at some URL]**.
 For now, these guidelines are published in Swedish only.
 At this OSU event, we'll translate and discuss these guidelines.
 
@@ -61,7 +60,7 @@ en diskussion om
 Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
 
 Den 15 januari de nationella riktlinjerna för att främja öppen vetenskap i Sverige
-kom ut och finns på <https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html> .
+kom ut och **[edit: fanns på nåt URL]**.
 För närvarande publiceras dessa riktlinjer endast på svenska.
 Vid detta OSU-evenemang kommer vi att översätta och diskutera dessa riktlinjer.
 
