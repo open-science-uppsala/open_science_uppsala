@@ -1,6 +1,6 @@
 # Activities
 
-![Richel Bilderbeek, Open Science and humans being scientists](events/20241108_richel_bilderbeek/20241108_screens.jpg)
+![Richel Bilderbeek, Open Science and humans being scientists](20241108_richel_bilderbeek/20241108_screens.jpg)
 
 > Our next activity
 
