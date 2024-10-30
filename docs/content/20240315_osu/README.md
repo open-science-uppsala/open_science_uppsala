@@ -17,13 +17,13 @@
 
 ### Short text/kort text
 
-#### English
+#### Short text in English
 
 Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
 More info at <https://bit.ly/open_science_uppsala>
 
-#### Svenska
+#### Kort text på svenska
 
 Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
 Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
@@ -31,7 +31,7 @@ Fler info på <https://bit.ly/open_science_uppsala>
 
 ### Longer text/längre text
 
-#### English
+#### Longer text in English
 
 Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
@@ -53,7 +53,7 @@ on praising and criticizing Open Science.
 
 More info at <https://bit.ly/open_science_uppsala>
 
-#### Svenska
+#### Längre text på svenska
 
 Fredag 15 mars 16.15-17.00 ledar Open Science Uppsala
 en diskussion om

@@ -37,7 +37,6 @@ here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ar
 ### Which literature do you recommend?
 
 - [Search Google Scholar for 'Open Science'](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=open+science&btnG=)
-- See [the references](#references)
 
 ## Open Science Uppsala
 
