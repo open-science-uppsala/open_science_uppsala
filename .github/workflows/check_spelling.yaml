@@ -21,7 +21,20 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v4
 
+      - name: delete files that have two languages
+        run: |
+          rm docs/content/20240614_nicole_teroni/README.md
+          rm docs/content/20241108_richel_bilderbeek/README.md
+          rm docs/content/20240315_osu/README.md
+          rm docs/content/20231208_anna_hallberg/README.md
+          rm docs/content/20240112_emmi_puuvuori/README.md
+          rm docs/content/20231025_richel_bilderbeek/README.md
+          rm docs/content/20231110_adam_gill/README.md
+          rm docs/content/20231020_ismail_elouafiq/README.md
+          rm docs/content/20240913_paul_jacobson/README.md
+          rm docs/content/20240209_douglas_spangler/README.md
+          rm docs/content/20230908_martin_johnsson/README.md
+          rm docs/publicity/uu_newsletter_20230613/README.md
+
       - uses: igsekor/pyspelling-any@v1.0.4
-
-
 
