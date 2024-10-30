@@ -1,7 +1,4 @@
-<!-- markdownlint-enable MD025 -->
-
 ---
-
 # General information
 
 item_type: presentation
@@ -31,6 +28,8 @@ publisher: National Bioinformatics Infrastructure Sweden (NBIS) / ELIXIR Sweden
 citation: "Nyberg Åkerström, Wolmar (2022). Research outputs beyond the paper: Code, research software & computational workflows. Available at: <https://doi.org/10.17044/scilifelab.22249429>"
 
 ---
+
+<!-- markdownlint-enable MD025 -->
 
 # Description
 
