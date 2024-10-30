@@ -119,7 +119,7 @@ There are many, here I list communities that have members in Uppsala:
 
 ### How many people visit each event?
 
-See [the 'data' section](data/README.md), where you can find all data.
+See [the 'data' section](../data/README.md), where you can find all data.
 
 ## Website
 
@@ -139,7 +139,7 @@ To connect people that are interesting in learning more about Open Science.
 - Sent at the first day of each month, for months that have an activity
 - Short
 
-See [the newsletter archive](publicity/newsletter_archive.md) for previous newsletters.
+See [the newsletter archive](../publicity/newsletter_archive.md) for previous newsletters.
 
 ## Twitter
 
@@ -148,7 +148,7 @@ See [the newsletter archive](publicity/newsletter_archive.md) for previous newsl
 - Sent at the first day of each month, for months that have an activity
 - Short
 
-See [the tweets archive](publicity/tweets.md) for previous tweets.
+See [the tweets archive](../publicity/tweets.md) for previous tweets.
 
 ## Information for speakers
 

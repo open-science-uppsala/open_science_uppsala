@@ -84,5 +84,5 @@ Fler info på <https://bit.ly/open_science_uppsala>
 
 ## Links
 
-* [KB's suggested guidelines](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap.html)
-* [responses](https://www.kb.se/samverkan-och-utveckling/nationella-riktlinjer-for-oppen-vetenskap/inkomna-svar.html)
+* KB's suggested guidelines (no URL anymore)
+* responses (no URL anymore)

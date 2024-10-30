@@ -11,9 +11,9 @@
 * Ålder/Målgrupp: 8-88
 * Samarrangör: -
 * Anmälan: nej
-* Bild av ansikte: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/anna/annah2.jpg](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/anna/annah2.jpg)
+* Bild av ansikte: [annah2.jpg](annah2.jpg)
 * Fotografens namn av ansikte: obekant
-* Bakgrundsbild: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/anna/anna_background.png](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/anna/anna_background.png)
+* Bakgrundsbild: [anna_background.png](anna_background.png)
 * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### Kort text
