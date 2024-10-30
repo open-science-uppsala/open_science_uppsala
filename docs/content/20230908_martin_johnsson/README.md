@@ -49,9 +49,9 @@ It’s about what kind of knowledge we want
 * Ålder/Målgrupp: 8-88
 * Samarrangör: -
 * Anmälan: nej
-* Bild av ansikte: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/martin/20220615_121507.jpg](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/martin/20220615_121507.jpg)
+* Bild av ansikte: [20220615_121507.jpg](20220615_121507.jpg)
 * Fotografens namn av ansikte: obekant
-* Bakgrundsbild: [https://raw.githubusercontent.com/open-science-uppsala/open_science_uppsala/master/pics/martin/martin_2x.png](https://raw.githubusercontent.com/open-science-uppsala/open_science_uppsala/master/pics/martin/martin_2x.png)
+* Bakgrundsbild: [martin_2x.png](martin_2x.png)
 * Fotografens namn av bakgrundsbild: ingen, bild är [CC0](https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain)
 
 ### Kort text

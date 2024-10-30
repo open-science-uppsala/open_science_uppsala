@@ -14,7 +14,7 @@ by means of discussing papers and inviting speakers.
 
 - [What is Open Science Upssala?](content/what.md)
 - [How to follow Open Science Uppsala](content/follow.md)
-- [Activities](content/activies.md)
+- [Activities](content/activities.md)
 - [Past events](content/events.md)
 - [FAQ](content/faq.md)
 

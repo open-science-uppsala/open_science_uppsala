@@ -11,9 +11,9 @@
 * Ålder/Målgrupp: 8-88
 * Samarrangör: -
 * Anmälan: nej
-* Bild av ansikte: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/ismail/open_science_ismail.png](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/ismail/open_science_ismail.png)
+* Bild av ansikte: [open_science_ismail.png](open_science_ismail.png)
 * Fotografens namn av ansikte: obekant
-* Bakgrundsbild: [https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/ismail/open_science_talk_citizenscience.png](https://github.com/open-science-uppsala/open_science_uppsala/blob/master/pics/ismail/open_science_talk_citizenscience.png)
+* Bakgrundsbild: [open_science_talk_citizenscience.png](open_science_talk_citizenscience.png)
 * Fotografens namn av bakgrundsbild: obekant
 
 ### Kort text
