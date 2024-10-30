@@ -10,4 +10,3 @@ To contact Open Science Uppsala ...
 
 To contribute, see [how to contribute](../../CONTRIBUTING.md).
 
-
