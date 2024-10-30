@@ -60,5 +60,33 @@ rjbilderbeek
 SciLifeLab
 SLU
 UppsalaUniLib
+BDahren
+CODECHECK
+Dahrén
+FAIRPoints
+Fika
+github
+Hallberg
+hominem
+intra
+ly
+mins
+NBIS
+Netzach
+onwards
+pdf
+regularily
+ReproducibiliTea
+reproducibility
+Reproducibility
+ReproHack
+richelbilderbeek
+Richèl
+rOpenSci
+Stamenkovic
+Söderberg
+uppsala
+
+
 
 
