@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-![Open Science Uppsala logo](logo/osu_logo_25.png)
+![Open Science Uppsala logo](../logo/osu_logo_25.png)
 
 > The Open Science Uppsala logo
 
