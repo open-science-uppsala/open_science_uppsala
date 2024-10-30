@@ -66,7 +66,7 @@ OSU's next talk: Friday October 20th 16:15-17:00 at Stadsbiblioteket by Ismail E
 
 ## SLU screen text
 
-![](20231020_ismail_screens.jpg)
+![Ismail Elouafiq: 'Experiment on yourself: open citizen science in Uppsala'](20231020_ismail_screens.jpg)
 
 * [PDF](20231020_ismail_screens.pdf)
 * [ODF](20231020_ismail_screens.odg)
@@ -82,6 +82,6 @@ Experiment on yourself: open citizen science in Uppsala
 
 ## Images by Ismail
 
-![](open_science_ismail.png)
+![Open Science Ismail](open_science_ismail.png)
 
-![](open_science_talk_citizenscience.png)
+![Citizen science](open_science_talk_citizenscience.png)
