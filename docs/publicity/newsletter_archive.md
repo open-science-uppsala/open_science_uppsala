@@ -1,5 +1,8 @@
 # Newsletter archive
 
+<!-- markdownlint-disable MD013 -->
+
+
 ## 2024-10-01
 
 ```text
@@ -397,7 +400,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 ## 2023-01-02
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -417,3 +420,5 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
  * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
 ```
+
+<!-- markdownlint-enable MD013 -->

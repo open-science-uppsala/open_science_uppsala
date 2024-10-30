@@ -100,7 +100,7 @@ His slides are available at  https://doi.org/10.17044/scilifelab.22249429.
 Hope to see you all next month!
 ```
 
-## 2023-03-01
+## 2023-03-10
 
 ```text
 Today, 16:15-17:00 at Stadsbiblioteket (Mallassal!) a talk by by Wolmar Nyberg Åkerström, 'Research outputs beyond the paper: Code, research software and computational workflows'. #OpenScienceTalks
@@ -137,7 +137,7 @@ We are back from an undeserved suspension.
 Yep, we're Open about that :-)
 ```
 
-## 2022-12-05
+## 2022-12-06
 
 ```text
 OSU's next talk: Friday january 13th 16:00-17:00 at 

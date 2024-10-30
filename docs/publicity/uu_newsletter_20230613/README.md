@@ -1,4 +1,4 @@
-”Open Science Uppsala” öppnar upp vetenskapen
+# ”Open Science Uppsala” öppnar upp vetenskapen
 
 Öppen vetenskap är ett sätt att göra helt vetenskap öppet, till exempel med preregistrering, öppna data och öppna kod. ”Open Science Uppsala” är ett lokalt nätverk där vem som helst kan vara med och diskutera just öppen vetenskap.
 
