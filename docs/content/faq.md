@@ -183,7 +183,7 @@ Around two-thirds of the audience works in academia.
 
 ### How many visitors can I expect?
 
-See [the 'data' section](data/README.md), where you can find all data.
+See [the 'data' section](../data/README.md), where you can find all data.
 
 ### What are the technical properties of the room?
 
