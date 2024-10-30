@@ -29,11 +29,7 @@ citation: "Nyberg Åkerström, Wolmar (2022). Research outputs beyond the paper:
 
 ---
 
-<!-- markdownlint-enable MD025 -->
-
 # Description
-
-<!-- markdownlint-disable MD025 -->
 
 This talk was presented to the Open Science Uppsala community in Uppsala, Sweden on 10 March 2023. It was presented by Wolmar Nyberg Åkerström (NBIS) on behalf of the Data management team at the National Bioinformatics Infrastructure Sweden (NBIS).
 
