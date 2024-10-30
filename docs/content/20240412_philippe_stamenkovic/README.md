@@ -1,6 +1,6 @@
 # 2024-04-12: Philippe Stamenkovic: 'Extra-scientific values in open-science'
 
-![](20240412_screens.jpg)
+![Philippe Stamenkovic: 'Extra-scientific values in open-science'](20240412_screens.jpg)
 
 * Speaker: Philippe Stamenkovic
 * Date: 2024-04-12

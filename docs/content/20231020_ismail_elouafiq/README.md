@@ -1,6 +1,6 @@
-# 2023-10-20: Ismail Elouafiq
+# 2023-10-20: Ismail Elouafiq: 'Experiment on yourself: open citizen science in Uppsala'
 
-![](20231020_ismail_screens.jpg)
+![Ismail Elouafiq: 'Experiment on yourself: open citizen science in Uppsala'](20231020_ismail_screens.jpg)
 
 * [Presentation (.pdf)](20231020_ismail.pdf)
 

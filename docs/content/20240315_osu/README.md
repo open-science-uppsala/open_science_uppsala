@@ -1,6 +1,6 @@
-# 2024-03-15 Open Science Uppsala, 'Kungliga Biblioteket's 'Guidelines for Open Science' and responses'
+# 2024-03-15 Open Science Uppsala: 'Kungliga Biblioteket's 'Guidelines for Open Science' and responses'
 
-![](20240315_osu_screens.jpg)
+![Open Science Uppsala: 'Kungliga Biblioteket's 'Guidelines for Open Science' and responses'](20240315_osu_screens.jpg)
 
 * [Facebook event](https://fb.me/e/1Lntichpm)
 

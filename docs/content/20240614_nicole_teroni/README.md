@@ -1,6 +1,6 @@
 # 2024-06-14 Nicole Teroni, 'Unlocking Access: Language, Literacy, and Learning in Open Science'
 
-![](20240614_screens.jpg)
+![Nicole Teroni, 'Unlocking Access: Language, Literacy, and Learning in Open Science'](20240614_screens.jpg)
 
 * [Facebook event](https://fb.me/e/blcUoGz76)
 

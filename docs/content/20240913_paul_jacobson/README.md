@@ -1,6 +1,6 @@
-# 2024-09-13 Paul Jacobson, 'Brain Training'
+# 2024-09-13 Paul Jacobson: 'Brain Training'
 
-![](20240913_screens.jpg)
+![Paul Jacobson: 'Brain Training'](20240913_screens.jpg)
 
 * Speaker: Paul Jacobson
 * Title: Brain Training

@@ -1,6 +1,6 @@
-# 2024-01-12 Emmi Puuvuori, 'Start of a practical application in open science - In Vivo Library'
+# 2024-01-12 Emmi Puuvuori: 'Start of a practical application in open science - In Vivo Library'
 
-![](20240112_emmi_puuvuori_screens.jpg)
+![Emmi Puuvuori: 'Start of a practical application in open science - In Vivo Library'](20240112_emmi_puuvuori_screens.jpg)
 
 ## USB
 

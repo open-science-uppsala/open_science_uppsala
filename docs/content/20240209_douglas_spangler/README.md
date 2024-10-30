@@ -1,6 +1,6 @@
-# 2024-02-09 Douglas Spangler, 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'
+# 2024-02-09 Douglas Spangler: 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'
 
-![](20240209_douglas_spangler_screens.jpg)
+![Douglas Spangler: 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'](20240209_douglas_spangler_screens.jpg)
 
 ## USB
 

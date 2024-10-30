@@ -1,6 +1,6 @@
-# 2023-11-10: Adam Gill
+# 2023-11-10: Adam Gill: 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'
 
-![](20231110_adam_gill_screens.jpg)
+![Adam Gill: 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'](20231110_adam_gill_screens.jpg)
 
 ## USB
 

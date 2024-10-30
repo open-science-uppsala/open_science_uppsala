@@ -1,4 +1,4 @@
-# 2023-09-08: Martin Johnsson
+# 2023-09-08: Martin Johnsson: 'It’s about what kind of knowledge we want'
 
 ## [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7095806072556335104?utm_source=share&utm_medium=member_desktop)
 
@@ -28,7 +28,7 @@ OSU's next talk: Friday September 8th 16:15-17:00 at Stadsbiblioteket by Martin 
 
 ## SLU screen text
 
-![](martin_2x_with_text.png)
+![Martin Johnsson: 'It’s about what kind of knowledge we want'](martin_2x_with_text.png)
 
 * [PDF](screens_slu.pdf)
 * [ODF](screens_slu.odg)

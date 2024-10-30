@@ -1,6 +1,6 @@
-# 2023-12-08: Anna Hallberg
+# 2023-12-08: Anna Hallberg: What does Open Science mean for qualitative research?
 
-![](20231208_anna_hallberg_screens.jpg)
+![Anna Hallberg: What does Open Science mean for qualitative research?](20231208_anna_hallberg_screens.jpg)
 
 * Presentation: [PDF](20231208_anna_hallberg_screens.pdf)
 
