@@ -1,17 +1,20 @@
 <!-- markdownlint-enable MD025 -->
 
 ---
+
 # General information
+
 item_type: presentation
 title: Research outputs beyond the paper: Code, research software & computational workflows
 license: CC BY ND 4.0
-contact_email: wolmar.n.akerstrom@uu.se
+contact_email: <wolmar.n.akerstrom@uu.se>
 author:
-  - name:
+
+- name:
       given: Wolmar
       family: Nyberg Åkerström
     orcid: 0000-0002-3890-6620
-    email: wolmar.n.akerstrom@uu.se
+    email: <wolmar.n.akerstrom@uu.se>
     attributes:
       corresponding: true
 categories:
@@ -23,9 +26,10 @@ keywords:
 - computational workflow
 - code availability
 references:
-- https://open-science-uppsala.github.io/open_science_uppsala/
+- <https://open-science-uppsala.github.io/open_science_uppsala/>
 publisher: National Bioinformatics Infrastructure Sweden (NBIS) / ELIXIR Sweden
-citation: "Nyberg Åkerström, Wolmar (2022). Research outputs beyond the paper: Code, research software & computational workflows. Available at: https://doi.org/10.17044/scilifelab.22249429"
+citation: "Nyberg Åkerström, Wolmar (2022). Research outputs beyond the paper: Code, research software & computational workflows. Available at: <https://doi.org/10.17044/scilifelab.22249429>"
+
 ---
 
 # Description
