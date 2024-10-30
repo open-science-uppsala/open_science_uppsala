@@ -68,13 +68,7 @@ if you want to organize or participate in activities.
 
 ### How can I follow Open Science Uppsala?
 
-You can follow us by:
-
-- ![FreeLists logo](pics/freelists_logo_114_x_34.png) **[Email list](https://www.freelists.org/list/osu)**
-- ![LinkedIn logo](pics/In-Blue-34.png) **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
-- ![Twitter logo](pics/twitter_logo_34_x_34.png) **[@opensciupp](https://twitter.com/opensciupp)**
-- ![Facebook logo](pics/facebook_logo_34_x_34.png) **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
-- Mastodon: [TODO by Börje]
+See [Follow us](follow.md) on how to follow us.
 
 ### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
 
@@ -110,9 +104,10 @@ and I will happily add your Uppsala community here :-)
 
 There are many, here I list communities that have members in Uppsala:
 
-- [European Open Science Cloud Association](https://eosc.eu/),
-  the bigger, more online community
+- [International Network of Open Science & Scholarship Communities](https://osc-international.com/)
 - [Open Science Sweden](https://opensciencesweden.org/):
+  the bigger, more online community
+- [European Open Science Cloud Association](https://eosc.eu/),
   the bigger, more online community
 - [FAIRPoints](https://www.fairpoints.org/): an online
   event series highlighting pragmatic measures
@@ -303,19 +298,3 @@ You can:
 - [ReproHack](https://www.reprohack.org/): tests if an academic paper can be reproduced
 - [rOpenSci](https://ropensci.org/): public peer-review of R packages
 
-![Open Science Uppsala homepage link](bit.ly_open_science_uppsala.png)
-
-> QR code to Open Science Uppsala homepage
-
-## References
-
-- [Kathawalla et al., 2021]
-  Kathawalla, Ummul-Kiram, Priya Silverstein, and Moin Syed.
-  "Easing into open science: A guide for graduate students and their advisors."
-  Collabra: Psychology 7.1 (2021).
-
-- [Milham and Klein, 2019] Milham,
-  Michael P., and Arno Klein.
-  "Be the change you seek in science."
-  BMC biology 17.1 (2019): 1-4.
-  [List of recommended practices](https://matter.childmind.org/open-science.html)

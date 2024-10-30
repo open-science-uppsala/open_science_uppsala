@@ -14,3 +14,9 @@ Logo                                                |Link
 ![LinkedIn logo](pics/In-Blue-34.png)               | **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
 ![Twitter logo](pics/twitter_logo_34_x_34.png)      | **[@opensciupp](https://twitter.com/opensciupp)**
 ![Facebook logo](pics/facebook_logo_34_x_34.png)    | **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
+
+Or share the URL of this website with this QR code:
+
+![Open Science Uppsala homepage link](bit.ly_open_science_uppsala.png)
+
+> QR code to Open Science Uppsala homepage
