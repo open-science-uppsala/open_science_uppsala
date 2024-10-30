@@ -25,26 +25,26 @@ Richel|2023-06-16|Friday after talk  |Send out future publicity text to Anna, B�
 
 Twitter, announce:
 
-```
+```text
 OSU's next talk: Friday June 9th 16:15-17:00 at Stadsbiblioteket (Mallassal) by 
 Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'.
 #OpenScienceTalks
-```
+```text
 
 Facebook/LinkedIn post:
 
-```
+```text
 This month we have the pleasure to have presentation by 
 Barbro Bornsäter, 'FAIR data for Heritage Science: Developing a guide to good practice for open science within the heritage sciences'.
 Afterwards we'll head to the pub to discuss more about open science. Hope to see you there!
 
 When: Friday May 12th 16:15-17:00 
 Where: Uppsala Stadsbibliotek, 'Mallassal' room
-```
+```text
 
 Newsletter post:
 
-```
+```text
 # Open Science Uppsala monthly newsletter
 
 Dear OSU [1] email list member,
@@ -67,11 +67,11 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
  * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
  * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
-```
+```text
 
 Twitter, post-presentation, <https://twitter.com/opensciupp/status/1648183665090863104>
 
-```
+```text
 The slides of Barbro Bornsäter's talk can be found at [URL]
 ```
 

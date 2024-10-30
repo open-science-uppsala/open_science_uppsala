@@ -42,7 +42,7 @@ Fler info på <https://bit.ly/open_science_uppsala>
 
 ## LinkedIn
 
-```
+```text
 This month we have the pleasure to have a presentation by Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'. Afterwards we'll head to the pub to discuss more about open science. Hope to see you there!
 
 When: Friday October 20th 16:15-17:00
@@ -51,7 +51,7 @@ Where: Uppsala Stadsbibliotek, Mallassal
 
 ## Facebook
 
-```
+```text
 This month we have the pleasure to have a presentation by Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'. Afterwards we'll head to the pub to discuss more about open science. Hope to see you there!
 
 When: Friday October 20th 16:15-17:00
@@ -60,7 +60,7 @@ Where: Uppsala Stadsbibliotek, Mallassal
 
 ## Twitter
 
-```
+```text
 OSU's next talk: Friday October 20th 16:15-17:00 at Stadsbiblioteket by Ismail Elouafiq, 'Experiment on yourself: open citizen science in Uppsala'. #OpenScienceTalks
 ```
 

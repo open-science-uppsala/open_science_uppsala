@@ -2,7 +2,7 @@
 
 ## 2024-10-01
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -33,7 +33,7 @@ In the Government’s Research and Innovation Bill “Research, freedom, future 
 
 ## 2024-09-02
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -66,7 +66,7 @@ Scientifically supported methods to train your brain.
 
 ## 2024-06-03
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -98,7 +98,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 ## 2024-05-02
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -129,7 +129,7 @@ Writing down and publishing the analysis of a study before having seen the data 
 
 ## 2024-04-01
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -161,7 +161,7 @@ Apart from its intra-scientific goals (such as ensuring the reproducibility of s
 
 # Open Science Uppsala monthly newsletter
 
-```
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -193,15 +193,13 @@ are procured and maintained in the public sector at large.
 
  * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
-
-
-
+```
 
 ## 2024-01-11
 
 # Open Science Uppsala monthly newsletter
 
-```
+```text
 
 Dear OSU [1] email list member,
 
@@ -230,13 +228,11 @@ She tries to follow the best Open Science practices
 
 * [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
 * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
-
-
 ```
 
 ## 2023-11-06
 
-```
+```text
 
 # Open Science Uppsala monthly newsletter
 
@@ -266,13 +262,12 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 * Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'
 
 Peer review is the cornerstone of scientific publishing in economics and more broadly, but data issues have inhibited past efforts to study it. To address this challenge, my coauthors and I combine insights from a novel survey dataset documenting the submission and review activity of over 1,400 researchers with observational evidence on how peer review in economics compares to the evaluation processes in other disciplines. In this talk, I will discuss the main takeaways of our efforts, with an emphasis on exploring three key trade-offs that govern any attempts at reform: (i) the appropriate balance between relying on expert opinions and seeking input from a diverse pool of referees; (ii) the challenge of reducing turnaround time while maintaining rigor in peer review; and (iii) the difficulty of increasing the transparency of evaluations while preserving confidentiality. I will then conclude by outlining possible steps to reform some of these issues as well as the pro and cons of those potential policies.
-
 ```
 
 
 ## 2023-10-05
 
-```
+```text
 
 # Open Science Uppsala monthly newsletter
 
@@ -299,7 +294,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 ## 2023-05-01
 
-```
+```text
 
 # Open Science Uppsala monthly newsletter
 
@@ -321,13 +316,12 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 * [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
 * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
-
 ```
 
 
 ## 2023-04-03
 
-```
+```text
 
 # Open Science Uppsala monthly newsletter
 
@@ -354,7 +348,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 ## 2023-03-01
 
-```
+```text
 
 # Open Science Uppsala monthly newsletter
 
@@ -377,14 +371,11 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 * [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
-
 ```
-
 
 ## 2023-02-01
 
-```
-
+```text
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -402,11 +393,11 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 * [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
-
 ```
 
 ## 2023-01-02
 
+```
 Dear OSU [1] email list member,
 
 This is the monthly, short, OSU newsletter.
@@ -425,4 +416,4 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
  * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
-
+```

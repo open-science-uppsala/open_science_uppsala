@@ -44,7 +44,7 @@ Fler info på <https://bit.ly/open_science_uppsala>
 
 ## Emaillist
 
-```
+```text
 # Open Science Uppsala monthly newsletter
 
 Dear OSU [1] email list member,
@@ -77,6 +77,6 @@ Peer review is the cornerstone of scientific publishing in economics and more br
 
 ## Twitter
 
-```
+```text
 OSU's next talk: Friday November 10th 16:15-17:00 at Stadsbiblioteket by Adam Gill, 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'. #OpenScienceTalks
-```
+```text
