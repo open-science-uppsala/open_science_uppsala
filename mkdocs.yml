@@ -12,6 +12,8 @@ nav:
     - How to follow Open Science Uppsala: content/follow.md
   - FAQ:
     - Frequently asked questions: content/faq.md
+  - Contact us:
+    - Contact us: content/contact_us.md
 
 theme:
   name: material
