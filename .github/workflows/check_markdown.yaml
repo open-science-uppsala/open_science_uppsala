@@ -20,10 +20,6 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v4
 
-      - name: Remove files that cannot be fixed
-        run: |
-          rm docs/content/20230310_wolmar_nyberg_aakerstroem
-
       # Indented blocks are ignored, as the linter assumes it to be code.
       # In our case, it is not: for us, it is usually an admonition (i.e. a 'question' or 'info' block)
       # Here all indented text is unindented
