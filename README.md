@@ -13,6 +13,8 @@
 
 Homepage of Open Science Uppsala.
 
+- [Contributing](docs/CONTRIBUTING.md)
+
 ## Files used by continuous integration scripts
 
 <!-- markdownlint-disable MD013 -->

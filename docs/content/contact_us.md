@@ -8,5 +8,5 @@ To contact Open Science Uppsala ...
   at `rjcbilderbeek@gmail.com`
 - Add [a GitHub Issue](https://github.com/open-science-uppsala/open_science_uppsala/issues)
 
-To contribute, see [how to contribute](../../CONTRIBUTING.md).
+To contribute, see [how to contribute](../CONTRIBUTING.md).
 
