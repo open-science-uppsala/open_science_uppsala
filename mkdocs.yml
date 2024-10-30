@@ -5,12 +5,12 @@ repo_url: https://github.com/open-science-uppsala/open_science_uppsala
 nav:
   - What is Open Science Uppsala:
     - What is Open Science Uppsala: content/what.md
-  - How to follow Open Science Uppsala:
-    - How to follow Open Science Uppsala: content/follow.md
-  - Activities
+  - Activities:
     - Activities: content/activies.md
     - Past events: content/events.md
-  - FAQ
+  - Follow us:
+    - How to follow Open Science Uppsala: content/follow.md
+  - FAQ:
     - Frequently asked questions: content/faq.md
 
 theme:
