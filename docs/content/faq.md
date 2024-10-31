@@ -13,6 +13,7 @@ Section                                               |Description
 ------------------------------------------------------|-------------------
 [Open Science](#open-science)                         |About Open Science
 [Open Science Uppsala](#open-science-uppsala)         |About us
+[Other communities](#other-communities)               |About other Open Science communities
 [Website](#website)                                   |About this website
 [Information for speakers](#information-for-speakers) |Information for speakers
 [Volunteering](#volunteering)                         |Volunteering at OSU
@@ -83,6 +84,12 @@ and Open Science in particular.
   and/or reviews. Of course, throwing in a personal story is OK,
   using it as a irrefutable proof is scholarly no-go.
 
+### How many people visit each event?
+
+See [the 'data' section](../data/README.md), where you can find all data.
+
+## Other communities
+
 ### Which similar communities are there in Uppsala?
 
 - [Science Fika](https://www.sciencefika.se):
@@ -97,13 +104,14 @@ Please add your Open Science community in Uppsala by
 [contacting us](contact_us.md)
 and your Uppsala community will be added :-)
 
-### Which similar communities are there online?
+### Which similar communities are there outside of Uppsala?
 
 There are many, here I list communities that have members in Uppsala:
 
-- [International Network of Open Science & Scholarship Communities](https://osc-international.com/)
+- [International Network of Open Science & Scholarship Communities](https://osc-international.com/):
+  the bigger, international community
 - [Open Science Sweden](https://opensciencesweden.org/):
-  the bigger, more online community
+  the bigger, national community
 - [European Open Science Cloud Association](https://eosc.eu/),
   the bigger, more online community
 - [FAIRPoints](https://www.fairpoints.org/): an online
@@ -115,10 +123,6 @@ There are many, here I list communities that have members in Uppsala:
   in their work and becoming Open Science ambassadors in their communities.
 
 [Contact us](contact_us.md) and your online community will be added :-)
-
-### How many people visit each event?
-
-See [the 'data' section](../data/README.md), where you can find all data.
 
 ## Website
 
