@@ -10,11 +10,11 @@ When                      | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
 2024-11-08 16:15-17:00    |USB [1], Studion        |[Richel Bilderbeek, Open Science and humans being scientists](20241108_richel_bilderbeek/README.md)
 2024-12-13 16:15-17:00    |USB [1], Studion        |Ismail Elouafiq, TBA
-?2025-01-10               |USB [1], Conferensrummet|TBA
-?2025-02-14               |USB [1], Conferensrummet|TBA
-?2025-03-14               |USB [1], Conferensrummet|Parul Tewatia, TBA
-?2025-04-11               |USB [1], Conferensrummet|TBA
-?2025-05-09               |USB [1], Conferensrummet|TBA
+2025-01-10 16:15-17:00    |USB [1], Conferensrummet|TBA
+2025-02-14 16:15-17:00    |USB [1], Conferensrummet|TBA
+2025-03-14 16:15-17:00    |USB [1], Conferensrummet|Parul Tewatia, TBA
+2025-04-11 16:15-17:00    |USB [1], Conferensrummet|TBA
+2025-05-09 16:15-17:00    |USB [1], Conferensrummet|TBA
 
 See ['events'](events.md) for our past activities.
 
@@ -37,4 +37,4 @@ See ['events'](events.md) for our past activities.
 
 ![Annotated map of USB and how to find Konferensrummet](pics/usb_konferensrummet.png)
 
-> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
+> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Konferensrummet'
