@@ -116,3 +116,6 @@ Ultuna
 uu
 Voigt
 wolmar
+Konferensrummet
+
+
