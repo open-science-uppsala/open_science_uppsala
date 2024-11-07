@@ -2,6 +2,37 @@
 
 <!-- markdownlint-disable MD013 -->
 
+## 2024-11-07
+
+```text
+OSU monthly newsletter: mext talk tomorrow
+
+Dear OSU [1] email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month [2] (talk description is at the bottom):
+
+- Friday 2024-11-08 Richel Bilderbeek, 'Open Science: on humans being scientists'
+
+Open Science events in Uppsala next months:
+
+- Friday 2024-12-13 Ismail Elouafiq, TBA
+
+Hope to see you at our events! As always, more info at the OSU website [1].
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+
+## Talk description, as provided by speaker
+
+The European Union thinks Open Science is important. One of the facets of its strategic plan is citizen science, which is using non-scientists in research. This talk will be about citizen science: why is citizen science important? What is its impact? What evidence do we have for this? And of course: where and how can a regular citizen help?
+
+## Footnotes
+
+ * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
+```
+
 
 ## 2024-10-01
 

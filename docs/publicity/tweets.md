@@ -1,5 +1,17 @@
 # Tweets
 
+## 2024-11-08
+
+```text
+Today 16:15-17:00 at Stadsbiblioteket by Richel Bilderbeek: 'Open Science and humans being scientists'.
+```
+
+## 2024-11-07
+
+```text
+OSU's next talk: Friday November 8th 16:15-17:00 at Stadsbiblioteket by Richel Bilderbeek: 'Open Science and humans being scientists'.
+```
+
 ## 2024-10-18
 
 ```text
