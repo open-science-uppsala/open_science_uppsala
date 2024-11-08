@@ -9,7 +9,7 @@ We usually have a speaker at the second Friday of the month.
 When                      | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
 2024-11-08 16:15-17:00    |USB [1], Studion        |[Richel Bilderbeek, Open Science and humans being scientists](20241108_richel_bilderbeek/README.md)
-2024-12-13 16:15-17:00    |USB [1], Studion        |Ismail Elouafiq, TBA
+2024-12-13 16:15-17:00    |USB [1], Studion        |Ismail Elouafiq, Beyond the lab: spreading the joy of figuring things out
 2025-01-10 16:15-17:00    |USB [1], Konferensrummet|TBA
 2025-02-14 16:15-17:00    |USB [1], Konferensrummet|TBA
 2025-03-14 16:15-17:00    |USB [1], Konferensrummet|Parul Tewatia, TBA
