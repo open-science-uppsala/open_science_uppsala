@@ -2,6 +2,28 @@
 
 <!-- markdownlint-disable MD013 -->
 
+## 2024-12-03
+
+```text
+OSU monthly newsletter: next talk in January
+
+Dear Open Science Uppsala email list member,
+
+This is the monthly, short, OSU newsletter.
+
+Open Science events in Uppsala this month:
+
+- Friday 2024-12-13 CANCELLED
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-01-10 Ismail Elouafiq: The joy of figuring things out
+
+Hope to see you at our events! As always, more info at the OSU website at https://bit.ly/open_science_uppsala.
+
+Cheers, Richel Bilderbeek, on behalf of the OSU team
+```
+
 ## 2024-11-07
 
 ```text
