@@ -1,5 +1,5 @@
 #!/bin/env Rscript
-t <- readr::read_csv("n_visitors_in_time.csv")
+t <- readr::read_csv("n_visitors_in_time.csv", show_col_types = FALSE)
 max_n_visitors <- max(t$n_visitors)
 seasons <- tibble::tribble(
   ~season, ~xmin, ~xmax,
@@ -19,7 +19,7 @@ ggplot2::ggplot(t, ggplot2::aes(x = date, y = n_visitors)) +
   ) +
   ggplot2::geom_point(size = 10) +
   ggplot2::geom_line() +
-  ggplot2::geom_smooth(color = "white") +
+  ggplot2::geom_smooth(color = "white", formula = y ~ x, method = "loess") +
   ggplot2::geom_rect(
     data = seasons, 
     inherit.aes = FALSE,
