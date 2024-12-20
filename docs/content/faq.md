@@ -65,6 +65,12 @@ See 'Activities' :-)
 [Contact us](contact_us.md)
 if you want to organize or participate in activities.
 
+### Do I need to register for activities?
+
+No.
+
+You are always welcome :-)
+
 ### How can I follow Open Science Uppsala?
 
 See [Follow us](follow.md) on how to follow us.
