@@ -13,6 +13,6 @@ Svartbäcksgatan 17, 753 75 Uppsala:
 > 3. Stora torget
 > 4. Uppsala Central Station
 
-![Annotated map of the city library, showing room Studion](pics/usb_studion_annotated.png)
+![Annotated map of USB and how to find Konferensrummet](pics/usb_konferensrummet.png)
 
-> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Studion'
+> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Konferensrummet'
