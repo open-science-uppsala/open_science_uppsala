@@ -1,15 +1,10 @@
 # Activities
 
-![Richel Bilderbeek, Open Science and humans being scientists](20241108_richel_bilderbeek/20241108_screens.jpg)
-
-> Our next activity
-
 We usually have a speaker at the second Friday of the month.
 
 When                      | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2024-12-13 16:15-17:00    |USB [1], Studion        |CANCELLED
-2025-01-10 16:15-17:00    |USB [1], Konferensrummet|Ismail Elouafiq: 'Beyond the lab: spreading the joy of figuring things out'
+2025-01-10 16:15-17:00    |USB [1], Konferensrummet|[Ismail Elouafiq: 'Beyond the lab: spreading the joy of figuring things out'](20250110_ismail_elouafiq/README.md)
 2025-02-14 16:15-17:00    |USB [1], Konferensrummet|TBA
 2025-03-14 16:15-17:00    |USB [1], Konferensrummet|Parul Tewatia, TBA
 2025-04-11 16:15-17:00    |USB [1], Konferensrummet|TBA
