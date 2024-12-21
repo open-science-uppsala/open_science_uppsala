@@ -1,6 +1,6 @@
 # Where
 
-Most of our events are at [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket),
+Most of our events are at [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
 Svartbäcksgatan 17, 753 75 Uppsala:
 
 ![Annotated map of Uppsala showing the Stadsbibliotek](pics/uppsala_map_annotated.png)
