@@ -2,6 +2,28 @@
 
 <!-- markdownlint-disable MD013 -->
 
+## 2025-01-01
+
+```text
+OSCU monthly newsletter: next talk in January
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+- Friday 2025-01-10 Ismail Elouafiq: The joy of figuring things out
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-02-14: TBA
+
+Hope to see you at our events! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
+
+Cheers, Richel Bilderbeek, on behalf of the OSCU team
+```
+
 ## 2024-12-03
 
 ```text

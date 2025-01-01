@@ -1,5 +1,11 @@
 # Tweets
 
+## 2025-01-01
+
+```text
+OSCU's next talk: Friday January 10th 16:15-17:00 at Stadsbiblioteket by Ismail Elouafiq: 'The joy of figuring things out'.
+```
+
 ## 2024-11-08
 
 ```text
