@@ -120,5 +120,6 @@ Konferensrummet
 CANCELLED
 learnings
 OSCU
+osc
 
 
