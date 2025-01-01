@@ -1,6 +1,6 @@
 # How to follow Open Science Community Uppsala
 
-![The Open Science Community Uppsala logo](../logo/osuc_logo.png)
+![The Open Science Community Uppsala logo](../logo/oscu_logo.png)
 
 > The Open Science Community Uppsala logo
 
