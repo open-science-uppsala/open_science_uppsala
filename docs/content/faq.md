@@ -1,23 +1,23 @@
 # Frequently asked questions
 
-![Open Science Uppsala logo](../logo/osu_logo_25.png)
+![Open Science Community Uppsala logo](../logo/oscu_logo.png)
 
-> The Open Science Uppsala logo
+> The Open Science Community Uppsala logo
 
-Welcome to the frequently asked questions of Open Science Uppsala,
+Welcome to the frequently asked questions of Open Science Community  Uppsala,
 the local Open Science community in Uppsala.
 
 The sections are:
 
-Section                                               |Description
-------------------------------------------------------|-------------------
-[Open Science](#open-science)                         |About Open Science
-[Open Science Uppsala](#open-science-uppsala)         |About us
-[Other communities](#other-communities)               |About other Open Science communities
-[Website](#website)                                   |About this website
-[Information for speakers](#information-for-speakers) |Information for speakers
-[Volunteering](#volunteering)                         |Volunteering at OSU
-[Contact](#contact)                                   |How to contact us
+Section                                                          |Description
+-----------------------------------------------------------------|-------------------
+[Open Science](#open-science)                                    |About Open Science
+[Open Science Community Uppsala](#open-science-community-uppsala)|About us
+[Other communities](#other-communities)                          |About other Open Science communities
+[Website](#website)                                              |About this website
+[Information for speakers](#information-for-speakers)            |Information for speakers
+[Volunteering](#volunteering)                                    |Volunteering at OSCU
+[Contact](#contact)                                              |How to contact us
 
 ## Open Science
 
@@ -39,9 +39,9 @@ here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ar
 
 - [Search Google Scholar for 'Open Science'](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=open+science&btnG=)
 
-## Open Science Uppsala
+## Open Science Community Uppsala
 
-### What is the goal of Open Science Uppsala?
+### What is the goal of Open Science Community Uppsala?
 
 - to **teach** one another about Open Science (e.g. by reading papers)
 - to **discuss** Open Science
@@ -53,9 +53,9 @@ here is one from [the UNESCO Open Science toolkit](https://unesdoc.unesco.org/ar
 - at a **public location** (i.e. non-scientists can reach the venue)
 - in a **scholarly** way (i.e. we embrace the scientific method in our discussions)
 
-### What activities does Open Science Uppsala organize?
+### What activities does Open Science Community Uppsala organize?
 
-Activities by OSU are, among others:
+Activities by OSCU are, among others:
 
 - Discussing Open Science papers
 - Speakers that discuss an aspect of Open Science
@@ -71,11 +71,11 @@ No.
 
 You are always welcome :-)
 
-### How can I follow Open Science Uppsala?
+### How can I follow Open Science Community Uppsala?
 
 See [Follow us](follow.md) on how to follow us.
 
-### Why is Open Science Uppsala at the Stadsbibliotek? Why not at the university?
+### Why is Open Science Community Uppsala at the Stadsbibliotek? Why not at the university?
 
 Because the meetings are intended to be open to everyone
 that wants to discuss the scientific method in general
@@ -176,10 +176,10 @@ This is the schedule:
 
 When         |What
 -------------|-----------------------------------------------------------
-15:30-15:45  |OSU host prepares
+15:30-15:45  |OSCU host prepares
 15:45-16:00  |Speaker arrives, prepare technicalities
 16:00-16:15  |Audience is welcome
-16:15-16:16  |Introduction about OSU
+16:15-16:16  |Introduction about OSCU
 16:16-17:00  |Talk, including questions
 17:00 onwards|End of meeting, option to join us to the pub after cleaning
 
@@ -231,7 +231,7 @@ Ordered alphabetically on first name:
   ![OSF logo](pics/osf_logo_16_x_16.png)
   [Richel Bilderbeek](https://osf.io/5dtem/)
 
-### What is the current structure of Open Science Uppsala?
+### What is the current structure of Open Science Community Uppsala?
 
 - Chairman: Richel
 - Communication in/out: Richel
@@ -268,7 +268,7 @@ Yes, everyone is welcome.
 
 ### I want to help organize! How does the team work?
 
-The volunteers determine what Open Science Uppsala is,
+The volunteers determine what Open Science Community Uppsala is,
 hence voting is democratic:
 most votes win.
 All votes are equal.
@@ -286,7 +286,7 @@ You can:
 
 ## Contact
 
-### How do I contact Open Science Uppsala?
+### How do I contact Open Science Community Uppsala?
 
 See [Contact us](contact_us.md).
 

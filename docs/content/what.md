@@ -1,18 +1,18 @@
-# What is Open Science Uppsala?
+# What is Open Science Community Uppsala?
 
-![The Open Science Uppsala logo](../logo/osu_logo_25.png)
+![The Open Science Community Uppsala logo](../logo/oscu_logo.png)
 
-> The Open Science Uppsala logo
+> The Open Science Community Uppsala logo
 
-Open Science Uppsala is the local Uppsala Open Science community
+Open Science Community Uppsala is the local Uppsala Open Science community
 that discusses the pros and cons of Open Science
 by means of discussing papers and inviting speakers.
 
-The goal of Open Science Uppsala is:
+The goal of Open Science Community Uppsala is:
 
 - to **teach** one another about Open Science (e.g. by reading papers)
 - to **discuss** Open Science
-- using **English** as the main language (i.e. most academic papers are English)
+- using **English** as the main language (i.e. most presentations are English)
 - **regularily** (e.g. once a month)
 - for **everyone** (i.e. non-scientists are also welcome)
 - in **Uppsala** (i.e. in-person meetings)

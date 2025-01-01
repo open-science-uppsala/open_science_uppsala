@@ -15,5 +15,5 @@ You can do so by:
 
 There will be a tendency to accept your contributions
 when it helps achieve this website's goal,
-which is to help people understand what OSU is, its ideas
+which is to help people understand what OSCU is, its ideas
 and its activities.

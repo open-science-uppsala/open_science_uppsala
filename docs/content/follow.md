@@ -1,8 +1,8 @@
-# How to follow Open Science Uppsala
+# How to follow Open Science Community Uppsala
 
-![The Open Science Uppsala logo](../logo/osu_logo_25.png)
+![The Open Science Community Uppsala logo](../logo/osuc_logo.png)
 
-> The Open Science Uppsala logo
+> The Open Science Community Uppsala logo
 
 Great to see you are interested in our Open Science community!
 
@@ -17,6 +17,6 @@ Logo                                                |Link
 
 Or share the URL of this website with this QR code:
 
-![Open Science Uppsala homepage link](bit.ly_open_science_uppsala.png)
+![Open Science Community Uppsala homepage link](bit.ly_open_science_community_uppsala.png)
 
-> QR code to Open Science Uppsala homepage
+> QR code to Open Science Community Uppsala homepage
