@@ -1,6 +1,6 @@
 # Open Science Uppsala
 
-![The Open Science Uppsala logo](docs/logo/osu_logo_25.png)
+![The Open Science Uppsala logo](docs/logo/oscu_logo.png)
 
 <!-- markdownlint-disable MD013 -->
 
