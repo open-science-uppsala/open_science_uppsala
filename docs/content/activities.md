@@ -1,5 +1,9 @@
 # Activities
 
+![20250110: Ismail Elouafiq](20250110_ismail_elouafiq/20250110_ismail_elouafiq.jpg)
+
+> Our next activity
+
 We usually have a speaker at the second Friday of the month,
 see schedule below.
 
