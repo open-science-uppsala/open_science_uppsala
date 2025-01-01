@@ -1,6 +1,7 @@
 site_name: Open Science Community Uppsala
 
-repo_url: https://github.com/open-science-uppsala/open_science_uppsala
+repo_url: https://github.com/open-science-community-uppsala/open_science_community_uppsala
+edit_uri: blob/main/docs/
 
 nav:
   - What:
