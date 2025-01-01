@@ -1,6 +1,6 @@
 # What is Open Science Community Uppsala?
 
-![The Open Science Community Uppsala logo](../logo/oscu_logo.png)
+![The Open Science Community Uppsala logo](../logo/oscu_logo_25.png)
 
 > The Open Science Community Uppsala logo
 

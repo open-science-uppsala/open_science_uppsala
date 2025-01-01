@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-![Open Science Community Uppsala logo](../logo/oscu_logo.png)
+![Open Science Community Uppsala logo](../logo/oscu_logo_25.png)
 
 > The Open Science Community Uppsala logo
 
@@ -99,7 +99,7 @@ See [the 'data' section](../data/README.md), where you can find all data.
 - 2025-01-01: Change name to Open Science Community Uppsala
 - 202?-??-??: OSCU was founded, named 'Open Science Uppsala'
 
-![OSU logo](../logo/osu_logo.png)
+![OSU logo](../logo/osu_logo_25.png)
 
 ## Other communities
 

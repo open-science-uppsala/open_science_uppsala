@@ -1,6 +1,6 @@
 # Open Science Community Uppsala
 
-![The Open Science Community Uppsala logo](logo/oscu_logo.png)
+![The Open Science Community Uppsala logo](logo/oscu_logo_25.png)
 
 Welcome to the homepage of Open Science Community Uppsala,
 the local Open Science community in Uppsala.
