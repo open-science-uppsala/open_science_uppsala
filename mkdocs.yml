@@ -1,17 +1,17 @@
-site_name: Open Science Uppsala
+site_name: Open Science Community Uppsala
 
 repo_url: https://github.com/open-science-uppsala/open_science_uppsala
 
 nav:
   - What:
-    - What is Open Science Uppsala: content/what.md
+    - What is Open Science Community Uppsala: content/what.md
   - Where:
-    - Where is Open Science Uppsala: content/where.md
+    - Where is Open Science Community Uppsala: content/where.md
   - Activities:
     - Activities: content/activities.md
     - Past events: content/events.md
   - Follow us:
-    - How to follow Open Science Uppsala: content/follow.md
+    - How to follow Open Science Community Uppsala: content/follow.md
   - FAQ:
     - Frequently asked questions: content/faq.md
   - Contact us:
@@ -19,12 +19,12 @@ nav:
 
 theme:
   name: material
-  greetings: Welcome to Open Science Uppsala
+  greetings: Welcome to Open Science Community Uppsala
   font:
     text: Lato
     code: JetBrains Mono
 
-  logo: logo/osu_logo.png
+  logo: logo/oscu_logo.png
 
   features:
     - toc.integrate
