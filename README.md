@@ -1,6 +1,6 @@
-# Open Science Uppsala
+# Open Science Community Uppsala
 
-![The Open Science Uppsala logo](docs/logo/oscu_logo.png)
+![The Open Science Community Uppsala logo](docs/logo/oscu_logo.png)
 
 <!-- markdownlint-disable MD013 -->
 
@@ -11,7 +11,7 @@
 
 <!-- markdownlint-enable MD013 -->
 
-Homepage of Open Science Uppsala.
+Homepage of Open Science Community Uppsala.
 
 - [Contributing](docs/CONTRIBUTING.md)
 
