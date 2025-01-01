@@ -23,7 +23,8 @@ theme:
   font:
     text: Lato
     code: JetBrains Mono
-
+  palette:
+    primary: white
   logo: logo/oscu_logo.png
 
   features:
