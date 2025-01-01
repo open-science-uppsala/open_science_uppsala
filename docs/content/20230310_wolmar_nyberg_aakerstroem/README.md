@@ -23,7 +23,7 @@ keywords:
 - computational workflow
 - code availability
 references:
-- <https://open-science-uppsala.github.io/open_science_uppsala/>
+- <https://open-science-community-uppsala.github.io/open_science_community_uppsala/>
 publisher: National Bioinformatics Infrastructure Sweden (NBIS) / ELIXIR Sweden
 citation: "Nyberg Åkerström, Wolmar (2022). Research outputs beyond the paper: Code, research software & computational workflows. Available at: <https://doi.org/10.17044/scilifelab.22249429>"
 

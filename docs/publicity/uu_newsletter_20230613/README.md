@@ -32,7 +32,7 @@ Kanaler för mer information
 - Vi har en e-postlista, ett Twitter-konto, en Facebook-grupp och en LinkedIn-grupp, berättar Richèl Bilderbeek. Genom de här kanalerna ökar vi synligheten för vårt nätverk samtidigt som intresserade kan hålla sig informerad om våra aktiviteter och program.
 
 Läs mer
-Open Science Uppsala inklusive aktuellt program <https://open-science-uppsala.github.io/open_science_uppsala/>
+Open Science Uppsala inklusive aktuellt program <https://open-science-community-uppsala.github.io/open_science_community_uppsala/>
 E-postlista <https://www.freelists.org/list/osu>
 LinkedIn <https://www.linkedin.com/groups/9261540/>
 Twitter <https://twitter.com/opensciupp>
