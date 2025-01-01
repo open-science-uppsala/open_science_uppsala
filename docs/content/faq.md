@@ -94,6 +94,13 @@ and Open Science in particular.
 
 See [the 'data' section](../data/README.md), where you can find all data.
 
+### What is the history of OSCU?
+
+- 2025-01-01: Change name to Open Science Community Uppsala
+- 202?-??-??: OSCU was founded, named 'Open Science Uppsala'
+
+![OSU logo](../logo/osu_logo.png)
+
 ## Other communities
 
 ### Which similar communities are there in Uppsala?
