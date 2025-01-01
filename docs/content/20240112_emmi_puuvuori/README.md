@@ -18,7 +18,7 @@
 
 Fredag 12 januari 16.15-17.00 OSU hälsar Emmi Puuvuori
 med föredrag 'Start of a practical application in open science - In Vivo Library'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### Längre text
 
@@ -36,4 +36,4 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>

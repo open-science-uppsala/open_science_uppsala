@@ -34,7 +34,7 @@ and cons of those potential policies.
 
 Fredag 10 november 16.15-17.00 OSU hälsar Adam Gill
 med föredrag 'Resource Allocation, Timing, and Transparency in Peer Review: A Case Study of Economics Researchers'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### Längre text
 
@@ -52,7 +52,7 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ## Emaillist
 
@@ -77,7 +77,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 
 ## Talk descriptions

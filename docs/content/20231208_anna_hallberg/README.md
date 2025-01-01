@@ -20,7 +20,7 @@
 
 Fredag 8 december 16.15-17.00 OSU hälsar Anna Hallberg
 med föredrag 'What does Open Science mean for qualitative research?'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### Längre text
 
@@ -38,4 +38,4 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>

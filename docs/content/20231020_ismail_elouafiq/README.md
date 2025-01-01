@@ -20,7 +20,7 @@
 
 Fredag 20 oktober 16.15-17.00 OSU hälsar Ismail Elouafiq
 med föredrag 'Experiment on yourself: open citizen science in Uppsala'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### Längre text
 
@@ -38,7 +38,7 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ## LinkedIn
 
@@ -78,7 +78,7 @@ Experiment on yourself: open citizen science in Uppsala
 * When: 2023-10-20 16:15-17:00
 * Where: Uppsala Stadsbibliotek, Mallassal
 * Costs: none
-* More information: <https://bit.ly/open_science_uppsala>
+* More information: <https://bit.ly/osc_uppsala>
 
 ## Images by Ismail
 

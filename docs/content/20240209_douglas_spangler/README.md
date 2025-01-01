@@ -18,13 +18,13 @@
 
 Fredag 9 februari 16.15-17.00 OSU hälsar Douglas Spangler
 med föredrag 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### :gb: Short text
 
 Friday 9 February 2023 16:15-17:00, OSU welcomes Douglas Spangler
 with his presentation 'Open science, open source: Using open source software to implement machine learning risk prediction models at the Uppsala ambulance service'.
-More info at <https://bit.ly/open_science_uppsala>
+More info at <https://bit.ly/osc_uppsala>
 
 ### :sweden: Längre text
 
@@ -52,7 +52,7 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### :gb: Longer text
 
@@ -79,4 +79,4 @@ illustrated with examples of his/her own interest.
 Anyone who embraces the scientific method is welcome
 on praising and criticizing Open Science.
 
-More info at <https://bit.ly/open_science_uppsala>
+More info at <https://bit.ly/osc_uppsala>

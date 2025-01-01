@@ -40,7 +40,7 @@ It’s about what kind of knowledge we want
 * When: 2023-09-08 16:15-17:00
 * Where: Uppsala Stadsbibliotek, Mallassal
 * Costs: none
-* More information: <https://bit.ly/open_science_uppsala>
+* More information: <https://bit.ly/osc_uppsala>
 
 ## USB text
 
@@ -58,7 +58,7 @@ It’s about what kind of knowledge we want
 
 Fredag 8 september 16.15-17.00 OSU hälsar Martin Johnsson
 med föredrag 'It’s about what kind of knowledge we want'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### Längre text
 
@@ -76,4 +76,4 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>

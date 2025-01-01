@@ -161,5 +161,5 @@ Stadsbiblioteket by @GustavNilsonne, titled:
 
 ```text
 Open Science Uppsala, the Open Science community in Uppsala, 
-has a fancy homepage: http://bit.ly/open_science_uppsala #OpenScience #Uppsala
+has a fancy homepage: http://bit.ly/osc_uppsala #OpenScience #Uppsala
 ```text

@@ -302,7 +302,7 @@ See [Contact us](contact_us.md).
 - [Uppsala university library page on Open Science](https://www.uu.se/en/library/publish/open-science)
 - [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
 - [Open Science Radio](https://www.openscienceradio.org)
-- [https://bit.ly/open_science_uppsala](https://bit.ly/open_science_uppsala): shorter link to homepage
+- [https://bit.ly/osc_uppsala](https://bit.ly/osc_uppsala): shorter link to homepage
 - [https://github.com/open-science-uppsala/open_science_uppsala](https://github.com/open-science-uppsala/open_science_uppsala): GitHub page
 - [CODECHECK](https://codecheck.org.uk/): tests if a computational experiment can be reproduced
 - [ReproHack](https://www.reprohack.org/): tests if an academic paper can be reproduced

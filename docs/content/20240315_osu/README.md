@@ -21,13 +21,13 @@
 
 Friday 15th March 16:15-17:00 OSU leads a discussion about
 the Swedish Royal Library's natio­nal guide­li­nes for promoting open science.
-More info at <https://bit.ly/open_science_uppsala>
+More info at <https://bit.ly/osc_uppsala>
 
 #### Kort text på svenska
 
 Fredag 15 mars 16.15-17.00 ledar OSU en diskussion om
 Kungliga Bibliotekets nationella riktlinjer för öppen vetenskap.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### Longer text/längre text
 
@@ -51,7 +51,7 @@ illustrated with examples of his/her own interest.
 Anyone who embraces the scientific method is welcome
 on praising and criticizing Open Science.
 
-More info at <https://bit.ly/open_science_uppsala>
+More info at <https://bit.ly/osc_uppsala>
 
 #### Längre text på svenska
 
@@ -74,7 +74,7 @@ illustrerad med exempel av hans/hons egen interesse.
 Varje en som omfamnar den vetenskaplig metod är välkommen
 om att berömma och kritiserar Open Science.
 
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ## Presentations
 

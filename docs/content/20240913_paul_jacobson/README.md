@@ -20,13 +20,13 @@
 
 Fredag 13 september 16.15-17.00 OSU hälsar Paul Jacobson
 med föredrag 'Brain Training'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### :gb: Short text
 
 Friday 13th September 2023 16:15-17:00, OSU welcomes Paul Jacobson
 with his presentation 'Brain Training'.
-More info at <https://bit.ly/open_science_uppsala>
+More info at <https://bit.ly/osc_uppsala>
 
 
 ### :sweden: Längre text

@@ -19,7 +19,7 @@ Open Science events in Uppsala next months:
 
 - Friday 2025-01-10 Ismail Elouafiq: The joy of figuring things out
 
-Hope to see you at our events! As always, more info at the OSU website at https://bit.ly/open_science_uppsala.
+Hope to see you at our events! As always, more info at the OSU website at https://bit.ly/osc_uppsala.
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 ```
@@ -51,7 +51,7 @@ The European Union thinks Open Science is important. One of the facets of its st
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
 ```
 
@@ -82,7 +82,7 @@ In the Government’s Research and Innovation Bill “Research, freedom, future 
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
  * [3] Moved to one week later
 ```
@@ -114,7 +114,7 @@ Scientifically supported methods to train your brain.
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
  * [3] Moved to one week later
 ```
@@ -146,7 +146,7 @@ Cheers, Richel Bilderbeek, on behalf of the OSU team
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
  * [3] Moved to one week later
 ```
@@ -179,7 +179,7 @@ Writing down and publishing the analysis of a study before having seen the data 
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
 ```
 
@@ -209,7 +209,7 @@ Apart from its intra-scientific goals (such as ensuring the reproducibility of s
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
 ```
 
@@ -247,7 +247,7 @@ are procured and maintained in the public sector at large.
 
 ## Footnotes
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
 ```
 
@@ -282,7 +282,7 @@ She tries to follow the best Open Science practices
 
 ## Footnotes
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 * [2] By default, all events are in room Studion at Uppsala Stadsbibliotek
 ```
 
@@ -307,7 +307,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 
 ## Talk descriptions
@@ -342,7 +342,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 
 ```
@@ -369,7 +369,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 ```
 
@@ -396,7 +396,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 
 ```
@@ -425,7 +425,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 ```
 
 ## 2023-02-01
@@ -447,7 +447,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
-* [1] Open Science Uppsala, <https://bit.ly/open_science_uppsala>
+* [1] Open Science Uppsala, <https://bit.ly/osc_uppsala>
 ```
 
 ## 2023-01-02
@@ -470,7 +470,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
 ```
 
 <!-- markdownlint-enable MD013 -->

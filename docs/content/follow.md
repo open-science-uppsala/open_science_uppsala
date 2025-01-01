@@ -17,6 +17,6 @@ Logo                                                |Link
 
 Or share the URL of this website with this QR code:
 
-![Open Science Community Uppsala homepage link](bit.ly_open_science_community_uppsala.png)
+![Open Science Community Uppsala homepage link](bit.ly_osc_uppsala.png)
 
 > QR code to Open Science Community Uppsala homepage

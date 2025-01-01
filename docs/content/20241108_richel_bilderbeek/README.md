@@ -20,13 +20,13 @@
 
 Fredag 8:e November 16.15-17.00 OSU hälsar Richel Bilderbeek
 med föredrag 'Open Science and humans being scientists'.
-Fler info på <https://bit.ly/open_science_uppsala>
+Fler info på <https://bit.ly/osc_uppsala>
 
 ### :gb: Short text
 
 Friday 8th November 2023 16:15-17:00, OSU welcomes Richel Bilderbeek
 with his presentation 'Open Science and humans being scientists'.
-More info at <https://bit.ly/open_science_uppsala>
+More info at <https://bit.ly/osc_uppsala>
 
 
 ### :sweden: Längre text

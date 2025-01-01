@@ -65,7 +65,7 @@ Hope to see you at our events! As always, more info at the OSU website [1].
 
 Cheers, Richel Bilderbeek, on behalf of the OSU team
 
- * [1] Open Science Uppsala, https://bit.ly/open_science_uppsala
+ * [1] Open Science Uppsala, https://bit.ly/osc_uppsala
  * [2] By default, all events are in the Mallassal at Uppsala Stadsbibliotek
 ```text
 
