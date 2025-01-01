@@ -1,6 +1,21 @@
 # logo
 
-Open Science Uppsala has the following logo
+## Current and second logo
+
+
+From 2025-01-01, this community was renamed to
+'Open Science Community Uppsala'.
+
+The first mock logo was taken from
+[the Open Science Community Utrecht](https://openscience-utrecht.com/):
+
+![OSCU logo](oscu_logo.png)
+
+## First logo
+
+From 2022 to and including 2024, Open Science Community Uppsala
+(then called 'Open Science Uppsala')
+has had the following logo
 
 ![The full-size OSU logo](osu_logo.png)
 
