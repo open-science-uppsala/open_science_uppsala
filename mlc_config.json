@@ -3,8 +3,15 @@
     "ignorePatterns": [
         {
             "pattern": [
-                "^https://www.reprohack.org/"
+                "^https://opensciencesweden.org/"
+             ]
+        },
+        {
+            "pattern": [
+                "^https://sops4ri.eu/"
              ]
         }
     ]
 }
+
+
