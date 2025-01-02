@@ -1,0 +1,98 @@
+{
+  "contributors": [
+    {
+      "contributorName": "Open Science Framework",
+      "contributorType": "HostingInstitution",
+      "name": "Open Science Framework",
+      "nameIdentifiers": [
+        {
+          "name": "Open Science Framework",
+          "nameIdentifier": "https://ror.org/05d5mza29",
+          "nameIdentifierScheme": "ROR"
+        },
+        {
+          "name": "Open Science Framework",
+          "nameIdentifier": "https://grid.ac/institutes/grid.466501.0/",
+          "nameIdentifierScheme": "GRID"
+        }
+      ],
+      "nameType": "Organizational"
+    }
+  ],
+  "creators": [
+    {
+      "affiliation": [],
+      "name": "Gustav Nilsonne",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "https://osf.io/nolrw",
+          "nameIdentifierScheme": "URL"
+        },
+        {
+          "nameIdentifier": "http://twitter.com/GustavNilsonne",
+          "nameIdentifierScheme": "URL"
+        },
+        {
+          "nameIdentifier": "http://orcid.org/0000-0001-5273-0150",
+          "nameIdentifierScheme": "URL"
+        },
+        {
+          "nameIdentifier": "http://nilsonne.net",
+          "nameIdentifierScheme": "URL"
+        },
+        {
+          "nameIdentifier": "http://scholar.google.com/citations?user=mXzy9UIAAAAJ",
+          "nameIdentifierScheme": "URL"
+        },
+        {
+          "nameIdentifier": "http://github.com/GNilsonne",
+          "nameIdentifierScheme": "URL"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2023-01-13",
+      "dateType": "Created"
+    },
+    {
+      "date": "2023-01-13",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [],
+  "fundingReferences": [],
+  "identifiers": [
+    {
+      "identifier": "",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "https://osf.io/ung8q",
+      "identifierType": "URL"
+    }
+  ],
+  "publicationYear": "2023",
+  "publisher": "Open Science Framework",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://osf.io/shbhq",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "rightsList": [],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "subjects": [],
+  "titles": [
+    {
+      "title": "2023-01-13 Transparency and reproducibility Uppsala.pdf"
+    }
+  ],
+  "types": {
+    "resourceType": "File",
+    "resourceTypeGeneral": "Text"
+  }
+}
